@@ -2,3 +2,12 @@ site_name: BlueGrid Docs
 
 theme:
   name: material
+
+nav: 
+  - Introduction: "index.md"
+  - Tutorial:
+    - Tuturial Subsection: "pages/tutorial.md"
+  - About: "pages/about.md"
+  - FAG: "pages/fag.md"
+
+
