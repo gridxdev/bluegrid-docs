@@ -2,6 +2,13 @@ site_name: BlueGrid Docs
 
 theme:
   name: material
+  feature: 
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+
+plugins:
+  - search
 
 nav: 
   - Introduction: "index.md"
