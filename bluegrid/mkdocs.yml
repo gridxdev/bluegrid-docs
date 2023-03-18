@@ -10,11 +10,24 @@ theme:
 plugins:
   - search
 
+markdown_extensions:
+  - attr_list
+  - md_in_html
+
 nav: 
-  - Introduction: "index.md"
-  - Tutorial:
-    - Tuturial Subsection: "pages/tutorial.md"
-  - About: "pages/about.md"
-  - FAG: "pages/fag.md"
+  # - Introduction: "index.md"
+  # - Tutorial:
+    - Get Started: "pages/started.md"
+    - Create and open a Project: "pages/create.md"
+    - Import PDF files: "pages/importpdf.md"
+    - Quantity take-off: 
+      - Setting scale: "pages/setscale.md"
+      - Take-off tools: "pages/takeofftools.md"
+      - Annotation tools: "pages/animationtools.md"
+      - Point snap: "pages/pointsnap.md"
+      - Path snap: "pages/pathsnap.md"
+
+  # - About: "pages/about.md"
+  # - FAG: "pages/fag.md"
 
 
