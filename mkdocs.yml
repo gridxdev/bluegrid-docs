@@ -16,7 +16,7 @@ markdown_extensions:
 
 nav: 
 
-    - Create a project: "pages/overview.md"
+    - Create a project: "pages/create.md"
     - Open a project: "pages/open_project.md"
     - Import/export pdf files: "pages/import_export_pdf.md"
     - Materials: "pages/material.md"
