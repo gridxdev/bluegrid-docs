@@ -18,8 +18,10 @@ nav:
   # - Introduction: "index.md"
   # - Tutorial:
     - Get Started: "pages/started.md"
-    - Create and open a Project: "pages/create.md"
-    - Import PDF files: "pages/importpdf.md"
+    - Create a project: "pages/create.md"
+    - Open a project: "pages/openproject.md"
+    - Import PDF files: "pages/import_export_pdf.md"
+    - Materials: "pages/material.md"
     - Quantity take-off: 
       - Setting scale: "pages/setscale.md"
       - Take-off tools: "pages/takeofftools.md"
