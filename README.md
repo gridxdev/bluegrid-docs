@@ -1,1 +1,1 @@
-# BlueGrid-Docs
+# BlueGrid-Manual

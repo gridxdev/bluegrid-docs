@@ -1,4 +1,4 @@
-site_name: BlueGrid Docs
+site_name: BlueGrid
 
 theme:
   name: material
@@ -15,12 +15,10 @@ markdown_extensions:
   - md_in_html
 
 nav: 
-  # - Introduction: "index.md"
-  # - Tutorial:
-    - Overview: "pages/started.md"
+
     - Create a project: "pages/overview.md"
     - Open a project: "pages/open_project.md"
-    - Import/export PDF files: "pages/import_export_pdf.md"
+    - Import/export pdf files: "pages/import_export_pdf.md"
     - Materials: "pages/material.md"
     - Quantity take-off: 
       - Setting scale: "pages/set_scale.md"
