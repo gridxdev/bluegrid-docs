@@ -22,15 +22,15 @@ markdown_extensions:
 nav:
 #  - Overview: 'index.md'
   - Create a project: "pages/create.md"
-  - Open a project: "pages/open_project.md"
-  - Import/export pdf files: "pages/import_export_pdf.md"
-  - Materials: "pages/material.md"
-  - Quantity take-off:
-    - Setting scale: "pages/set_scale.md"
-    - Take-off tools: "pages/take_off_tools.md"
-    - Annotation tools: "pages/annotation_tools.md"
-    - Snaps:
-      - Point snap: "pages/point_snap.md"
+#  - Open a project: "pages/open_project.md"
+#  - Import/export pdf files: "pages/import_export_pdf.md"
+#  - Materials: "pages/material.md"
+#  - Quantity take-off:
+#    - Setting scale: "pages/set_scale.md"
+#    - Take-off tools: "pages/take_off_tools.md"
+#    - Annotation tools: "pages/annotation_tools.md"
+#    - Snaps:
+#      - Point snap: "pages/point_snap.md"
 
   # - About: "pages/about.md"
   # - FAG: "pages/fag.md"
