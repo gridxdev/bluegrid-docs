@@ -9,11 +9,12 @@ theme:
     - navigation.top
   palette:
     primary: blue
-  logo: assets/images/favicon.png
-  favicon: assets/images/favicon.ico
+  logo: assets/media/favicon.png
+  favicon: assets/media/favicon.ico
 
 plugins:
   - search
+  - mkdocs-video
 
 markdown_extensions:
   - attr_list
@@ -21,7 +22,7 @@ markdown_extensions:
 
 nav:
 #  - Overview: 'index.md'
-  - Create a project: "pages/create.md"
+  - Create a project: "create.md"
 #  - Open a project: "pages/open_project.md"
 #  - Import/export pdf files: "pages/import_export_pdf.md"
 #  - Materials: "pages/material.md"
