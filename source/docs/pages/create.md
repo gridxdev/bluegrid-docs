@@ -1,12 +1,8 @@
-To create a BlueGrid project users need to click "Create" button, navigate to the directory where the project will reside
-and set the project name.
+To create a BlueGrid project you need to click "Create" button, navigate to the directory where the project will reside
+and set the project name and finally hit save.
+
 
 <figure markdown>
-  ![Image title](images/Create.gif){ width="800" }
-  <figcaption>Image caption</figcaption>
-</figure>
-
-<figure markdown>
-  ![Image title](images/create.mov){ width="800" }
-  <figcaption>Image caption</figcaption>
+  ![Image title](images/create_project.mp4){ width="800" }
+  <figcaption>Create a BlueGrid project</figcaption>
 </figure>
