@@ -8,7 +8,7 @@ theme:
     - navigation.path
     - navigation.top
   palette:
-    primary: blue
+#    primary: Orange
   logo: assets/media/favicon.png
   favicon: assets/media/favicon.ico
 
@@ -19,6 +19,8 @@ plugins:
 markdown_extensions:
   - attr_list
   - md_in_html
+  - toc:
+      baselevel: 2
 
 
 nav:
@@ -28,6 +30,8 @@ nav:
       - Open: "open_project.md"
   - PDF files:
       - Import: "import_pdf.md"
+      - Remove PDF files: "remove_pdf_file.md"
+      - Remove PDF pages: "remove_pages.md"
 
 #  - Import/export pdf files: "pages/import_export_pdf.md"
 #  - Materials: "pages/material.md"
