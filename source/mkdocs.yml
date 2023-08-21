@@ -24,10 +24,10 @@ markdown_extensions:
 nav:
 #  - Overview: 'index.md'
   - Project:
-      - Create a project: "create.md"
-      - Open a project: "open_project.md"
+      - Create: "create.md"
+      - Open: "open_project.md"
   - PDF files:
-      - Import pdf files: "import_pdf.md"
+      - Import: "import_pdf.md"
 
 #  - Import/export pdf files: "pages/import_export_pdf.md"
 #  - Materials: "pages/material.md"
