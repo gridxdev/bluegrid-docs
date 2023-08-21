@@ -20,10 +20,15 @@ markdown_extensions:
   - attr_list
   - md_in_html
 
+
 nav:
 #  - Overview: 'index.md'
-  - Create a project: "create.md"
-#  - Open a project: "pages/open_project.md"
+  - Project:
+      - Create a project: "create.md"
+      - Open a project: "open_project.md"
+  - PDF files:
+      - Import pdf files: "import_pdf.md"
+
 #  - Import/export pdf files: "pages/import_export_pdf.md"
 #  - Materials: "pages/material.md"
 #  - Quantity take-off:
