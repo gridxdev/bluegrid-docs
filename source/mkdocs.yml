@@ -26,7 +26,7 @@ nav:
       - Create: "create.md"
       - Open: "open_project.md"
   - PDF:
-      - Import: "import_pdf.md"
+      - Import files: "import_pdf.md"
       - Remove files: "remove_pdf_file.md"
       - Remove pages: "remove_pages.md"
       - Append pages: "append_pages.md"
