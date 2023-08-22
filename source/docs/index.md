@@ -1,4 +1,4 @@
-# BlueGrid Manual
+Updating...
 
 [//]: # (For full documentation visit [mkdocs.org]&#40;https://www.mkdocs.org&#41;.)
 

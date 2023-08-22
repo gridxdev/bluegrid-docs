@@ -20,17 +20,18 @@ markdown_extensions:
   - attr_list
   - md_in_html
 
-
-
 nav:
-#  - Overview: 'index.md'
+  - Overview: 'index.md'
   - Project:
       - Create: "create.md"
       - Open: "open_project.md"
-  - PDF files:
+  - PDF:
       - Import: "import_pdf.md"
-      - Remove PDF files: "remove_pdf_file.md"
-      - Remove PDF pages: "remove_pages.md"
+      - Remove files: "remove_pdf_file.md"
+      - Remove pages: "remove_pages.md"
+      - Append pages: "append_pages.md"
+      - Export pages: "export_pdf.md"
+      - Replace pages: "replace_page.md"
 
 #  - Import/export pdf files: "pages/import_export_pdf.md"
 #  - Materials: "pages/material.md"
