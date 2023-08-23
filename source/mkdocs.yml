@@ -2,6 +2,7 @@ site_name: BlueGrid
 
 theme:
   name: material
+  custom_dir: overrides
   feature:
     - navigation.sections
     - navigation.expand
@@ -32,6 +33,7 @@ nav:
       - Append pages: "append_pages.md"
       - Export pages: "export_pdf.md"
       - Replace pages: "replace_page.md"
+      - Setting scale: "setting_scale.md"
 
 #  - Import/export pdf files: "pages/import_export_pdf.md"
 #  - Materials: "pages/material.md"
