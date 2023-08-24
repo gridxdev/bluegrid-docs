@@ -34,6 +34,7 @@ nav:
       - Export pages: "export_pdf.md"
       - Replace pages: "replace_page.md"
       - Setting scale: "setting_scale.md"
+      - Layers on/off: "pdf_layer.md"
 
 #  - Import/export pdf files: "pages/import_export_pdf.md"
 #  - Materials: "pages/material.md"
