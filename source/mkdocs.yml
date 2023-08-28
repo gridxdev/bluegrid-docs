@@ -46,6 +46,8 @@ nav:
       - Replace pages: "replace_page.md"
       - Setting scale: "setting_scale.md"
       - Layers on/off: "pdf_layer.md"
+  - Materials:
+      - Work breakdown structure: "wbs.md"
 
 
 #  - Materials: "pages/material.md"
