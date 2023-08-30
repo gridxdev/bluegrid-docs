@@ -47,7 +47,7 @@ nav:
       - Setting scale: "setting_scale.md"
       - Layers on/off: "pdf_layer.md"
   - Materials:
-      - Work breakdown structure: "wbs.md"
+      - Catalogs/WBS: "wbs.md"
 
 
 #  - Materials: "pages/material.md"
