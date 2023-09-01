@@ -37,7 +37,7 @@ nav:
   - Project:
       - Create: "create.md"
       - Open: "open_project.md"
-  - PDF:
+  - PDF/Blueprints:
       - Import files: "import_pdf.md"
       - Remove files: "remove_pdf_file.md"
       - Remove pages: "remove_pages.md"
@@ -46,7 +46,8 @@ nav:
       - Replace pages: "replace_page.md"
       - Setting scale: "setting_scale.md"
       - Layers on/off: "pdf_layer.md"
-  - Materials:
+  - Works/Materials:
       - Catalogs/WBS: "wbs.md"
+      - Materials: "material.md"
 
 

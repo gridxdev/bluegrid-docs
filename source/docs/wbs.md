@@ -11,7 +11,7 @@ A group item itself can have child items while the others are leaf items and do 
       ![type:video](assets/media/create_catalog.mp4)
 <figcaption>Create catalogs</figcaption>   
 
-<h3>I. Import/export catalogs:</h3>
+<h3>II. Import/export catalogs:</h3>
 With BlueGrid you can import, export catalogs for sharing, re-use in other projects:
 
    1. Import: From catalog tree view menu, select menu "Import catalog", navigate the catalog file, and hit open.
