@@ -8,6 +8,7 @@ theme:
     - navigation.expand
     - navigation.path
     - navigation.top
+    - navigation.footer
   palette:
     #Palette toggle for light mode
     - scheme: slate
@@ -49,5 +50,6 @@ nav:
   - Works/Materials:
       - Catalogs/WBS: "wbs.md"
       - Materials: "material.md"
+
 
 
