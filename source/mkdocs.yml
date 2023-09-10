@@ -32,6 +32,9 @@ plugins:
 markdown_extensions:
   - attr_list
   - md_in_html
+extra_css:
+  - assets/css/custom.css
+
 
 nav:
   - Overview: 'index.md'
