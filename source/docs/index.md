@@ -15,7 +15,7 @@ Modern construction quantity take-off and markups
 * **Work Breakdown Structure (WBS)**: Enables you to build, add, modify, customize, and standardize multiple WBSs.
 * **3D stack view**: Provides a 3D stack view for convenient work review.
 
-<h3>On plan features and functions</h3>
+<h3>On-plan features and functions</h3>
 * **Select snap**: Enables snap while transforming shapes.
 * **Pick shapes in PDF**: Creates shapes with one click pick.
 * **Select text in PDF blueprint**: Selects and copies text from PDF blueprints.
@@ -28,5 +28,6 @@ Modern construction quantity take-off and markups
 * **Cloud and enterprise functions**: Supports quantity management at the enterprise level.
 * **Cost module**:
 
+<h3>Demo</h3>
 
 
