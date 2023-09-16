@@ -1,4 +1,4 @@
-Modern construction quantity take-off and markups
+Modern construction quantity take-off and markups.
 
 <h3>Implemented features and functions</h3>
 * **PDF support**: Supports PDF files with vector and image formats.
@@ -13,7 +13,7 @@ Modern construction quantity take-off and markups
 * **Drag-and-drop material**: Allows you to drag and drop materials onto shapes.
 * **PDF layer**: Provides layer on/off functionality to focus on things that matter.
 * **Work Breakdown Structure (WBS)**: Enables you to build, add, modify, customize, and standardize multiple WBSs.
-* **3D stack view**: Provides a 3D stack view for convenient work review.
+* **3D stack view**: Provides a 3D view and animation for convenient work review.
 
 <h3>On-plan features and functions</h3>
 * **Select snap**: Enables snap while transforming shapes.
