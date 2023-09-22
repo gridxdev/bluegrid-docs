@@ -1,0 +1,9 @@
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi molestie velit id est sagittis mollis. Vivamus id feugiat purus, sit amet condimentum arcu. Nullam quis suscipit sapien. In tempor eget lorem quis pretium. Sed tortor felis, condimentum posuere viverra quis, condimentum eu felis. Fusce pulvinar odio lacus, non maximus diam vestibulum a. Sed congue gravida eros quis maximus. Cras consequat vitae ipsum nec ultricies. Vestibulum blandit libero eget metus vehicula, in eleifend est vestibulum.
+
+Ut nec tincidunt lorem. Phasellus ornare auctor libero, venenatis commodo turpis euismod ut. Praesent porta condimentum turpis quis consequat. Vivamus dapibus, dui in sodales maximus, augue libero rhoncus ante, non tristique odio purus et nibh. Cras pretium blandit quam vitae ornare. In sed ullamcorper mi, ut convallis diam. Etiam viverra dolor sem, vel faucibus enim tincidunt at. Nunc orci nulla, aliquet ut condimentum et, rutrum id nunc. Vivamus convallis, nulla in efficitur fermentum, est sem iaculis sapien, vel gravida mi urna nec elit. Suspendisse feugiat nulla in est dapibus, at pretium dolor iaculis. Vestibulum iaculis, elit in laoreet faucibus, libero felis lacinia ipsum, at malesuada lectus libero eget elit. Nam vulputate tincidunt dui vitae imperdiet. Vestibulum neque ante, porta hendrerit ex at, semper volutpat urna. Morbi elementum eleifend ultrices. Integer pharetra sodales consequat.
+
+<figure markdown>
+  <!-- ![Image title](https://dummyimage.com/600x400/){ width="300" } -->
+  <iframe src="https://giphy.com/embed/wTgYlmxctT2O4" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/jasonclarke-penguin-wTgYlmxctT2O4">via GIPHY</a></p>
+  <figcaption>Image caption</figcaption>
+</figure>
