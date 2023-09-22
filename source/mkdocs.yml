@@ -1,0 +1,55 @@
+site_name: BlueGrid
+
+theme:
+  name: material
+  custom_dir: overrides
+  feature:
+    - navigation.sections
+    - navigation.expand
+    - navigation.path
+    - navigation.top
+    - navigation.footer
+  palette:
+    #Palette toggle for light mode
+    - scheme: slate
+#      toggle:
+##        icon:material/brightness-4
+#        name:Switch to light mode
+#
+#    #Palette toggle for dark mode
+#    - scheme: default
+#      toggle:
+##        icon:material/brightness-4
+#        name:Switch to dark mode
+
+  logo: assets/media/favicon.png
+  favicon: assets/media/favicon.ico
+
+plugins:
+  - search
+  - mkdocs-video
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+
+nav:
+  - Overview: 'index.md'
+  - Project:
+      - Create: "create.md"
+      - Open: "open_project.md"
+  - PDF/Blueprints:
+      - Import files: "import_pdf.md"
+      - Remove files: "remove_pdf_file.md"
+      - Remove pages: "remove_pages.md"
+      - Append pages: "append_pages.md"
+      - Export pages: "export_pdf.md"
+      - Replace pages: "replace_page.md"
+      - Setting scale: "setting_scale.md"
+      - Layers on/off: "pdf_layer.md"
+  - Works/Materials:
+      - Catalogs/WBS: "wbs.md"
+      - Materials: "material.md"
+
+
+
