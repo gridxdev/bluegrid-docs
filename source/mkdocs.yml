@@ -8,7 +8,6 @@ theme:
     - navigation.expand
     - navigation.path
     - navigation.top
-    - navigation.footer
   palette:
     #Palette toggle for light mode
     - scheme: slate
@@ -32,6 +31,24 @@ plugins:
 markdown_extensions:
   - attr_list
   - md_in_html
+  - admonition
+#  - pymdownx.highlight
+#  - pymdownx.inlinehilite
+#  - pymdownx.snippets
+#  - pymdownx.superfences
+extra_css:
+  - assets/css/custom.css
+
+extra:
+  social:
+    - icon: fontawesome/solid/paper-plane
+      link: mailto:bluegrid@bluegridltd.com
+      name: email
+    - icon: fontawesome/brands/facebook
+      link: https://www.facebook.com/profile.php?id=100087744853278
+      name: facebook
+
+
 
 nav:
   - Overview: 'index.md'
