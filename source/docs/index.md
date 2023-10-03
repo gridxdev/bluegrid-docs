@@ -29,5 +29,55 @@ Modern construction quantity take-off and markups.
 * **Cost module**:
 
 <h3>Demo</h3>
+<figure markdown>
+  ![Image title](assets/image/mix.jpeg)
+  <figcaption>Mixed</figcaption>
+</figure>
+<figure markdown>
+  ![Image title](assets/image/area_1.png)
+  <figcaption>Flooring take-off 1</figcaption>
+</figure>
+
+<figure markdown>
+  ![Image title](assets/image/area_2.png)
+  <figcaption>Flooring take-off 2</figcaption>
+</figure>
+
+<figure markdown>
+  ![Image title](assets/image/area_3.png)
+  <figcaption>Flooring take-off 2</figcaption>
+</figure>
+
+<figure markdown>
+  ![Image title](assets/image/linear_1.png)
+  <figcaption>Linear take-off</figcaption>
+</figure>
+
+<figure markdown>
+  ![Image title](assets/image/count_1.png)
+  <figcaption>Count</figcaption>
+</figure>
+
+<figure markdown>
+  ![Image title](assets/image/blocks.png)
+  <figcaption>Count, blocks, cloud and texts</figcaption>
+</figure>
+
+<figure markdown>
+  ![Image title](assets/image/stack_view_1.png)
+  <figcaption>Stack view</figcaption>
+</figure>
+
+<figure markdown>
+  ![Image title](assets/image/document_view_1.png)
+  <figcaption>Document view</figcaption>
+</figure>
+
+<figure markdown>
+  ![Image title](assets/image/wbs.png)
+  <figcaption>Catalogs view</figcaption>
+</figure>
+
+
 
 
