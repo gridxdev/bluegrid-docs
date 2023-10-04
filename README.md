@@ -1,1 +1,1 @@
-# BlueGrid-Manual
+# BlueGrid official documentation repository
