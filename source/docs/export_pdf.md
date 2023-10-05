@@ -4,5 +4,5 @@ In BlueGrid you can export pdf pages with visual quantity markup and quantity li
 2. From the pages view, select pages to export, (*hold Ctrl down to select multiple pages*).
 3. From the page menu select the menu "Export pdf pages", 
 4. Locate the directory, set the file's name and click Save.
-![type:video](assets/media/export_pages.mp4)
+![type:video](https://www.youtube.com/embed/1TkAnGGe9sk)
 <figcaption>Export pages</figcaption>

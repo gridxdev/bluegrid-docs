@@ -5,5 +5,5 @@ A BlueGrid project is a file with the extension .bgp that contains all the infor
 The Start window shows the names and locations of the projects that you have created or opened before. To remove a project from the list, hover to the project item in the list and click the cross icon. 
 
 When you open a project, BlueGrid will show Documents view. You can switch to Draw view, Catalogs view, or open a page to start quantity take-off or markups.
-![type:video](assets/media/open_project.mp4)
+![type:video](https://www.youtube.com/embed/F6qiOvWwZOE?si=CX_BpSM8U77XnCnG)
 <figcaption>Open a project</figcaption>
