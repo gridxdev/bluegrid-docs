@@ -3,5 +3,5 @@ This instruction will show you how to remove PDF files from the Documents view. 
 1. Go to Documents view.
 2. From the file list, select the files that you want to delete.
 3. Go to the File menu and select the option "Remove PDF files".
-![type:video](assets/media/remove_pdf_file.mp4)
+![type:video](https://www.youtube.com/embed/wNityPXCH7E)
 <figcaption>Remove pdf files</figcaption>

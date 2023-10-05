@@ -3,5 +3,5 @@ This instruction will show you how to remove PDF pages, from a pdf file in Docum
 1. Go to Documents view, 
 2. On the pages view, select pages you want to remove (*hold Ctrl down to select multiple pages*),
 3. Go to page menu, select the menu "Remove pages". 
-![type:video](assets/media/remove_pages.mp4)
+![type:video](https://www.youtube.com/embed/pF7-XBC9DJo)
 <figcaption>Remove pages</figcaption>
