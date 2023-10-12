@@ -1,5 +1,4 @@
-In BlueGrid standard edition, shape tools are tools to draw almost any 2D shapes that are usually used in construction blueprints, such as line
-, rectangle, polygon, spline, path, shapes with wholes in side..etc. Metric values are derived from rendered visuals (what you see is what you get).
+In BlueGrid standard edition, shape tools are tools to draw almost any 2D shapes that are usually used in construction blueprints, such as line, rectangle, polygon, spline, path, shapes with wholes in side..etc. All shapes drawn using shape tools have metric values and can subscribe to material tags. Metric values are derived from shapes as rendered visuals (what you see is what you get).
 While drawing, to get the best accuracy, you should turn on point snap options.
 
 **1. Line tool:** A line is instituted from arbitrary two different points. To draw a line, select line tool, and pick two points.
@@ -20,11 +19,11 @@ While drawing, to get the best accuracy, you should turn on point snap options.
 
 **5. Circle tool:** BlueGrid provide two draw a circle. The first option allows you to draw a circle picking two points, one is the center and a the second is any point on the perimeter of the circle. The second option allows you to draw a circle of picking three arbitrary different 3 points on the perimeter of the circle.
 
-1. Option 1
+-  Option 1
 ![type:video]()
 <figcaption>Circle tool 2 points</figcaption>
 
-2. Option 2
+-  Option 2
 ![type:video]()
 <figcaption>Circle tool 3 points</figcaption>
 
@@ -63,4 +62,4 @@ While drawing, to get the best accuracy, you should turn on point snap options.
 <figcaption>Path tool - Simple shape</figcaption>
 
 ![type:video](https://www.youtube.com/embed/Jr9gPiua9Fg)
-<figcaption>Path tool - Shape with arc segments</figcaption>
+<figcaption>Path tool - Shape with different segment kinds</figcaption>
