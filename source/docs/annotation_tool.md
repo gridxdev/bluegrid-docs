@@ -30,14 +30,14 @@ Annotation tools allow you to draw many shapes, with or without texts to annotat
 **9.  Quad callout tool:**
 ![type:video](https://www.youtube.com/embed/rGIM0p5_zME?si=lnYRQy98fNY2vIwQ)
 
-**10.  Cubic callout tool:**
+**10. Cubic callout tool:**
 ![type:video](https://www.youtube.com/embed/dErGnX9CbdA?si=KM5rZ9mLyef0i7XQ)
 
-**11.  Cloud callout tool:**
-![type:vidoe](https://www.youtube.com/embed/0s2UED0liN8?si=ELq7z89nl6VoLwOV)
+**11. Cloud callout tool:**
+![type:video](https://www.youtube.com/embed/nODkIMDveNM?si=ui3YEmmNCkp0aEEE)
 
 **12. Cloud quad callout tool:**
-
+![type:video](https://www.youtube.com/embed/qX0RFsB1Eec?si=Icewm4a6zubV1BI)
 
 **13. Cloud Cubic callout tool:**
 ![type:video](https://www.youtube.com/embed/QzTPXwFlPe8?si=3UgR38p3O6bjBuN8)
