@@ -17,7 +17,7 @@ While drawing, to get the best accuracy, you should turn on point snap options.
 ![type:video](https://www.youtube.com/embed/gHu_S0vmN6A?si=5fkFvPhGMs_Zo7hv)
 <figcaption>Rectangle tool</figcaption>
 
-**5. Circle tool:** BlueGrid provide two draw a circle. The first option allows you to draw a circle picking two points, one is the center and a the second is any point on the perimeter of the circle. The second option allows you to draw a circle of picking three arbitrary different 3 points on the perimeter of the circle.
+**5. Circle tool:** BlueGrid provide two options draw a circle: The first option allows you to draw a circle by picking two points, one is the center and the second is any point on the perimeter of the circle. The second option allows you to draw a circle of picking three arbitrary different 3 points on the perimeter of the circle.
 ![type:video](https://www.youtube.com/embed/0hyQ1GY32Ek?si=-Ax05IJfbSqHCMlm)
 <figcaption>Circle tool 3 points</figcaption>
 
