@@ -71,6 +71,7 @@ nav:
       - Shape tools: "shape_tool.md"
       - Annotation tools: "annotation_tool.md"
       - Block tools: "block_tool.md"
+      - Styling: "styling.md"
   - Transform and Modify: "transform.md"
   - Resources: "resource.md"
   - Contact: "contact.md"
