@@ -14,49 +14,40 @@ While drawing, to get the best accuracy, you should turn on point snap options.
 <figcaption>Polygon tool</figcaption>
 
 **4. Rectangle tool:** To draw a rectangle pick two oposite corners of the rectangle. 
-![type:video]()
+![type:video](https://www.youtube.com/embed/gHu_S0vmN6A?si=5fkFvPhGMs_Zo7hv)
 <figcaption>Rectangle tool</figcaption>
 
 **5. Circle tool:** BlueGrid provide two draw a circle. The first option allows you to draw a circle picking two points, one is the center and a the second is any point on the perimeter of the circle. The second option allows you to draw a circle of picking three arbitrary different 3 points on the perimeter of the circle.
-
--  Option 1
-![type:video]()
-<figcaption>Circle tool 2 points</figcaption>
-
--  Option 2
-![type:video]()
+![type:video](https://www.youtube.com/embed/0hyQ1GY32Ek?si=-Ax05IJfbSqHCMlm)
 <figcaption>Circle tool 3 points</figcaption>
 
 
 **6. Ellipse tool:** To draw an ellipse, pick the center of the ellipse and then pick any corner of the virtual rectangle bounds of the ellipse. 
-![type:video]()
-<figcaption>Ellipse tool</figcaption>
 
 
-**7. Arc tool:** An arc (circle arc) is a segment of the subcribe circle. To draw an arce, pick three different points on the arc.
-![type:video]()
+
+**7. Arc tool:** An arc (circle arc) is a segment of the subscribe circle. To draw an arce, pick three different points on the arc.
+![type:video](https://www.youtube.com/embed/vEmBnFBvqx8?si=7iVN1ZNNp06Sr-v6)
 <figcaption>Arc tool</figcaption>
 
 
 **8. Quad curve tool:** A quadratic curve is derived from three different points. To draw a quad curve, pick three different points.
-![type:video]()
-<figcaption>Quad tool</figcaption>
 
-**8. Cubic curve tool:** A cubic curve is derived from four different points. To draw a quad curve, pick four different points.
-![type:video]()
-<figcaption>Cubic tool</figcaption>
 
-**9. Path tool:** A path is a complex shape, it renders a shape with multiple kind of segments such line, skip (empty distance), quadratic segments, cubic segments, arc segments, and with zero or multiple wholes inside. To use different segment kinds while drawing a path, you switch to path mode as required. You can switch directly from path mode choice box or switch by using shortcut keys. Below is path mode shortcut keys table:
+**9. Cubic curve tool:** A cubic curve is derived from four different points. To draw a quad curve, pick four different points.
 
-| Key  | Mode                     | Draw                    | 
-| :----| :------------------------|:----------------------- |
-| 0    | Move to (skip/jump) mode | Pick one point          |
-| 1    | Line segment mode        | Pick one more point     |
-| 2    | Quad segment mode        | Pick two more point     |
-| 3    | Cubic segment mode       | Pick three more point   |
-| 4    | Arc segment mode         | Pick twoo more point    |
-| 5    | Close mode               |                         |
-| Space| Cancel last segmentt     |                         |
+
+**10. Path tool:** A path is a complex shape, it renders a shape with multiple kind of segments such line, skip (empty distance), quadratic segments, cubic segments, arc segments, and with zero or multiple wholes inside. To use different segment kinds while drawing a path, you switch to path mode as required. You can switch directly from path mode choice box or switch by using shortcut keys. Below is path mode shortcut keys table:
+
+| Key  | Mode                     | Draw                   | 
+| :----| :------------------------|:-----------------------|
+| 0    | Move to (skip/jump) mode | Pick one point         |
+| 1    | Line segment mode        | Pick one more point    |
+| 2    | Quad segment mode        | Pick two more point    |
+| 3    | Cubic segment mode       | Pick three more point  |
+| 4    | Arc segment mode         | Pick two more point    |
+| 5    | Close mode               |                        |
+| Space| Cancel last segmentt     |                        |
     
 ![type:video](https://www.youtube.com/embed/YbrP_CiXLzM)
 <figcaption>Path tool - Simple shape</figcaption>
