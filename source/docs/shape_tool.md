@@ -1,11 +1,11 @@
-In BlueGrid standard edition, shape tools are tools to draw almost any 2D shapes that are usually used in construction blueprints, such as line, rectangle, polygon, spline, path, shapes with wholes in side..etc. All shapes drawn using shape tools have metric values and can subscribe to material tags. Metric values are derived from shapes as rendered visuals (what you see is what you get).
+In BlueGrid standard edition, shape tools are tools to draw almost any 2D shapes that are usually used in construction blueprints, such as line, rectangle, polygon, spline, path, shapes with wholes in side...etc. All shapes drawn using shape tools have metric values and can subscribe to material tags. Metric values are derived from shapes as rendered visuals (what you see is what you get).
 While drawing, to get the best accuracy, you should turn on point snap options.
 
 **1. Line tool:** A line is instituted from arbitrary two different points. To draw a line, select line tool, and pick two points.
 ![type:video](https://www.youtube.com/embed/jlWXRpokY8M?si=lifopBsON2MKEDrq)
 <figcaption>Line tool</figcaption>
 
-**2. Polyline tool:** A polyline is instituted from at least two points. To draw a polyline, select polyline tool, and pick at least two points, you can pick as many points as possible.
+**2. Polyline tool:** A polyline is formed from at least two points. To draw a polyline, select polyline tool, and pick at least two points, you can pick as many points as possible. To finish drawing the polyline, use mouse right click, the last point (unsettled point)  will be canceled.
 ![type:video](https://www.youtube.com/embed/sJQnOlWITtQ)
 <figcaption>Polyline tool</figcaption>
 
