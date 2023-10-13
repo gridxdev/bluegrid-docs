@@ -1,7 +1,7 @@
-In BlueGrid standard edition, shape tools are tools to draw almost any 2D shapes that are usually used in construction blueprints, such as line, rectangle, polygon, spline, path, shapes with wholes in side...etc. All shapes drawn using shape tools have metric values and can subscribe to material tags. Metric values are derived from shapes as rendered visuals (what you see is what you get).
+In BlueGrid standard edition, shape tools are tools to draw almost any type of 2D shapes that are usually used in construction blueprints, such as line, rectangle, polygon, spline, path, shapes with wholes in side...etc. All shapes drawn using shape tools have metric values and can subscribe to material tags. Metric values are derived from shapes as rendered visuals (what you see is what you get).
 While drawing, to get the best accuracy, you should turn on point snap options.
 
-**1. Line tool:** A line is instituted from arbitrary two different points. To draw a line, select line tool, and pick two points.
+**1. Line tool:** A line is formed from two different points. To draw a line, select line tool, and pick two different points.
 ![type:video](https://www.youtube.com/embed/jlWXRpokY8M?si=lifopBsON2MKEDrq)
 <figcaption>Line tool</figcaption>
 
@@ -13,7 +13,7 @@ While drawing, to get the best accuracy, you should turn on point snap options.
 ![type:video](https://www.youtube.com/embed/j86wBFtKKik)
 <figcaption>Polygon tool</figcaption>
 
-**4. Rectangle tool:** To draw a rectangle pick two oposite corners of the rectangle. 
+**4. Rectangle tool:** To draw a rectangle pick two opposite corners of the rectangle. 
 ![type:video](https://www.youtube.com/embed/gHu_S0vmN6A?si=5fkFvPhGMs_Zo7hv)
 <figcaption>Rectangle tool</figcaption>
 
@@ -22,11 +22,11 @@ While drawing, to get the best accuracy, you should turn on point snap options.
 <figcaption>Circle tool 3 points</figcaption>
 
 
-**6. Ellipse tool:** To draw an ellipse, pick the center of the ellipse and then pick any corner of the virtual rectangle bounds of the ellipse. 
+**6. Ellipse tool:** To draw an ellipse, pick the center of the ellipse and any corner of the virtual rectangle bounds of the ellipse. 
 
 
 
-**7. Arc tool:** An arc (circle arc) is a segment of the subscribe circle. To draw an arce, pick three different points on the arc.
+**7. Arc tool:** An arc (circle arc) is a segment of the subscribe circle. To draw an arc, pick three different points on the arc.
 ![type:video](https://www.youtube.com/embed/vEmBnFBvqx8?si=7iVN1ZNNp06Sr-v6)
 <figcaption>Arc tool</figcaption>
 
