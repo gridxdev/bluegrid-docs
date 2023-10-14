@@ -5,11 +5,11 @@ While drawing, to get the best accuracy, you should turn on point snap options.
 ![type:video](https://www.youtube.com/embed/jlWXRpokY8M?si=lifopBsON2MKEDrq)
 <figcaption>Line tool</figcaption>
 
-**2. Polyline tool:** A polyline is formed from at least two points. To draw a polyline, select polyline tool, and pick at least two points, you can pick as many points as possible. To finish drawing the polyline, use mouse right click, the last point (unsettled point)  will be canceled.
+**2. Polyline tool:** A polyline is formed from at least two points. The number of polyline points are infinite. To draw a polyline, select polyline tool, and pick vertices of the polyline. To finish drawing the polyline, right click, the last vertex (floating vertex)  will be canceled.
 ![type:video](https://www.youtube.com/embed/sJQnOlWITtQ)
 <figcaption>Polyline tool</figcaption>
 
-**3. Polygon tool:** A polygon is instituted from at least three points. A polygon is quite similar to a polyline, except that it is always a close shape. That means the start point and the end point are identical. To draw a polygon, select polygon tool, and pick at least three points, you can pick as many points as possible.
+**3. Polygon tool:** A polygon is formed from at least three points. The number of polygon points are infinite. A polygon is quite similar to a polyline, except that it is always a close shape, meaning the start point and the end point are identical. To draw a polygon, select polygon tool, and pick vertices of the polyline. To finish drawing the polygon, right click, the last floating vertex will be canceled.
 ![type:video](https://www.youtube.com/embed/j86wBFtKKik)
 <figcaption>Polygon tool</figcaption>
 
