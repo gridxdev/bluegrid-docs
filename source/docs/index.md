@@ -69,12 +69,12 @@ Modern construction quantity take-off and markups.
 </figure>
 
 <figure markdown>
-  ![Image title](assets/image/document_view_1.png)
+  ![Document view](assets/image/document_view_1.png)
   <figcaption>Document view</figcaption>
 </figure>
 
 <figure markdown>
-  ![Image title](assets/image/wbs.png)
+  ![Catalogs view](assets/image/wbs.png)
   <figcaption>Catalogs view</figcaption>
 </figure>
 

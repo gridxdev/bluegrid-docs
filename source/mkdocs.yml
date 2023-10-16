@@ -55,7 +55,7 @@ nav:
   - Project:
       - Create: "create.md"
       - Open: "open_project.md"
-  - PDF/Blueprints:
+  - PDF blueprints:
       - Import files: "import_pdf.md"
       - Remove files: "remove_pdf_file.md"
       - Remove pages: "remove_pages.md"
