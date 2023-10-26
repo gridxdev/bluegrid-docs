@@ -64,6 +64,11 @@ Modern construction quantity take-off and markups.
 </figure>
 
 <figure markdown>
+  ![Count, blocks, cloud and texts](assets/image/notes.png)
+  <figcaption>Notes</figcaption>
+</figure>
+
+<figure markdown>
   ![Stack view](assets/image/stack_view_1.png)
   <figcaption>Stack view</figcaption>
 </figure>
