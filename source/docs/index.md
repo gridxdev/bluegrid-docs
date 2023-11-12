@@ -1,5 +1,5 @@
-<h1 style="color: red">We are fixing license issue</h1>
-<h2 style="color: Yellow"> We apologize for your convenience with BlueGrid!</h2>
+<h1 style="color: red">We are the fixing license issue.</h1>
+<h2 style="color: Yellow"> We apologize for your inconvenience with BlueGrid!</h2>
 
 <hr>
 
