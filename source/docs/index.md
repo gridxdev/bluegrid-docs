@@ -1,3 +1,8 @@
+<h1 style="color: red">We are fixing license issues.</h1>
+<h2 style="color: Yellow"> We apologize for your inconvenience with BlueGrid!</h2>
+
+<hr>
+
 Modern construction quantity take-off and markups.
 
 <h3>Implemented features and functions</h3>
@@ -30,27 +35,27 @@ Modern construction quantity take-off and markups.
 
 <h3>Demo</h3>
 <figure markdown>
-  ![Image title](assets/image/mix.jpeg)
-  <figcaption>Mixed</figcaption>
+  ![Compilation](assets/image/mix.jpeg)
+  <figcaption>Compilation</figcaption>
 </figure>
 <figure markdown>
-  ![Image title](assets/image/area_1.png)
-  <figcaption>Flooring take-off 1</figcaption>
-</figure>
-
-<figure markdown>
-  ![Image title](assets/image/area_2.png)
-  <figcaption>Flooring take-off 2</figcaption>
+  ![IArea take-off 1](assets/image/area_1.png)
+  <figcaption>Area take-off 1</figcaption>
 </figure>
 
 <figure markdown>
-  ![Image title](assets/image/area_3.png)
-  <figcaption>Flooring take-off 2</figcaption>
+  ![Area take-off 2](assets/image/area_2.png)
+  <figcaption>Area take-off 2</figcaption>
+</figure>
+
+<figure markdown>
+  ![Area take-off 3](assets/image/area_3.png)
+  <figcaption>Area take-off 3</figcaption>
 </figure>
 
 <figure markdown>
   ![Image title](assets/image/linear_1.png)
-  <figcaption>Linear take-off</figcaption>
+  <figcaption>Area take-off</figcaption>
 </figure>
 
 <figure markdown>
@@ -59,22 +64,22 @@ Modern construction quantity take-off and markups.
 </figure>
 
 <figure markdown>
-  ![Image title](assets/image/blocks.png)
+  ![Count, blocks, cloud and texts](assets/image/blocks.png)
   <figcaption>Count, blocks, cloud and texts</figcaption>
 </figure>
 
 <figure markdown>
-  ![Image title](assets/image/stack_view_1.png)
+  ![Stack view](assets/image/stack_view_1.png)
   <figcaption>Stack view</figcaption>
 </figure>
 
 <figure markdown>
-  ![Image title](assets/image/document_view_1.png)
+  ![Document view](assets/image/document_view_1.png)
   <figcaption>Document view</figcaption>
 </figure>
 
 <figure markdown>
-  ![Image title](assets/image/wbs.png)
+  ![Catalogs view](assets/image/wbs.png)
   <figcaption>Catalogs view</figcaption>
 </figure>
 
