@@ -1,3 +1,8 @@
+<h1 style="color: red">We are fixing license issue</h1>
+<h2 style="color: Yellow"> We apologize for your convenience with BlueGrid!</h2>
+
+<hr>
+
 Modern construction quantity take-off and markups.
 
 <h3>Implemented features and functions</h3>
