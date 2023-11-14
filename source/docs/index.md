@@ -1,5 +1,4 @@
-<h1 style="color: red">We are fixing license issues.</h1>
-<h2 style="color: Yellow"> We apologize for your inconvenience with BlueGrid!</h2>
+<h1 style="color: darkorange">We are regularly shipping new updates and features. Your project data is long-term supported. Please stay updated!</h1>
 
 <hr>
 
