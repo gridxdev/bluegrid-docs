@@ -70,7 +70,7 @@ nav:
       - PDF Layers on/off: "pdf_layer.md"
       - Shape tools: "shape_tool.md"
       - Annotation tools: "annotation_tool.md"
-      - Block tools: "block_tool.md"
+      - Symbol tools: "symbol_tool.md"
       - Styling: "styling.md"
   - Transform and Modify: "transform.md"
   - Style: "style.md"
