@@ -61,7 +61,12 @@ Modern construction quantity take-off and markups.
 
 <figure markdown>
   ![Image title](assets/image/count_1.png)
-  <figcaption>Count</figcaption>
+  <figcaption>Count </figcaption>
+</figure>
+
+<figure markdown>
+  ![Image title](assets/image/count_2.png)
+  <figcaption>Count with symbols from PDF </figcaption>
 </figure>
 
 <figure markdown>
