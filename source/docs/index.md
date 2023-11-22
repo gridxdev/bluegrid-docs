@@ -21,17 +21,27 @@ Modern construction quantity take-off and markups.
 * **Work Breakdown Structure (WBS)**: Enables you to build, add, modify, customize, and standardize multiple WBSs.
 * **3D stack view**: Provides a 3D view and animation for convenient work review.
 
-<h3>On-plan features and functions</h3>
-* **Select snap**: Enables snap while transforming shapes.
-* **Select shapes in PDF**: Creates shapes with pdf selection.
-* **Select text in PDF blueprint**: Selects and copies text from PDF blueprints.
-* **Find text in PDF blueprint**: Enables text search in PDF.
-* **Compare/Review PDF**: Compares two versions of a blueprint.
-* **Auto find and count**: Automatically counts the number of similar blocks.
-* **Pick shapes and convert to symbol**: Picks a shape on a PDF and converts it into a block tool.
-* **Other quantity take-off tools**: Gradually fulfills the need of the industry.
-* **BlueGrid SDK for Python**: Allows conversion and transformation of data.
-* **Cloud and enterprise functions**: Supports quantity management at the enterprise level.
+[//]: # (<h3>On-plan features and functions</h3>)
+
+[//]: # (* **Select snap**: Enables snap while transforming shapes.)
+
+[//]: # (* **Select shapes in PDF**: Creates shapes with pdf selection.)
+
+[//]: # (* **Select text in PDF blueprint**: Selects and copies text from PDF blueprints.)
+
+[//]: # (* **Find text in PDF blueprint**: Enables text search in PDF.)
+
+[//]: # (* **Compare/Review PDF**: Compares two versions of a blueprint.)
+
+[//]: # (* **Auto find and count**: Automatically counts the number of similar blocks.)
+
+[//]: # (* **Pick shapes and convert to symbol**: Picks a shape on a PDF and converts it into a block tool.)
+
+[//]: # (* **Other quantity take-off tools**: Gradually fulfills the need of the industry.)
+
+[//]: # (* **BlueGrid SDK for Python**: Allows conversion and transformation of data.)
+
+[//]: # (* **Cloud and enterprise functions**: Supports quantity management at the enterprise level.)
 
 
 <h3>Demo</h3>
