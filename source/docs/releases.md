@@ -1,12 +1,13 @@
 ## Release notes
+
 ### Version 1.0.84
    
 - New features
-   - Supports of shortcut keys.
+    - Supports of shortcut keys.
 - Enhancements 
 - Bug fixes
-  - Hot set page scale.
-  - Non-supported error in building path from shapes.
+    - Hot set page scale.
+    - Non-supported error in building path from shapes.
 
 ### Version 1.0.83
 
