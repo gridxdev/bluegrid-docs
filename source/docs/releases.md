@@ -10,7 +10,7 @@
     - Enhance rendering performance.
     - Enhance user experience on Windows touch screens.
     - Enhance touchpad operation.
-    - Keep Selector line width size consistent.
+    - Keep Selector line width consistent.
     - Keep Selector hand size consistent.
 - Bug fixes
     - Fix bug snap infinite loop that may cause memory crash or hanging.
