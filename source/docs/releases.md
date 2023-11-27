@@ -10,8 +10,8 @@
     - Enhance rendering performance.
     - Enhance user experience on Windows touch screens.
     - Enhance touchpad operation.
-    - Consist Selector line width size.
-    - Consist Selector hand size.
+    - Keep Selector line width size consistent.
+    - Keep Selector hand size consistent.
 - Bug fixes
     - Fix bug snap infinite loop that may cause memory crash or hanging.
     - Fix bug not-importing material definitions from CSV files that appeared since version 1.0.83.
