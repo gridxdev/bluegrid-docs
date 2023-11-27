@@ -1,6 +1,6 @@
 ## Release notes
 
-### Version 1.0.84 - 23/11/28
+### Version 1.0.85 - 23/11/28
 
 - New features
     - Support secondary mouse panning in draw mode.
