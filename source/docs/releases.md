@@ -4,13 +4,14 @@
 
 - New features
     - Support release to finish draws on shapes that use two-point draw rule.
+    - Allow multiple shortcut key modifiers.
 - Changes
 - Enhancements
   - Enhance rendering performance.
   - Enhance user experience on touch screens.
 - Bug fixes
   - Fix bug fetching large PDF page that may cause memory crash or hanging.
-  - Fix bug memory crash when rendering very large images in PDF
+  - Fix bug memory crash when rendering very large images in PDF.
 
 
 
