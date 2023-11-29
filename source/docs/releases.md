@@ -1,5 +1,19 @@
 ## Release notes
 
+### Version 1.0.86 - 23/12/01
+
+- New features
+    - Support release to finish draws on shapes that use two-point draw rule.
+- Changes
+- Enhancements
+  - Enhance rendering performance.
+  - Enhance user experience on touch screens.
+- Bug fixes
+  - Fix bug fetching large PDF page that may cause memory crash or hanging.
+  - Fix bug memory crash when rendering very large images in PDF
+
+
+
 ### Version 1.0.85 - 23/11/28
 
 - New features
