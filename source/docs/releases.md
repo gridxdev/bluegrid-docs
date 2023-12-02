@@ -1,6 +1,27 @@
 ## Release notes
 
-### Version 1.0.86 - 23/12/01
+
+### Version 1.0.88 - 23/12/02
+
+- New features
+
+- Changes
+- Enhancements
+- Bug fixes
+  - Fix the bug of fetching PDF references that appeared in version 1.0.87
+
+### Version 1.0.87 - 23/12/01
+
+- New features
+
+- Changes
+- Enhancements
+  - Reduce PDF page fetching time.
+  - Remove panning effect when zoom finish in on touch screen 
+- Bug fixes
+
+
+### Version 1.0.86 - 23/12/30
 
 - New features
     - Support release to finish draws on shapes that use two-point draw rule.
