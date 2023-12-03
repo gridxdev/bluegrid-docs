@@ -5,11 +5,11 @@
 - New features
     - Add Copy option when applying a new material to the same shape.
 - Changes
-    - Move select_on_select to bottom bar
+    - Move select_on_select to bottom bar.
 - Enhancements
-    - Reduce page fetching time with cache
+    - Reduce page fetching time with cache.
 - Bug fixes
-    - Fix the bug of not duplicating materials and shapes when duplicate page
+    - Fix the bug of not duplicating materials and shapes when duplicate pages.
 
 ### Version 1.0.88 - 23/12/03
 
@@ -18,7 +18,7 @@
 - Changes
 - Enhancements
 - Bug fixes
-    - Fix the bug of fetching PDF references that appeared in version 1.0.87
+    - Fix the bug of fetching PDF references that appeared in version 1.0.87.
 
 ### Version 1.0.87 - 23/12/01
 
@@ -27,7 +27,7 @@
 - Changes
 - Enhancements
     - Reduce PDF page fetching time.
-    - Remove panning effect when zoom finish in on touch screen 
+    - Remove panning effect when zoom finish in on touch screen.
 - Bug fixes
 
 
