@@ -1,14 +1,24 @@
 ## Release notes
 
+### Version 1.0.89 - 23/12/05
 
-### Version 1.0.88 - 23/12/02
+- New features
+    - Add Copy option when applying a new material to the same shape.
+- Changes
+    - Move select_on_select to bottom bar
+- Enhancements
+    - Reduce page fetching time with cache
+- Bug fixes
+    - Fix the bug of not duplicating materials and shapes when duplicate page
+
+### Version 1.0.88 - 23/12/03
 
 - New features
 
 - Changes
 - Enhancements
 - Bug fixes
-  - Fix the bug of fetching PDF references that appeared in version 1.0.87
+    - Fix the bug of fetching PDF references that appeared in version 1.0.87
 
 ### Version 1.0.87 - 23/12/01
 
@@ -16,8 +26,8 @@
 
 - Changes
 - Enhancements
-  - Reduce PDF page fetching time.
-  - Remove panning effect when zoom finish in on touch screen 
+    - Reduce PDF page fetching time.
+    - Remove panning effect when zoom finish in on touch screen 
 - Bug fixes
 
 
@@ -28,11 +38,11 @@
     - Allow multiple shortcut key modifiers.
 - Changes
 - Enhancements
-  - Enhance rendering performance.
-  - Enhance user experience on touch screens.
+    - Enhance rendering performance.
+    - Enhance user experience on touch screens.
 - Bug fixes
-  - Fix bug fetching large PDF page that may cause memory crash or hanging.
-  - Fix bug memory crash when rendering very large images in PDF.
+    - Fix bug fetching large PDF page that may cause memory crash or hanging.
+    - Fix bug memory crash when rendering very large images in PDF.
 
 
 
