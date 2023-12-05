@@ -1,15 +1,17 @@
 ## Release notes
 
-### Version 1.0.89 - 23/12/05
+### Version 1.0.89 - 23/12/07
 
 - New features
     - Add Copy option when applying a new material to the same shape.
 - Changes
     - Move select_on_select to bottom bar.
+    - Metric values computation is trigger by users.
 - Enhancements
     - Reduce page fetching time with cache.
 - Bug fixes
     - Fix the bug of not duplicating materials and shapes when duplicate pages.
+    - Remove supports of texture, pattern paint on PDF as the implementation is not completed.
 
 ### Version 1.0.88 - 23/12/03
 
