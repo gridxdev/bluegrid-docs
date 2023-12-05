@@ -6,7 +6,7 @@
     - Add Copy option when applying a new material to the same shape.
 - Changes
     - Move select_on_select to bottom bar.
-    - Metric values computation is trigger by users.
+    - <span style="color:orange">*** Metric values computation is trigger by users.</span>
 - Enhancements
     - Reduce page fetching time with cache.
 - Bug fixes
