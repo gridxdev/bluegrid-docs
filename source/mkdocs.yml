@@ -55,14 +55,7 @@ nav:
   - Project:
       - Create: "create.md"
       - Open: "open_project.md"
-  - PDF blueprints:
-      - Import files: "import_pdf.md"
-      - Remove files: "remove_pdf_file.md"
-      - Remove pages: "remove_pages.md"
-      - Append pages: "append_pages.md"
-      - Export pages: "export_pdf.md"
-      - Replace pages: "replace_page.md"
-      - Setting scale: "setting_scale.md"
+  - PDF : "pdf.md"
   - Works/Materials:
       - Catalogs/WBS: "wbs.md"
       - Materials: "material.md"
@@ -73,7 +66,7 @@ nav:
       - Symbol tools: "symbol_tool.md"
       - Styling: "styling.md"
   - Transform and Modify: "transform.md"
-  - Style: "style.md"
+  - Styles: "style.md"
   - Resources: "resource.md"
   - Release notes: "releases.md"
   - Issue Reports: "issue.md"
