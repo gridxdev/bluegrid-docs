@@ -2,7 +2,7 @@
 
 ### Version 1.0.91 - 23/12/14
 - New features
-  - Support import/export from and to application setting profile files.
+  - Support import/export application setting profile files.
 
 ### Version 1.0.89 - 23/12/07
 
