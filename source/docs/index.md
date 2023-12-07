@@ -4,7 +4,7 @@ Please stay updated!</h1>
 
 <hr>
 
-Modern construction quantity take-off and markups.
+<h1>Construction quantity take-off and markups software for PDF blueprints.</h1>
 
 <h3>Implemented features and functions</h3>
 * **PDF support**: Supports PDF files with vector and image formats.
@@ -47,63 +47,18 @@ Modern construction quantity take-off and markups.
 <h3>Demo</h3>
 <figure markdown>
   ![Compilation](assets/image/mix.jpeg)
-  <figcaption>Compilation</figcaption>
-</figure>
-<figure markdown>
   ![IArea take-off 1](assets/image/area_1.png)
-  <figcaption>Area take-off 1</figcaption>
-</figure>
-
-<figure markdown>
   ![Area take-off 2](assets/image/area_2.png)
-  <figcaption>Area take-off 2</figcaption>
-</figure>
-
-<figure markdown>
   ![Area take-off 3](assets/image/area_3.png)
-  <figcaption>Area take-off 3</figcaption>
-</figure>
-
-<figure markdown>
   ![Image title](assets/image/linear_1.png)
-  <figcaption>Area take-off</figcaption>
-</figure>
-
-<figure markdown>
   ![Image title](assets/image/count_1.png)
-  <figcaption>Count </figcaption>
-</figure>
-
-<figure markdown>
   ![Image title](assets/image/count_2.png)
-  <figcaption>Count with symbols from PDF </figcaption>
-</figure>
-
-<figure markdown>
   ![Count, blocks, cloud and texts](assets/image/blocks.png)
-  <figcaption>Count, blocks, cloud and texts</figcaption>
-</figure>
-
-<figure markdown>
-  ![Count, blocks, cloud and texts](assets/image/notes.jpeg)
-  <figcaption>Notes</figcaption>
-</figure>
-
-<figure markdown>
+ ![Count, blocks, cloud and texts](assets/image/notes.jpeg)
   ![Stack view](assets/image/stack_view_1.png)
-  <figcaption>Stack view</figcaption>
-</figure>
-
-<figure markdown>
   ![Document view](assets/image/document_view_1.png)
-  <figcaption>Document view</figcaption>
-</figure>
-
-<figure markdown>
   ![Catalogs view](assets/image/wbs.png)
-  <figcaption>Catalogs view</figcaption>
 </figure>
-
 
 
 

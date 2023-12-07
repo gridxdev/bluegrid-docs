@@ -1,12 +1,22 @@
 ## Release notes
 
+### Version 1.0.91 - 23/12/24
+- New features
+  - Add pen tool to draw freehand shapes.
+
+### Version 1.0.91 - 23/12/14
+- New features
+  - Support import/export application setting profile files.
+- Bug fixes
+  - Fix the bug of black thumbnail images in some PDF.
+
 ### Version 1.0.89 - 23/12/07
 
 - New features
     - Add Copy option when applying a new material to the same shape.
 - Changes
     - Move select_on_select to bottom bar.
-    - Metric values computation is trigger by users.
+    - <span style="color:orange">*** Metric values computation is trigger by users.</span>
 - Enhancements
     - Reduce page fetching time with cache.
 - Bug fixes
@@ -45,8 +55,6 @@
 - Bug fixes
     - Fix bug fetching large PDF page that may cause memory crash or hanging.
     - Fix bug memory crash when rendering very large images in PDF.
-
-
 
 ### Version 1.0.85 - 23/11/28
 
