@@ -56,8 +56,6 @@
     - Fix bug fetching large PDF page that may cause memory crash or hanging.
     - Fix bug memory crash when rendering very large images in PDF.
 
-
-
 ### Version 1.0.85 - 23/11/28
 
 - New features
