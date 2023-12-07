@@ -1,8 +1,14 @@
 ## Release notes
 
+### Version 1.0.91 - 23/12/24
+- New features
+  - Add pen tool to draw freehand shapes.
+
 ### Version 1.0.91 - 23/12/14
 - New features
   - Support import/export application setting profile files.
+- Bug fixes
+  - Fix the bug of black thumbnail images in some PDF.
 
 ### Version 1.0.89 - 23/12/07
 
