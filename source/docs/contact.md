@@ -1,4 +1,4 @@
-## <span style="color: orange">We are in the midst of highly active development, so your issues may be resolved sooner! Please reach out to us at:</span>
+## Please reach out to us at:
 
 1. Email: <bluegrid@bluegridltd.com>
 2. Skype: bluegrid supports
