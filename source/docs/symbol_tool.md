@@ -1,11 +1,21 @@
 In BlueGrid, with block tool you can add almost any 2D shapes to draw pane.
+Symbols is of application data thus the symbol list can used for multiple take-off projects.
 
-## 1. Add symbols from SVG icons
+### Add symbols from SVG icons
+To add symbols, one draw table, open symbol dialog, from the symbol dialog menu, click "Import symbols", select symbols files (.svg) and click "Open"
 ![type:video](https://www.youtube.com/embed/QZX1wCexEEk?si=fbLZQ99Hb7Pyckku)
 <figcaption>Add symbols</figcaption>
 
-## 2. Import, export symbols
+### Import, export symbols
+For the utilization of storing, sharing symbols between machines or users, BlueGrid provides the functionalities of import and export
+from and to JSON files.
+
 ![type:video](https://www.youtube.com/embed/5j6M3dZ3YDE?si=MqnQwNfOgpyBcb7w)
 
-## 3. Custom symbols from PDF pages
+### Add custom symbols from PDF pages
+
+Width BlueGrid you can make symbols from any shapes on PDF blueprints. Follow these steps to make symbols from shapes on PDF pages.
+1. Use model select tool to select shapes that you want to make symbols from. Once shapes are selected, BlueGrid converts and adds these shapes to 'live' shapes that you are free to manipulate (scaling, resizing, rotating...).
+2. Select the shapes with shape select tool, open context menu to build those shapes as one single path shape.
+3. Select the path shape from step 2, open context menu and hit "Use as symbol".
 ![type:video](https://www.youtube.com/embed/wTmL6KaE7vo?si=H4dQ14uYWnD9Apbr)
