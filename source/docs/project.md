@@ -1,8 +1,6 @@
-## Create project
-A BlueGrid project is a file with the extension .bgp that contains all the information of pdf blueprints, shapes, catalogs, materials and visualizations.
-<br/>
-<br/>
-<br/>
+A BlueGrid project file is with the extension .bgp. The file contains all the information of pdf blueprints, shapes, catalogs, materials and visualizations.
+
+### Create project
 To create a new BlueGrid project from scratch, follow these steps:
 
 1. On the Start window, click the Create button. This will open a File dialog box.
@@ -14,7 +12,7 @@ To create a new BlueGrid project from scratch, follow these steps:
 <figcaption>Create a project</figcaption>
 
 
-## Open project
+### Open project
 
 You can open an existing BlueGrid project in two ways:
 
