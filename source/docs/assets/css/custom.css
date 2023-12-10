@@ -19,8 +19,7 @@
     --md-accent-bg-color--light: hsla(0, 0%, 100%, 0.7);
 }
 
-element.style {
-}
+
 .md-header--shadow {
     box-shadow: 0 0 0.2rem #0000001a, 0 0.2rem 0.4rem #0003;
     transition: transform .25s cubic-bezier(.1,.7,.1,1),box-shadow .25s;
@@ -35,11 +34,23 @@ element.style {
     right: 0;
     top: 0;
     z-index: 4;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    vertical-align: center;
 }
+
+
+.md-header__button.md-logo img, .md-header__button.md-logo svg {
+    fill: currentcolor;
+    display: block;
+    height: 1.6rem;
+    width: auto;
+}
+
 *, :after, :before {
     box-sizing: inherit;
 }
-user agent stylesheet
+
 header {
     display: block;
 }
