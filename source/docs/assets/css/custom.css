@@ -18,6 +18,11 @@
     --md-accent-bg-color: hsla(0, 0%, 100%, 1);
     --md-accent-bg-color--light: hsla(0, 0%, 100%, 0.7);
 }
+.md-grid {
+    margin-left: 0;
+    margin-right: 0;
+    max-width: 100%;
+}
 
 
 .md-header--shadow {
@@ -72,13 +77,12 @@ header {
 .md-nav__item--nested .md-nav__item{
     padding-left: 0.61rem;
 }
-.md-nav__item a {
+.md-nav__item span {
     padding-bottom: 8px;
     padding-top: 8px;
     margin: 0;
     text-align: center;
     vertical-align: middle;
-
 }
 .md-nav__item--active:not(.md-nav__item--nested) {
     background-color: var(--md-primary-fg-color);
@@ -87,8 +91,25 @@ header {
 .md-nav__item .md-nav__link--active{
     color: var(--md-primary-bg-color);
 }
-.md-grid {
-    margin-left: 0;
-    margin-right: 0;
-    max-width: 100%;
+
+element.style {
 }
+.md-nav__link .md-ellipsis {
+    position: relative;
+}
+.md-nav__item span {
+    padding-bottom: 8px;
+    padding-top: 8px;
+    margin: 0;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.md-nav__link[for]:focus,
+.md-nav__link[for]:hover,
+.md-nav__link[href]:focus,
+.md-nav__link[href]:hover {
+    color: var(--md-accent-bg-color);
+    cursor: pointer;
+}
+
