@@ -1,4 +1,4 @@
-In BlueGrid each PDF/Blueprint page has one co-related material table. Each material item can be either one of four types of Count, Linear, Area, or Volume. A shape with its metric properties of length, area, and volume and can be attached to and detached from a material item.
+In BlueGrid each PDF/Blueprint page has one co-related material table. Each material item must be either one of four types of Count, Linear, Area, or Volume. A shape with its metric properties of length, area, and volume and can be attached to and detached from a material item.
 
 From a material table menu, you can add, remove, export, import, or pull material items from the project catalogs.
 
