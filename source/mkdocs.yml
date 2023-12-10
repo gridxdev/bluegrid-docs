@@ -55,6 +55,7 @@ extra:
 
 nav:
   - Overview: 'index.md'
+  - Application: 'application.md'
   - Project: 'project.md'
   - Blueprints : "pdf.md"
   - Materials:
@@ -68,7 +69,6 @@ nav:
       - Transform: "transform.md"
       - Modify: "modify.md"
       - Utilization: "pdf_layer.md"
-  - Resources: "resource.md"
   - Release notes: "releases.md"
   - Issue Reports: "issue.md"
   - Contact: "contact.md"
