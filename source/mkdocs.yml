@@ -1,4 +1,7 @@
 site_name: BlueGrid
+site_description: BlueGrid is a professional construction quantity take-off software.
+site_author: BlueGrid Ltd.
+
 
 theme:
   name: material
