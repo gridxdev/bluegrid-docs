@@ -4,7 +4,7 @@ Please stay updated!</h1>
 
 <hr>
 
-<h1>Construction quantity take-off and markups software for PDF blueprints.</h1>
+<h1>THE TAKE-OFF SOFTWARE</h1>
 
 <h3>Implemented features and functions</h3>
 * **PDF support**: Supports PDF files with vector and image formats.
@@ -17,8 +17,8 @@ Please stay updated!</h1>
 * **Shape manipulation**: Enables you to transform, flip, rotate, scale, resize, and style shapes, markups, notes, and annotations with 16 million colors.
 * **Material coding**: Codes and standardizes materials for easy identification.
 * **Drag-and-drop material**: Allows you to drag and drop materials onto shapes.
-* **PDF layer**: Provides layer on/off functionality to focus on things that matter.
-* **Work Breakdown Structure (WBS)**: Enables you to build, add, modify, customize, and standardize multiple WBSs.
+* **PDF layer**: Provides layer on/off functionality to reduce noise.
+* **Work Breakdown Structure (WBS)**: Enables you to build, add, modify, customize, and standardize WBSs.
 * **3D stack view**: Provides a 3D view and animation for convenient work review.
 
 [//]: # (<h3>On-plan features and functions</h3>)
@@ -54,7 +54,7 @@ Please stay updated!</h1>
   ![Image title](assets/image/count_1.png)
   ![Image title](assets/image/count_2.png)
   ![Count, blocks, cloud and texts](assets/image/blocks.png)
- ![Count, blocks, cloud and texts](assets/image/notes.jpeg)
+  ![Count, blocks, cloud and texts](assets/image/notes.jpeg)
   ![Stack view](assets/image/stack_view_1.png)
   ![Document view](assets/image/document_view_1.png)
   ![Catalogs view](assets/image/wbs.png)

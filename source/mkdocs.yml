@@ -1,4 +1,7 @@
 site_name: BlueGrid
+site_description: BlueGrid is a professional construction quantity take-off software.
+site_author: BlueGrid Ltd.
+
 
 theme:
   name: material
@@ -52,22 +55,20 @@ extra:
 
 nav:
   - Overview: 'index.md'
-  - Project:
-      - Create: "create.md"
-      - Open: "open_project.md"
-  - PDF : "pdf.md"
-  - Works/Materials:
+  - Application: 'application.md'
+  - Project: 'project.md'
+  - Blueprints : "pdf.md"
+  - Materials:
       - Catalogs/WBS: "wbs.md"
       - Materials: "material.md"
-  - Draws:
-      - PDF Layers on/off: "pdf_layer.md"
+  - Draws/Shapes:
       - Shape tools: "shape_tool.md"
       - Annotation tools: "annotation_tool.md"
       - Symbol tools: "symbol_tool.md"
-      - Styling: "styling.md"
-  - Transform and Modify: "transform.md"
-  - Styles: "style.md"
-  - Resources: "resource.md"
+      - Style shapes: "style.md"
+      - Transform: "transform.md"
+      - Modify: "modify.md"
+      - Utilization: "pdf_layer.md"
   - Release notes: "releases.md"
   - Issue Reports: "issue.md"
   - Contact: "contact.md"
