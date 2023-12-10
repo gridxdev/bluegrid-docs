@@ -55,11 +55,9 @@ extra:
 
 nav:
   - Overview: 'index.md'
-  - Project:
-      - Create: "create.md"
-      - Open: "open_project.md"
-  - PDF : "pdf.md"
-  - Works/Materials:
+  - Project: 'project.md'
+  - Blueprints : "pdf.md"
+  - Materials:
       - Catalogs/WBS: "wbs.md"
       - Materials: "material.md"
   - Draws:
