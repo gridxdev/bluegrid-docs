@@ -60,14 +60,14 @@ nav:
   - Materials:
       - Catalogs/WBS: "wbs.md"
       - Materials: "material.md"
-  - Draws, shapes:
-      - PDF Layers on/off: "pdf_layer.md"
+  - Draws/Shapes:
       - Shape tools: "shape_tool.md"
       - Annotation tools: "annotation_tool.md"
       - Symbol tools: "symbol_tool.md"
       - Style shapes: "style.md"
       - Transform: "transform.md"
       - Modify: "modify.md"
+      - Utilization: "pdf_layer.md"
   - Resources: "resource.md"
   - Release notes: "releases.md"
   - Issue Reports: "issue.md"

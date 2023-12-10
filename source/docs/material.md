@@ -25,3 +25,7 @@ Material items can be edited, changed directly in BlueGrid or in CSV editor such
 To edit material, select the material item in the table, open the material detail view, in this detail view, you can edit, change properties of the material.
 
 #### Format material in CSV editor
+A CSV material file is the material definition in CSV format. User can use CSV editor to define materials and import to BlueGrid.
+Each material item is a row with columns of:
+
+    1. Code, 2. Description, 3. Type, 4. Fill color, 5. Stroke color, 6. Fill opacity, 7. Stroke opacity, 8. Stroke line with.
