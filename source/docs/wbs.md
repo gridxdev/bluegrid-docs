@@ -1,5 +1,5 @@
 With BlueGrid you can create, import and export for re-use, sharing work breakdown structure (W.B.S) in tree-like format. In BlueGrid W.B.S is named as catalog. One BlueGrid project can have multiple catalogs .
-A catalog is a tree-like structure, so it must have a top parent item and all others items are its children items. Each catalog item has its type of eighth Group, Count, Linear, Area or Volume.  
+A catalog is a tree-like structure, so it must have a top parent item and all others items are its children items. Each catalog item has its type of either Group, Count, Linear, Area or Volume.  
 A group item itself can have child items while the others are leaf items and do not have child items. The root item is a group item.
 
 <h3>I. Create catalogs:</h3>

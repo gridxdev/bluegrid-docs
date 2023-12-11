@@ -1,4 +1,4 @@
-In BlueGrid, pdf blueprints is the main input data that every project must have to perform take-off or markup tasks.
+In BlueGrid, pdf blueprints is the main input data that every project must have for users to perform take-off or markup tasks.
 
 ## 1. Import files
 To import pdf files, follow steps below:
