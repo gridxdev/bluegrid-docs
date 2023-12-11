@@ -110,3 +110,6 @@ header {
     box-shadow: 0 0 0 0;
     display:none;
 }
+[dir=ltr] .md-typeset blockquote {
+     border-left: 0.0rem solid var(--md-default-fg-color--lighter);
+}
