@@ -63,7 +63,7 @@ header {
     --md-typeset-a-color: #5488e8;
 }
 [data-md-color-primary=indigo] {
-    --md-primary-fg-color: var(--rs-color-grey-80);
+    --md-primary-fg-color: var(--rs-color-grey-90);
 }
 .md-nav__item:not(.md-nav__item--nested .md-nav__item) {
     text-align: center;
@@ -105,3 +105,11 @@ header {
     color: var(--md-primary-bg-color);
 }
 
+
+.md-nav--primary .md-nav__title {
+    box-shadow: 0 0 0 0;
+    display:none;
+}
+[dir=ltr] .md-typeset blockquote {
+     border-left: 0.0rem solid var(--md-default-fg-color--lighter);
+}

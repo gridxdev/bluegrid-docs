@@ -55,7 +55,9 @@ extra:
 
 nav:
   - Overview: 'index.md'
-  - Application: 'application.md'
+  - Getting started:
+      - User interface: 'user_interface.md'
+      - Data:  'data.md'
   - Project: 'project.md'
   - Blueprints : "pdf.md"
   - Materials:
