@@ -11,6 +11,9 @@ BlueGrid app divides its user interface into four main views:
 
 Starter view is the entry window of the application. From starter view users open, create, modify shortcut keys, or customize looks and feels as well as set application parameters to optimize usage experience.
 > ### User Interface
+>  When you start BlueGrid, the default user interface looks as follows:
+> 
+>   ![Compilation](assets/image/starter/1.png)
 > ### Functionalities
 > ### Functions
 
