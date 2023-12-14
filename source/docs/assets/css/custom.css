@@ -111,3 +111,11 @@ header {
 [dir=ltr] .md-typeset blockquote {
      border-left: 0.0rem solid var(--md-default-fg-color--lighter);
 }
+.md-content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.md-content__inner {
+    max-width: 768px;
+}
