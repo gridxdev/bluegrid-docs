@@ -47,4 +47,24 @@ Operations in the starter view are at application level.
 ### Project List
 ```Navigation: Starter | Projects | Project List```
 
-   **Project List** is list view that displays
+   **Project List** is list view that displays all BlueGrid projects that have been opened or created. Users can click a project item in the list to open it. To remove a project from the list, hover to the project item in the list and click the cross icon.
+### Style
+```Navigation: Starter | Settings | Style```
+
+   **Style** is a combo box control, that allows users to select a style for the application. The style is applied to the application immediately after users select it. The application has 4 styles: Prime, Nord, Cupertino, and Dracula, each is with dark and light themes.
+### Locale
+   ```Navigation: Starter | Settings | Locale```
+
+   **Locale** is a combo box control, that allows users to select a locale for the application. The locale is applied to the application after the **Starter** is closed. The application has 2 locales: English and Vietnamese.
+### Precision
+   ```Navigation: Starter | Settings | Precision```
+
+   **Precision** is a combo box control that allows users to select the number of digits after the decimal point to be displayed in floating-point numbers within the data view. The selected precision is applied to the application once the **Starter** is closed. The application offers 13 options for the number of digits after the decimal point, ranging from 0 to 12.
+### Device
+   ```Navigation: Starter | Settings | Device```
+
+BlueGrid is an application designed to target multiple platforms and devices. As such, **Device** is the setting section that allows users to select device options such as pen, touch, mouse, desktop, or tablet. These options help optimize user experiences and work efficiency. The selected device options are applied to the application once the **Starter** is closed. The application currently offers two device options: Desktop/Tablet and Mouse/Pen.
+### Shortcut Keys
+   ```Navigation: Starter | Settings | Shortcut Keys```
+
+**Shortcut Keys** is a settings section that allows users to customize shortcut keys for the application. The customized shortcut keys are applied to the application once the **Starter** is closed. Shortcut keys are categorized into four groups and two levels: Application (level 0), Draw View (level 1), Document View (level 1), and Catalog View (level 1). Each group contains a list of shortcut keys that users can customize. Shortcut keys at a lower level have a higher execution priority, meaning a shortcut key at a higher level will not execute if a lower-level key shares the same shortcut. Identical shortcut keys in different groups at the same level will have the same execution priority. For example, the shortcut key ‘Ctrl + O’ in the Draw View group and ‘Ctrl + O’ in the Document View group will have the same execution priority.
