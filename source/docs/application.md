@@ -1,41 +1,50 @@
-# Application
+## Application
 
 Application is the main window of BlueGrid, where users perform quantity take-off projects.
 
-Operations in the application are at project level.
+Operations in the application are at project level. This means that the changes made in the application are applied to the project. Data of project is stored in the project file.
+
+### User Interface
+> The application has an application [Tool Bar](#application-tool-bar) and 3 sub-views: [Documents View](#document-view), [Draw View](#draw-view), and [Catalogs View](#catalogs-view).
+
+> ![Document View interface](assets/image/application/application.png)
+
+> 1. [Application Tool Bar](#application-tool-bar)
+> 2. [Sub-view](#sub-view)
+
+> #### Application Tool Bar
+```Navigation: Application | Application Tool Bar```
+
+> The **Application Tool Bar** is on the top of the application view and is always visible by default. From the **Application Tool Bar**, you do common operation such as save, undo, redo, and navigate to different sub-views of the application, for the purposes of use. 
+
+> #### Sub-view
+```Navigation: Application | Sub-view```
+
+> Sub-view of can be either Documents View, Draw View, or Catalogs View. Each sub-view has its own functionalities and functions. All sub-views share the same project data. The Documents View is the default sub-view of the application, when you open a project.
 
 ## Document View
-Document view the view of project construction blueprints of PDF folders and pages.
+```Navigation: Application | Documents View```
 
-> ### User Interface
-The user interface is designed to facilitate PDF view (as thumbnails) and simple but powerful PDF blueprints management. 
-> ### Functionalities
-The Draw View and Draw Board offer a range of functionalities aimed at enhancing the speed, efficiency, and precision of quantity take-off tasks. These functionalities are integral to the software and contribute significantly to its performance.
-> ### Functions
-1. Import PDF files to a folder
-2. Delete folder
-3. Rename folder
-4. Add PDF files to folder
-5. Remove PDF pages
-6. Export PDF pages
-7. Replace PDF pages
+**Documents View** the view of project construction blueprints of PDF folders and pages.
 
-For a comprehensive understanding of all the functions and features, please refer to the detailed user manual which are provided with the function list.
+### User Interface
+> The user interface is designed to facilitate PDF view (as thumbnails) and simple but powerful PDF blueprints management.
 
-## Draw View
-Draw view with the draw board and the material table, constitutes the core of BlueGrid. This duo is instrumental in the functioning of BlueGrid as a quantity take-off software.
+> ![Document View interface](assets/image/application/1.png)
 
-> ### User interface
-> ### Functionalities
-> ### Functions
-The following list provides an overview of some of the functions included in the Draw View. Please note that this list is not exhaustive and only represents a subset of the available functions:
+> 1. [Application Tool Bar](#application-tool-bar)
+> 2. Project PDF folder view
+> 3. Page view
+> 4. Folders list menu
+> 5. Pages menu
+> 6. Page thumbnail
 
 
-## Catalog View
-> ### User interface
-> ### Functionalities
-> ### Functions
+> #### Project PDF folder list
+```Navigation: Application | Documents View | Project PDF Folder List```
 
+> The **Project PDF Folder List** is a list view that displays all PDF folders of the project. Users can click a folder item in the list to open it. To remove a folder from the list, hover to the folder item in the list, open [Folder List Menu](#folder-list-menu), and click delete menu item.
+   
 
 
 

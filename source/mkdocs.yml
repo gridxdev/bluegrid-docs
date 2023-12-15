@@ -5,6 +5,10 @@ site_author: BlueGrid Ltd.
 
 theme:
   name: material
+  font:
+    text: Roboto
+    code: Roboto Mono
+
   custom_dir: overrides
   feature:
     - navigation.sections

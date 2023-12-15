@@ -2,7 +2,7 @@
 
 Starter view is the entry window of BlueGrid. From starter view users open, create, modify shortcut keys, or customize looks and feels as well as set application parameters to optimize usage experience. 
 
-Operations in the starter view are at application level.
+Operations in the **Starter** are at application level. This means that the changes made in the **Starter** are applied to the application as a whole, not to a specific project. Data of application is stored in the settings profile file.
 
 ### User Interface
 >  When you start BlueGrid, the default user interface looks as follows:
@@ -67,4 +67,10 @@ BlueGrid is an application designed to target multiple platforms and devices. As
 ### Shortcut Keys
    ```Navigation: Starter | Settings | Shortcut Keys```
 
-**Shortcut Keys** is a settings section that allows users to customize shortcut keys for the application. The customized shortcut keys are applied to the application once the **Starter** is closed. Shortcut keys are categorized into four groups and two levels: Application (level 0), Draw View (level 1), Document View (level 1), and Catalog View (level 1). Each group contains a list of shortcut keys that users can customize. Shortcut keys at a lower level have a higher execution priority, meaning a shortcut key at a higher level will not execute if a lower-level key shares the same shortcut. Identical shortcut keys in different groups at the same level will have the same execution priority. For example, the shortcut key ‘Ctrl + O’ in the Draw View group and ‘Ctrl + O’ in the Document View group will have the same execution priority.
+**Shortcut Keys** is a settings section that allows users to customize shortcut keys for the application. The customized shortcut keys are applied to the application once the **Starter** is closed. Shortcut keys are categorized into four groups and two levels: Application (level 0), Draw View (level 1), Document View (level 1), and Catalog View (level 1). Each group contains a list of shortcut keys that users can customize. Shortcut keys at a lower level have a higher execution priority, meaning a shortcut key at a higher level will not execute if a lower-level key shares the same shortcut, the lower level shortcut key executes. 
+
+Identical shortcut keys in different groups at the same level will have the same execution priority. For example, the shortcut key ‘Ctrl + O’ in the Draw View group and ‘Ctrl + O’ in the Document View group will have the same execution priority. Different groups can share shortcut keys. In the same group, shortcut keys shall be unique. 
+### Setting Profile
+   ```Navigation: Starter | Settings | Setting Profile```
+   
+**Setting Profile** is a settings section that allows users to save and load settings profiles. A settings profile is a set of settings that users can save and load for different purposes. For example, users can save a settings profile for a desktop device and another for a tablet device. 
