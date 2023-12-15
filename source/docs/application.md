@@ -33,17 +33,17 @@ Operations in the application are at project level. This means that the changes 
 > ![Document View interface](assets/image/application/1.png)
 
 > 1. [Application Tool Bar](#application-tool-bar)
-> 2. Project PDF folder view
-> 3. Page view
-> 4. Folders list menu
+> 2. Folders view
+> 3. Pages view
+> 4. Folders menu
 > 5. Pages menu
-> 6. Page thumbnail
+> 6. Page thumbnails
 
 
-> #### Project PDF folder list
-```Navigation: Application | Documents View | Project PDF Folder List```
+> #### Folders View
+```Navigation: Application | Documents View | Folders```
 
-> The **Project PDF Folder List** is a list view that displays all PDF folders of the project. Users can click a folder item in the list to open it. To remove a folder from the list, hover to the folder item in the list, open [Folder List Menu](#folder-list-menu), and click delete menu item.
+> The **Folders view** is a list view that displays all PDF folders of the project. Users can click a folder item in the list to open it. To remove a folder from the list, select the folder item in the list, open [Folder List Menu](#folders-menu), and click delete menu item.
    
 
 
