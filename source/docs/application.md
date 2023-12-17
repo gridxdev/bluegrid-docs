@@ -30,21 +30,42 @@ Operations in the application are at project level. This means that the changes 
 ### User Interface
 > The user interface is designed to facilitate PDF view (as thumbnails) and simple but powerful PDF blueprints management.
 
-> ![Document View interface](assets/image/application/1.png)
+> ![Document View interface](assets/image/application/documentview.png)
 
 > 1. [Application Tool Bar](#application-tool-bar)
-> 2. Project PDF folder view
-> 3. Page view
-> 4. Folders list menu
-> 5. Pages menu
-> 6. Page thumbnail
+> 2. [Folders](#folders) 
+> 3. [Pages](#pages) 
+> 4. [Folders menu](#folders-menu)
+> 5. [Pages menu](#folders-menu)
+> 6. [Page thumbnails](#page-thumbnials)
+> 7. [Pages context menu](#pages-context-menu)
 
 
-> #### Project PDF folder list
-```Navigation: Application | Documents View | Project PDF Folder List```
+> #### Folders
+```Navigation: Application | Documents View | Folders```
 
-> The **Project PDF Folder List** is a list view that displays all PDF folders of the project. Users can click a folder item in the list to open it. To remove a folder from the list, hover to the folder item in the list, open [Folder List Menu](#folder-list-menu), and click delete menu item.
-   
+> **Folders** is a list view that displays all PDF folders of the project. Users can click a folder item in the list to open it. To remove a folder from the list, select the folder item in the list, open [Folders Menu](#folders-menu), and select delete menu item.
 
+> #### Pages
+```Navigation: Application | Documents View | Pages```
 
+> **Pages** is a grid view that displays PDF pages in thumbnails of an opened folder. To open a page, user double-click the page thumbnail or select Open in the Page Context Menu. To remove a page , select the page thumbnail, open [Pages Menu](#pages-menu) or right-click the page  thumbnail to open context menu, and select **Delete Pages** menu item.
 
+> #### Folders menu
+```Navigation: Application | Documents View | Folders | Folders menu```
+
+> **Folders menu** is a menu that provides functions to manage PDF folders such as add, delete, rename... To open the menu, right-click the folder list or click the menu button on the top-right corner of the folder list.
+
+> #### Pages menu
+```Navigation: Application | Documents View | Pages | Pages menu```
+
+> **Pages menu** is a menu that provides functions to manage PDF pages of a folder such as open, delete, append, import, export, duplicate... To open the menu,  click the menu button on the top-right corner of the page list. Users can also select multiple pages to perform batch operations such as delete, export, duplicate...
+
+> #### Page thumbnails
+```Navigation: Application | Documents View | Pages | Page thumbnails```
+
+> Under-laying data of a page thumbnail is the page data set which consists of the PDF page, shapes, materials, annotations, and any data the user added to the page.To open a page, user double-click the page thumbnail or select Open in the [**Page Context Menu `7` **](#pages-context-menu). By opening a page, the application navigates to the [Draw View](#draw-view), loads data page set into the Draw View.
+
+> #### Pages context menu
+```Navigation: Application | Documents View | Pages | Page context menu```
+> **Page context menu** is a menu that provides functions to manage selected PDF pages such as open, delete, append, import, export, duplicate... To open the menu, right-click the page thumbnail. Users can also select multiple pages to perform batch operations such as delete, export, duplicate... **Page context menu** has similar functions as [Pages menu](#pages-menu) as another option to accent pages functions by using right-click.
