@@ -25,7 +25,7 @@ Operations in the application are at project level. This means that the changes 
 ## Document View
 ```Navigation: Application | Documents View```
 
-**Documents View** the view of project construction blueprints of PDF folders and pages.
+> **Documents View** the view of project construction blueprints of PDF folders and pages.
 
 ### User Interface
 > The user interface is designed to facilitate PDF view (as thumbnails) and simple but powerful PDF blueprints management.
@@ -68,4 +68,15 @@ Operations in the application are at project level. This means that the changes 
 
 > #### Pages context menu
 ```Navigation: Application | Documents View | Pages | Page context menu```
+
 > **Page context menu** is a menu that provides functions to manage selected PDF pages such as open, delete, append, import, export, duplicate... To open the menu, right-click the page thumbnail. Users can also select multiple pages to perform batch operations such as delete, export, duplicate... **Page context menu** has similar functions as [Pages menu](#pages-menu) as another option to accent pages functions by using right-click.
+
+
+## Draw View
+```Navigation: Application | Draw View```
+
+> **Draw View** is the centric interface of the application. It is where users perform quantity take-off, create and edit shapes, materials, tags, annotations, images...etc.
+
+### User Interface
+
+> ![Draw View interface](assets/image/application/drawview.png)
