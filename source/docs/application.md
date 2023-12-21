@@ -5,7 +5,7 @@ Application is the main window of BlueGrid, where users perform quantity take-of
 Operations in the application are at project level. This means that the changes made in the application are applied to the project. Data of project is stored in the project file.
 
 ### User Interface
-> The application has an application [Tool Bar](#application-tool-bar) and 3 sub-views: [Documents View](#document-view), [Draw View](#draw-view), and [Catalogs View](#catalogs-view).
+> The application has an [Application Tool Bar](#application-tool-bar) and 3 sub-views: [Document View](#document-view), [Draw View](#draw-view), and [Catalog View](#catalog-view). At a time, there is only one of the views is displayed. Users can change view via **Application Tool Bar**
 
 > ![Document View interface](assets/image/application/application.png)
 
@@ -20,7 +20,7 @@ Operations in the application are at project level. This means that the changes 
 > #### Sub-view
 ```Navigation: Application | Sub-view```
 
-> Sub-view of can be either Documents View, Draw View, or Catalogs View. Each sub-view has its own functionalities and functions. All sub-views share the same project data. The Documents View is the default sub-view of the application, when you open a project.
+> Sub-view of can be either [Document View](#document-view), [Draw View](#draw-view), or [Catalog View](#catalog-view). Each sub-view has its own functionalities and functions. All sub-views share the same project data. The Documents View is the default sub-view of the application, when you open a project.
 
 ## Document View
 ```Navigation: Application | Documents View```
@@ -79,4 +79,30 @@ Operations in the application are at project level. This means that the changes 
 
 ### User Interface
 
+> When you open a page, the Draw View interface looks as follows:
+
 > ![Draw View interface](assets/image/application/drawview.png)
+> 
+> 1. [Application Tool Bar](#application-tool-bar)
+> 2. [Draw Tool Bar](#draw-tool-bar)
+> 3. [Free Shape Format Tool Bar](#free-shape-format-tool-bar)
+> 4. [Draw Canvas](#draw-canvas)
+> 5. [Left Panel](#left-panel)
+> 6. [Bottom Bar](#bottom-bar)
+
+> #### Draw Tool Bar
+```Navigation: Application | Draw View | Draw Tool Bar```
+
+> **Draw Tool Bar** is a toolbar that provides tools to operate on the Draw Canvas. The tools are categorized into 3 groups: [Zoom](#zoom), [View](#view), and [Select](#select).
+
+> #### Free Shape Format Tool Bar
+```Navigation: Application | Draw View | Free Shape Format Tool Bar```
+
+> **Free Shape Format Tool Bar** is a toolbar that provides tools to style free shapes, texts and annotations. With these tools use can change style properties such as color, line width, opacity, font, font size, etc. of free shapes, texts and annotations. Tagged shapes are not affected by these tools. Tagged shapes are style by their styling tags such as [materials](/material).
+> 
+> #### Draw Canvas
+```Navigation: Application | Draw View | Draw Canvas```
+
+> **Draw Canvas** is the centric component of the Draw View, The Draw Canvas is a PDF viewer that displays PDF the opened PDF page. The Draw Canvas is also a drawing board that allows users to draw shapes, add notes, annotations and images, tag and untag materials...etc. The Draw Canvas is where users perform quantity take-off by drawing shapes and the application compute their metric properties such length, area, volume and of course counting.
+> #### Left Panel
+```Navigation: Application | Draw View | Left Panel```
