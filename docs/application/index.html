@@ -441,6 +441,33 @@
     Left Panel
   </a>
   
+    <nav class="md-nav" aria-label="Left Panel">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#draw-tab" class="md-nav__link">
+    Draw Tab
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#material-tab" class="md-nav__link">
+    Material Tab
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#layer-tab" class="md-nav__link">
+    Layer Tab
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
 </li>
         
       </ul>
@@ -927,6 +954,33 @@
     Left Panel
   </a>
   
+    <nav class="md-nav" aria-label="Left Panel">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#draw-tab" class="md-nav__link">
+    Draw Tab
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#material-tab" class="md-nav__link">
+    Material Tab
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#layer-tab" class="md-nav__link">
+    Layer Tab
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
 </li>
         
       </ul>
@@ -1036,9 +1090,21 @@
 <p><strong>Free Shape Format Tool Bar</strong> is a toolbar that provides tools to style free shapes, texts and annotations. With these tools use can change style properties such as color, line width, opacity, font, font size, etc. of free shapes, texts and annotations. Tagged shapes are not affected by these tools. Tagged shapes are style by their styling tags such as <a href="/material">materials</a>.</p>
 <h4 id="draw-canvas">Draw Canvas</h4>
 <p><code>Navigation: Application | Draw View | Draw Canvas</code></p>
-<p><strong>Draw Canvas</strong> is the centric component of the Draw View, The Draw Canvas is a PDF viewer that displays PDF the opened PDF page. The Draw Canvas is also a drawing board that allows users to draw shapes, add notes, annotations and images, tag and untag materials...etc. The Draw Canvas is where users perform quantity take-off by drawing shapes and the application compute their metric properties such length, area, volume and of course counting.</p>
+<p><strong>Draw Canvas</strong> is the centric component of the Draw View, The Draw Canvas is a PDF viewer that displays PDF the opened PDF page. The Draw Canvas is also a drawing board that allows users to draw shapes, add notes, annotations and images, tag and untag materials...etc. The Draw Canvas is where users perform quantity take-off by drawing shapes and the application compute their metric properties such length, area, volume and of course counting. The data in Draw Canvas is at page level.</p>
 <h4 id="left-panel">Left Panel</h4>
 <p><code>Navigation: Application | Draw View | Left Panel</code></p>
+<p><strong>Left Panel</strong> is a panel that allows users to switch to between tab panes of the Draw View. These tabs contain tools and data that co-relate to Draw Canvas's data. The data displayed is at page level. There are 3 tabs: <a href="#draw-tab">Draw Tab</a>, <a href="#material-tab">Material Tab</a>, and <a href="#layer-tab">Layer Tab</a>.</p>
+<h5 id="draw-tab">Draw Tab</h5>
+<p><code>Navigation: Application | Draw View | Left Panel | Draw Tab</code></p>
+<p><strong>Draw Tab</strong> is a tab pane that contains tools to draw shapes, add notes, annotations and images...etc. </p>
+<h5 id="material-tab">Material Tab</h5>
+<p><code>Navigation: Application | Draw View | Left Panel | Material Tab</code></p>
+<p><strong>Material Tab</strong> is a tab pane that contains material table that will be used to apply/tag to shapes. Once shapes are tagged to with a material, the shape style is bound to the material's style. 
+The quantity of the material is the sum of all shapes metric values that are tagged with it. Please take notes that users should trigger <a href="#compute-button">Compute Button</a> to compute the quantity of the material.
+The material table is at page level.</p>
+<h5 id="layer-tab">Layer Tab</h5>
+<p><code>Navigation: Application | Draw View | Left Panel | Layer Tab</code></p>
+<p><strong>Layer Tab</strong> is a tab pane that contains layer table that will be used to manage rendering objects in the PDF page by turning on/off layers. This feature will be useful when the PDF page has many layers and users want to focus on  specific layers as well as reducing noise. </p>
 </blockquote></div>
 
 
