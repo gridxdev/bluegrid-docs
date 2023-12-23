@@ -110,11 +110,11 @@ Operations in the application are at project level. This means that the changes 
 
 > **Left Panel** is a panel that allows users to switch to between tab panes of the Draw View. These tabs contain tools and data that co-relate to Draw Canvas's data. The data displayed is at page level. There are 3 tabs: [Draw Tab](#draw-tab), [Material Tab](#material-tab), and [Layer Tab](#layer-tab).
 
-> ##### Draw Tab
-```Navigation: Application | Draw View | Left Panel | Draw Tab```
+> ##### Draws TabPane
+```Navigation: Application | Draw View | Left Panel | Draws TabPane```
 > Draw Tab Pane is displayed when user select Draw Tab in the Left Panel, as follows:
 
-> ![Draw Tab Pane](assets/image/application/drawtab.png)
+> ![Draws Tab Pane](assets/image/application/drawtab.png)
 > In **Draw Tab Pane** there are 3 tool sets:
 
   1. **Shape Tools ```5.1```** allow users to draw 2D shapes that are used to compute metric values such as length, area, and volume. Shapes created using these tools are of Metric class and can be tagged to materials.
@@ -124,16 +124,22 @@ Operations in the application are at project level. This means that the changes 
 
 > **Draw Tab** is a tab pane that contains tools to draw shapes, add notes, annotations and images...etc. 
 
-> ##### Material Tab
-```Navigation: Application | Draw View | Left Panel | Material Tab```
+> ##### Materials TabPane
+```Navigation: Application | Draw View | Left Panel | Materials TabPane```
+
+> Materials TabPane is displayed when user select Materials Tab in the Left Panel, as follows:
+>
+> ![Materials Tab Pane](assets/image/application/materialtab.png)
   
 > **Material Tab** is a tab pane that contains material table that will be used to apply/tag to shapes. Once shapes are tagged to with a material, the shape style is bound to the material's style. 
 > The quantity of the material is the sum of all shapes metric values that are tagged with it. Please take notes that users should trigger [Compute Button](#compute-button) to compute the quantity of the material.
 > The material table is at page level.
 
-> ##### Layer Tab
-```Navigation: Application | Draw View | Left Panel | Layer Tab```
+> ##### Layers TabPane
+```Navigation: Application | Draw View | Left Panel | Layers TabPane```
 
-> **Layer Tab** is a tab pane that contains layer table that will be used to manage rendering objects in the PDF page by turning on/off layers. This feature will be useful when the PDF page has many layers and users want to focus on  specific layers as well as reducing noise. 
+> Layers TabPane is displayed when user select Layers Tab in the Left Panel, as follows:
+
+> **Layers TabPane** is a tab pane that contains layer table that will be used to manage rendering objects in the PDF page by turning on/off layers. This feature will be useful when the PDF page has many layers and users want to focus on  specific layers as well as reducing noise. 
 
 
