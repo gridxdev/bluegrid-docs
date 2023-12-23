@@ -112,6 +112,15 @@ Operations in the application are at project level. This means that the changes 
 
 > ##### Draw Tab
 ```Navigation: Application | Draw View | Left Panel | Draw Tab```
+> Draw Tab Pane is displayed when user select Draw Tab in the Left Panel, as follows:
+
+> ![Draw Tab Pane](assets/image/application/drawtab.png)
+> In **Draw Tab Pane** there are 3 tool sets:
+
+  1. **Shape Tools ```5.1```** allow users to draw 2D shapes that are used to compute metric values such as length, area, and volume. Shapes created using these tools are of Metric class and can be tagged to materials.
+  2. **Modify Tools ```5.2```** allow users to change 'native' data of shapes,  e.g: to remove points from a polygon, to insert points to polygon. These tools are not used to add shapes or annotations.
+  3. **Annotation Tools ```5.3```** allow users to add texts, annotations such as arrow, callouts, clouds, images..etc. Objects created using these tools are not of Metric class and can not be tagged to materials.
+  4. **Symbol Tools ```5.4```** is a dynamic tool set that user can to add, remove, or customize tools. These tools allow users to add blocked shapes which can not be changed 'natively'. Shapes added using these tools are of Metric class can also be used as counting when tagged to materials.
 
 > **Draw Tab** is a tab pane that contains tools to draw shapes, add notes, annotations and images...etc. 
 
