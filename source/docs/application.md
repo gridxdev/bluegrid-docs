@@ -1,4 +1,9 @@
-## Application
+# Application
+
+> **_Notes:_** This section provides an overview about the application and its user interface and components. Each component will include a reference to its detailed documentation on how to use it.
+
+
+<br>
 
 Application is the main window of BlueGrid, where users perform quantity take-off projects.
 
@@ -138,8 +143,12 @@ Operations in the application are at project level. This means that the changes 
 
 > **Layers TabPane `5.3`** is displayed when user select Layers tab in the Left Panel, as follows:
 > 
-> > ![Materials TabPane](assets/image/application/layertab.png)
+> ![Materials TabPane](assets/image/application/layertab.png)
 
 > **Layers TabPane** is a tab pane that contains layer table that will be used to manage rendering objects in the PDF page by turning on/off layers. This feature will be useful when the PDF page has many layers and users want to focus on specific layers as well as to reduce noise. 
 
 
+> #### Bottom Bar
+```Navigation: Application | Draw View | Bottom Bar```
+
+> **Bottom Bar** is a bar that provides additional assisting options to the tool that is being used. For example, when user select a draw tool to draw shapes, users can select options of point snaps on the Bottom Bar to assist drawing shapes precisely. 

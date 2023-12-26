@@ -121,5 +121,5 @@ header {
 }
 
 .md-typeset blockquote {
-    color: var(--md-typeset-color);
+    /*color: var(--md-typeset-color);*/
 }
