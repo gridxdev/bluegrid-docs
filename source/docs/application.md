@@ -115,7 +115,7 @@ Operations in the application are at project level. This means that the changes 
 > **Draws TabPane `5.1`** is displayed when user select Draws tab in the Left Panel, as follows:
 
 > ![Draws TabPane](assets/image/application/drawtab.png)
-> *Draw Tab** is a tab pane that contains tools to draw shapes, add notes, annotations and images...etc. In **Draw TabPane** there are 4 tool sets:
+> **Draws TabPane** is a tab pane that contains tools to draw shapes, add notes, annotations and images...etc. In **Draw TabPane** there are 4 tool sets:
 
   1. **Shape Tools** allow users to draw 2D shapes that are used to compute metric values such as length, area, and volume. Shapes created using these tools are of Metric class and can be tagged to materials.
   2. **Modify Tools** allow users to change 'native' data of shapes,  e.g: to remove points from a polygon, to insert points to polygon. These tools are not used to add shapes or annotations.
@@ -137,7 +137,9 @@ Operations in the application are at project level. This means that the changes 
 ```Navigation: Application | Draw View | Left Panel | Layers TabPane```
 
 > **Layers TabPane `5.3`** is displayed when user select Layers tab in the Left Panel, as follows:
+> 
+> > ![Materials TabPane](assets/image/application/layertab.png)
 
-> **Layers TabPane** is a tab pane that contains layer table that will be used to manage rendering objects in the PDF page by turning on/off layers. This feature will be useful when the PDF page has many layers and users want to focus on  specific layers as well as reducing noise. 
+> **Layers TabPane** is a tab pane that contains layer table that will be used to manage rendering objects in the PDF page by turning on/off layers. This feature will be useful when the PDF page has many layers and users want to focus on specific layers as well as to reduce noise. 
 
 

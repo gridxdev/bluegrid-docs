@@ -119,3 +119,7 @@ header {
 .md-content__inner {
     max-width: 768px;
 }
+
+.md-typeset blockquote {
+    color: var(--md-typeset-color);
+}
