@@ -1,10 +1,17 @@
 ## Release notes
 
-### Version 1.0.94  
-- New features
-  - Add pen tool to draw freehand shapes.
+### Version 1.0.94 - 23/12/26
 
-### Version 1.0.93 - 22/12/24
+[//]: # (- New features)
+
+[//]: # (  - Add pen tool to draw freehand shapes.)
+
+- Enhancements
+    - Internal optimizations.
+- Bug fixes
+    - Fix PDF memory leaks.
+
+### Version 1.0.93 - 23/12/22
 - Bug fixes
     - Fix the bug of black thumbnail images in some PDF.
 

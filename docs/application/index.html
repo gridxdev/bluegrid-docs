@@ -445,22 +445,22 @@
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
-  <a href="#draw-tab" class="md-nav__link">
-    Draw Tab
+  <a href="#draws-tabpane" class="md-nav__link">
+    Draws TabPane
   </a>
   
 </li>
         
           <li class="md-nav__item">
-  <a href="#material-tab" class="md-nav__link">
-    Material Tab
+  <a href="#materials-tabpane" class="md-nav__link">
+    Materials TabPane
   </a>
   
 </li>
         
           <li class="md-nav__item">
-  <a href="#layer-tab" class="md-nav__link">
-    Layer Tab
+  <a href="#layers-tabpane" class="md-nav__link">
+    Layers TabPane
   </a>
   
 </li>
@@ -958,22 +958,22 @@
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
-  <a href="#draw-tab" class="md-nav__link">
-    Draw Tab
+  <a href="#draws-tabpane" class="md-nav__link">
+    Draws TabPane
   </a>
   
 </li>
         
           <li class="md-nav__item">
-  <a href="#material-tab" class="md-nav__link">
-    Material Tab
+  <a href="#materials-tabpane" class="md-nav__link">
+    Materials TabPane
   </a>
   
 </li>
         
           <li class="md-nav__item">
-  <a href="#layer-tab" class="md-nav__link">
-    Layer Tab
+  <a href="#layers-tabpane" class="md-nav__link">
+    Layers TabPane
   </a>
   
 </li>
@@ -1094,17 +1094,31 @@
 <h4 id="left-panel">Left Panel</h4>
 <p><code>Navigation: Application | Draw View | Left Panel</code></p>
 <p><strong>Left Panel</strong> is a panel that allows users to switch to between tab panes of the Draw View. These tabs contain tools and data that co-relate to Draw Canvas's data. The data displayed is at page level. There are 3 tabs: <a href="#draw-tab">Draw Tab</a>, <a href="#material-tab">Material Tab</a>, and <a href="#layer-tab">Layer Tab</a>.</p>
-<h5 id="draw-tab">Draw Tab</h5>
-<p><code>Navigation: Application | Draw View | Left Panel | Draw Tab</code></p>
+<h5 id="draws-tabpane">Draws TabPane</h5>
+<p><code>Navigation: Application | Draw View | Left Panel | Draws TabPane</code>
+Draw Tab Pane is displayed when user select Draw Tab in the Left Panel, as follows:</p>
+<p><img alt="Draws Tab Pane" src="../assets/image/application/drawtab.png">
+In <strong>Draw Tab Pane</strong> there are 3 tool sets:</p>
+</blockquote>
+<ol>
+<li><strong>Shape Tools <code>5.1</code></strong> allow users to draw 2D shapes that are used to compute metric values such as length, area, and volume. Shapes created using these tools are of Metric class and can be tagged to materials.</li>
+<li><strong>Modify Tools <code>5.2</code></strong> allow users to change 'native' data of shapes,  e.g: to remove points from a polygon, to insert points to polygon. These tools are not used to add shapes or annotations.</li>
+<li><strong>Annotation Tools <code>5.3</code></strong> allow users to add texts, annotations such as arrow, callouts, clouds, images..etc. Objects created using these tools are not of Metric class and can not be tagged to materials.</li>
+<li><strong>Symbol Tools <code>5.4</code></strong> is a dynamic tool set that user can to add, remove, or customize tools. These tools allow users to add blocked shapes which can not be changed 'natively'. Shapes added using these tools are of Metric class can also be used as counting when tagged to materials.</li>
+</ol>
+<blockquote>
 <p><strong>Draw Tab</strong> is a tab pane that contains tools to draw shapes, add notes, annotations and images...etc. </p>
-<h5 id="material-tab">Material Tab</h5>
-<p><code>Navigation: Application | Draw View | Left Panel | Material Tab</code></p>
+<h5 id="materials-tabpane">Materials TabPane</h5>
+<p><code>Navigation: Application | Draw View | Left Panel | Materials TabPane</code></p>
+<p>Materials TabPane is displayed when user select Materials Tab in the Left Panel, as follows:</p>
+<p><img alt="Materials Tab Pane" src="assets/image/application/materialtab.png"></p>
 <p><strong>Material Tab</strong> is a tab pane that contains material table that will be used to apply/tag to shapes. Once shapes are tagged to with a material, the shape style is bound to the material's style. 
 The quantity of the material is the sum of all shapes metric values that are tagged with it. Please take notes that users should trigger <a href="#compute-button">Compute Button</a> to compute the quantity of the material.
 The material table is at page level.</p>
-<h5 id="layer-tab">Layer Tab</h5>
-<p><code>Navigation: Application | Draw View | Left Panel | Layer Tab</code></p>
-<p><strong>Layer Tab</strong> is a tab pane that contains layer table that will be used to manage rendering objects in the PDF page by turning on/off layers. This feature will be useful when the PDF page has many layers and users want to focus on  specific layers as well as reducing noise. </p>
+<h5 id="layers-tabpane">Layers TabPane</h5>
+<p><code>Navigation: Application | Draw View | Left Panel | Layers TabPane</code></p>
+<p>Layers TabPane is displayed when user select Layers Tab in the Left Panel, as follows:</p>
+<p><strong>Layers TabPane</strong> is a tab pane that contains layer table that will be used to manage rendering objects in the PDF page by turning on/off layers. This feature will be useful when the PDF page has many layers and users want to focus on  specific layers as well as reducing noise. </p>
 </blockquote></div>
 
 
