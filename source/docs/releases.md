@@ -1,15 +1,13 @@
 ## Release notes
 
-### Version 1.0.94 - 23/12/26
+### Version 1.0.95 - 24/01/09
 
-[//]: # (- New features)
 
-[//]: # (  - Add pen tool to draw freehand shapes.)
 
 - Enhancements
     - Internal optimizations.
 - Bug fixes
-    - Fix PDF memory leaks.
+    - Fix bugs that may cause memory crash when snapping is on.
 
 ### Version 1.0.93 - 23/12/22
 - Bug fixes
