@@ -1,9 +1,13 @@
 ## Release notes
 
+### Version 1.0.96 - 24/01/11
+- Enhancements
+    - Internal optimizations.
+    - Support image texture paint.
+- Bug fixes
+    - Clip images.
+
 ### Version 1.0.95 - 24/01/09
-
-
-
 - Enhancements
     - Internal optimizations.
 - Bug fixes
