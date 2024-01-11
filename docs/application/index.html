@@ -268,6 +268,8 @@
       <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
       
       
+        
+      
       
         <label class="md-nav__link md-nav__link--active" for="__toc">
           Application
@@ -284,6 +286,8 @@
   
   
   
+    
+  
   
     <label class="md-nav__title" for="__toc">
       <span class="md-nav__icon md-icon"></span>
@@ -292,14 +296,6 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
-  <a href="#application" class="md-nav__link">
-    Application
-  </a>
-  
-    <nav class="md-nav" aria-label="Application">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
   <a href="#user-interface" class="md-nav__link">
     User Interface
   </a>
@@ -318,11 +314,6 @@
   <a href="#sub-view" class="md-nav__link">
     Sub-view
   </a>
-  
-</li>
-        
-      </ul>
-    </nav>
   
 </li>
         
@@ -470,6 +461,13 @@
   
 </li>
         
+          <li class="md-nav__item">
+  <a href="#bottom-bar" class="md-nav__link">
+    Bottom Bar
+  </a>
+  
+</li>
+        
       </ul>
     </nav>
   
@@ -533,7 +531,7 @@
   
     <li class="md-nav__item">
       <a href="../pdf/" class="md-nav__link">
-        Blueprints
+        PDF
       </a>
     </li>
   
@@ -797,6 +795,8 @@
   
   
   
+    
+  
   
     <label class="md-nav__title" for="__toc">
       <span class="md-nav__icon md-icon"></span>
@@ -805,14 +805,6 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
-  <a href="#application" class="md-nav__link">
-    Application
-  </a>
-  
-    <nav class="md-nav" aria-label="Application">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
   <a href="#user-interface" class="md-nav__link">
     User Interface
   </a>
@@ -831,11 +823,6 @@
   <a href="#sub-view" class="md-nav__link">
     Sub-view
   </a>
-  
-</li>
-        
-      </ul>
-    </nav>
   
 </li>
         
@@ -983,6 +970,13 @@
   
 </li>
         
+          <li class="md-nav__item">
+  <a href="#bottom-bar" class="md-nav__link">
+    Bottom Bar
+  </a>
+  
+</li>
+        
       </ul>
     </nav>
   
@@ -1008,9 +1002,11 @@
                   
 
 
-  <h1>Application</h1>
-
-<div><h2 id="application">Application</h2>
+<div><h1 id="application">Application</h1>
+<blockquote>
+<p><strong><em>Notes:</em></strong> This section provides an overview about the application and its user interface and components. Each component will include a reference to its detailed documentation on how to use it.</p>
+</blockquote>
+<p><br></p>
 <p>Application is the main window of BlueGrid, where users perform quantity take-off projects.</p>
 <p>Operations in the application are at project level. This means that the changes made in the application are applied to the project. Data of project is stored in the project file.</p>
 <h3 id="user-interface">User Interface</h3>
@@ -1096,29 +1092,32 @@
 <p><strong>Left Panel</strong> is a panel that allows users to switch to between tab panes of the Draw View. These tabs contain tools and data that co-relate to Draw Canvas's data. The data displayed is at page level. There are 3 tabs: <a href="#draw-tab">Draw Tab</a>, <a href="#material-tab">Material Tab</a>, and <a href="#layer-tab">Layer Tab</a>.</p>
 <h5 id="draws-tabpane">Draws TabPane</h5>
 <p><code>Navigation: Application | Draw View | Left Panel | Draws TabPane</code>
-Draw Tab Pane is displayed when user select Draw Tab in the Left Panel, as follows:</p>
-<p><img alt="Draws Tab Pane" src="../assets/image/application/drawtab.png">
-In <strong>Draw Tab Pane</strong> there are 3 tool sets:</p>
+<strong>Draws TabPane <code>5.1</code></strong> is displayed when user select Draws tab in the Left Panel, as follows:</p>
+<p><img alt="Draws TabPane" src="../assets/image/application/drawtab.png">
+<strong>Draws TabPane</strong> is a tab pane that contains tools to draw shapes, add notes, annotations and images...etc. In <strong>Draw TabPane</strong> there are 4 tool sets:</p>
 </blockquote>
 <ol>
-<li><strong>Shape Tools <code>5.1</code></strong> allow users to draw 2D shapes that are used to compute metric values such as length, area, and volume. Shapes created using these tools are of Metric class and can be tagged to materials.</li>
-<li><strong>Modify Tools <code>5.2</code></strong> allow users to change 'native' data of shapes,  e.g: to remove points from a polygon, to insert points to polygon. These tools are not used to add shapes or annotations.</li>
-<li><strong>Annotation Tools <code>5.3</code></strong> allow users to add texts, annotations such as arrow, callouts, clouds, images..etc. Objects created using these tools are not of Metric class and can not be tagged to materials.</li>
-<li><strong>Symbol Tools <code>5.4</code></strong> is a dynamic tool set that user can to add, remove, or customize tools. These tools allow users to add blocked shapes which can not be changed 'natively'. Shapes added using these tools are of Metric class can also be used as counting when tagged to materials.</li>
+<li><strong>Shape Tools</strong> allow users to draw 2D shapes that are used to compute metric values such as length, area, and volume. Shapes created using these tools are of Metric class and can be tagged to materials.</li>
+<li><strong>Modify Tools</strong> allow users to change 'native' data of shapes,  e.g: to remove points from a polygon, to insert points to polygon. These tools are not used to add shapes or annotations.</li>
+<li><strong>Annotation Tools</strong> allow users to add texts, annotations such as arrow, callouts, clouds, images..etc. Objects created using these tools are not of Metric class and can not be tagged to materials.</li>
+<li><strong>Symbol Tools</strong> is a dynamic tool set that user can to add, remove, or customize tools. These tools allow users to add blocked shapes which can not be changed 'natively'. Shapes added using these tools are of Metric class can also be used as counting when tagged to materials.</li>
 </ol>
 <blockquote>
-<p><strong>Draw Tab</strong> is a tab pane that contains tools to draw shapes, add notes, annotations and images...etc. </p>
 <h5 id="materials-tabpane">Materials TabPane</h5>
 <p><code>Navigation: Application | Draw View | Left Panel | Materials TabPane</code></p>
-<p>Materials TabPane is displayed when user select Materials Tab in the Left Panel, as follows:</p>
-<p><img alt="Materials Tab Pane" src="assets/image/application/materialtab.png"></p>
-<p><strong>Material Tab</strong> is a tab pane that contains material table that will be used to apply/tag to shapes. Once shapes are tagged to with a material, the shape style is bound to the material's style. 
+<p><strong>Materials TabPane <code>5.2</code></strong> is displayed when user select Materials tab in the Left Panel, as follows:</p>
+<p><img alt="Materials TabPane" src="../assets/image/application/materialtab.png"></p>
+<p><strong>Material TabPane</strong> is a tab pane that contains material table that will be used to apply/tag to shapes. Once shapes are tagged to with a material, the shape style is bound to the material's style. 
 The quantity of the material is the sum of all shapes metric values that are tagged with it. Please take notes that users should trigger <a href="#compute-button">Compute Button</a> to compute the quantity of the material.
 The material table is at page level.</p>
 <h5 id="layers-tabpane">Layers TabPane</h5>
 <p><code>Navigation: Application | Draw View | Left Panel | Layers TabPane</code></p>
-<p>Layers TabPane is displayed when user select Layers Tab in the Left Panel, as follows:</p>
-<p><strong>Layers TabPane</strong> is a tab pane that contains layer table that will be used to manage rendering objects in the PDF page by turning on/off layers. This feature will be useful when the PDF page has many layers and users want to focus on  specific layers as well as reducing noise. </p>
+<p><strong>Layers TabPane <code>5.3</code></strong> is displayed when user select Layers tab in the Left Panel, as follows:</p>
+<p><img alt="Materials TabPane" src="../assets/image/application/layertab.png"></p>
+<p><strong>Layers TabPane</strong> is a tab pane that contains layer table that will be used to manage rendering objects in the PDF page by turning on/off layers. This feature will be useful when the PDF page has many layers and users want to focus on specific layers as well as to reduce noise. </p>
+<h4 id="bottom-bar">Bottom Bar</h4>
+<p><code>Navigation: Application | Draw View | Bottom Bar</code></p>
+<p><strong>Bottom Bar</strong> is a bar that provides additional assisting options to the tool that is being used. For example, when user select a draw tool to draw shapes, users can select options of point snaps on the Bottom Bar to assist drawing shapes precisely. </p>
 </blockquote></div>
 
 
