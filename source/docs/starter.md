@@ -73,4 +73,4 @@ Identical shortcut keys in different groups at the same level will have the same
 ### Setting Profile
    ```Navigation: Starter | Settings | Setting Profile```
    
-**Setting Profile** is a settings section that allows users to save and load settings profiles. A settings profile is a set of settings that users can save and load for different purposes. For example, users can save a settings profile for a desktop device and another for a tablet device. 
+**Setting Profile** A setting profile contains information of all application including theme, style, precision, shortcut. keys etc... Settings section that allows users to save and load setting profiles.  For example, users can save a settings profile for a desktop device and another for a tablet device. 
