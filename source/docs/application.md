@@ -27,13 +27,14 @@ Operations within the application occur at the project level. This implies that 
 
 > Sub-view can be either [Document View](#document-view), [Draw View](#draw-view), or [Catalog View](#catalog-view). Each sub-view has its own functionalities and functions. All sub-views share the same project data. The Documents View is the default sub-view of the application when you open a project.
 
+
 ## Document View
 ```Navigation: Application | Documents View```
 
 > **Documents View** the view of project construction blueprints of PDF folders and pages.
 
 ### User Interface
-> The user interface is designed to facilitate PDF view (as thumbnails) and simple but powerful PDF blueprints management.
+> The user interface is designed to facilitate the viewing of PDFs (as thumbnails) and provide simple yet powerful management of PDF blueprints.
 
 > ![Document View interface](assets/image/application/documentview.png)
 
@@ -49,7 +50,7 @@ Operations within the application occur at the project level. This implies that 
 > #### Folders
 ```Navigation: Application | Documents View | Folders```
 
-> **Folders** is a list view that displays all PDF folders of the project. Users can click a folder item in the list to open it. To remove a folder from the list, select the folder item in the list, open [Folders Menu](#folders-menu), and select delete menu item.
+> [Folders](#folder) is provided with a list view that displays all PDF folders of the project. Users click a folder item in the list to open it. Once the folder is opened, all the PDF content is shown as thumbnails in a grid-view, referred to as [Pages](#pages). To remove a folder from the list, select the folder item in the list, open [Folders Menu](#folders-menu), and select delete menu item.
 
 > #### Pages
 ```Navigation: Application | Documents View | Pages```
