@@ -20,12 +20,12 @@ Operations within the application occur at the project level. This implies that 
 > #### Application Tool Bar
 ```Navigation: Application | Application Tool Bar```
 
-> The **Application Tool Bar**(#application-tool-bar) is on the top of the application view and is always visible by default. From the **[Application Tool Bar]**(#application-tool-bar), you do common operations such as save, undo, redo, and switch to different sub-views of the application, for the purposes of use. 
+> The [Application Tool Bar](#application-tool-bar) is on the top of the application view and is always visible by default. From the [Application Tool Bar](#application-tool-bar), users perform common operations such as save, undo, redo, and switch to different sub-views of the application for various purposes. 
 
 > #### Sub-view
 ```Navigation: Application | Sub-view```
 
-> Sub-view of can be either [Document View](#document-view), [Draw View](#draw-view), or [Catalog View](#catalog-view). Each sub-view has its own functionalities and functions. All sub-views share the same project data. The Documents View is the default sub-view of the application, when you open a project.
+> Sub-view can be either [Document View](#document-view), [Draw View](#draw-view), or [Catalog View](#catalog-view). Each sub-view has its own functionalities and functions. All sub-views share the same project data. The Documents View is the default sub-view of the application when you open a project.
 
 ## Document View
 ```Navigation: Application | Documents View```
