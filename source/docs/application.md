@@ -1,26 +1,26 @@
 # Application
 
-> **_Notes:_** This section provides an overview about the application and its user interface and components. Each component will include a reference to its detailed documentation on how to use it.
+> *This section provides an overview of the application, its user interface, and its components. Each component will be accompanied by a reference to its detailed documentation for usage instructions.*
 
 
 <br>
 
 Application is the main window of BlueGrid, where users perform quantity take-off projects.
 
-Operations in the application are at project level. This means that the changes made in the application are applied to the project. Data of project is stored in the project file.
+Operations within the application occur at the project level. This implies that any changes made within the application are applied directly to the project data. This project data is then stored within the project file.
 
 ### User Interface
-> The application has an [Application Tool Bar](#application-tool-bar) and 3 sub-views: [Document View](#document-view), [Draw View](#draw-view), and [Catalog View](#catalog-view). At a time, there is only one of the views is displayed. Users can change view via **Application Tool Bar**
+> The application features an [Application Tool Bar](#application-tool-bar) and 3 sub-views: [Document View](#document-view), [Draw View](#draw-view), and [Catalog View](#catalog-view). At a given time, only one of these views is displayed. Users can switch between views using the [Application Tool Bar](#application-tool-bar).
 
 > ![Document View interface](assets/image/application/application.png)
 
-> 1. [Application Tool Bar](#application-tool-bar)
-> 2. [Sub-view](#sub-view)
+ 1. [Application Tool Bar](#application-tool-bar)
+ 2. [Sub-view](#sub-view)
 
 > #### Application Tool Bar
 ```Navigation: Application | Application Tool Bar```
 
-> The **Application Tool Bar** is on the top of the application view and is always visible by default. From the **Application Tool Bar**, you do common operation such as save, undo, redo, and navigate to different sub-views of the application, for the purposes of use. 
+> The **Application Tool Bar**(#application-tool-bar) is on the top of the application view and is always visible by default. From the **[Application Tool Bar]**(#application-tool-bar), you do common operations such as save, undo, redo, and switch to different sub-views of the application, for the purposes of use. 
 
 > #### Sub-view
 ```Navigation: Application | Sub-view```
