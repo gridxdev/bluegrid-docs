@@ -18,62 +18,59 @@ Operations within the application occur at the project level. This implies that 
  2. [Sub-view](#sub-view)
 
 > #### Application Tool Bar
-```Navigation: Application | Application Tool Bar```
+```Navigation: Application > Application Tool Bar```
 
 > The [Application Tool Bar](#application-tool-bar) is on the top of the application view and is always visible by default. From the [Application Tool Bar](#application-tool-bar), users perform common operations such as save, undo, redo, and switch to different sub-views of the application for various purposes. 
 
 > #### Sub-view
-```Navigation: Application | Sub-view```
+```Navigation: Application > Sub-view```
 
 > Sub-view can be either [Document View](#document-view), [Draw View](#draw-view), or [Catalog View](#catalog-view). Each sub-view has its own functionalities and functions. All sub-views share the same project data. The Documents View is the default sub-view of the application when you open a project.
 
 
 ## Document View
-```Navigation: Application | Documents View```
+```Navigation: Application > Document View```
 
-> **Documents View** the view of project construction blueprints of PDF folders and pages.
+[Documents View](#document-view) is the view of project construction blueprints of PDF folders and pages. The user interface is designed to facilitate the viewing of PDFs (as thumbnails) and provide simple yet powerful management of PDF blueprints.
 
-### User Interface
-> The user interface is designed to facilitate the viewing of PDFs (as thumbnails) and provide simple yet powerful management of PDF blueprints.
+![Document View interface](assets/image/application/documentview.png)
 
-> ![Document View interface](assets/image/application/documentview.png)
-
-> 1. [Application Tool Bar](#application-tool-bar)
-> 2. [Folders](#folders) 
-> 3. [Pages](#pages) 
-> 4. [Folders menu](#folders-menu)
-> 5. [Pages menu](#folders-menu)
-> 6. [Page thumbnails](#page-thumbnials)
-> 7. [Pages context menu](#pages-context-menu)
+1. [Application Tool Bar](#application-tool-bar)
+2. [Folders](#folders) 
+3. [Pages](#pages) 
+4. [Folders menu](#folders-menu)
+5. [Pages menu](#folders-menu)
+6. [Page thumbnails](#page-thumbnials)
+7. [Pages context menu](#pages-context-menu)
 
 
-> #### Folders
-```Navigation: Application | Documents View | Folders```
+### Folders
+```Navigation: Application | Document View | Folders```
 
-> [Folders](#folder) is provided with a list view that displays all PDF folders of the project. Users click a folder item in the list to open it. Once the folder is opened, all the PDF content is shown as thumbnails in a grid-view, referred to as [Pages](#pages). To remove a folder from the list, select the folder item in the list, open [Folders Menu](#folders-menu), and select delete menu item.
+[Folders](#folder) is provided with a list view that displays all PDF folders of the project. Users click a folder item in the list to open it. Once the folder is opened, all the PDF content is shown as thumbnails in a grid-view, referred to as [Pages](#pages). To remove a folder from the list, select the folder item in the list, open [Folders Menu](#folders-menu), and select delete menu item.
 
-> #### Pages
-```Navigation: Application | Documents View | Pages```
+### Pages
+```Navigation: Application | Document View | Pages```
 
-> **Pages** is a grid view that displays PDF pages in thumbnails of an opened folder. To open a page, user double-click the page thumbnail or select Open in the Page Context Menu. To remove a page , select the page thumbnail, open [Pages Menu](#pages-menu) or right-click the page  thumbnail to open context menu, and select **Delete Pages** menu item.
+[Pages](#pages) is provided with grid view that displays PDF pages in thumbnails of an opened folder. To open a page, user can either double-click the page thumbnail or select Open Menu in the Page Context Menu. To remove a page , users need to select the page thumbnail, then either open [Pages Menu](#pages-menu) or right-click the page  thumbnail to open context menu, and finally select Delete Pages menu item.
 
 > #### Folders menu
-```Navigation: Application | Documents View | Folders | Folders menu```
+```Navigation: Application | Document View | Folders | Folders menu```
 
 > **Folders menu** is a menu that provides functions to manage PDF folders such as add, delete, rename... To open the menu, right-click the folder list or click the menu button on the top-right corner of the folder list.
 
 > #### Pages menu
-```Navigation: Application | Documents View | Pages | Pages menu```
+```Navigation: Application | Document View | Pages | Pages menu```
 
 > **Pages menu** is a menu that provides functions to manage PDF pages of a folder such as open, delete, append, import, export, duplicate... To open the menu,  click the menu button on the top-right corner of the page list. Users can also select multiple pages to perform batch operations such as delete, export, duplicate...
 
 > #### Page thumbnails
-```Navigation: Application | Documents View | Pages | Page thumbnails```
+```Navigation: Application | Document View | Pages | Page thumbnails```
 
 > Under-laying data of a page thumbnail is the page data set which consists of the PDF page, shapes, materials, annotations, and any data the user added to the page.To open a page, user double-click the page thumbnail or select Open in the [**Page Context Menu `7` **](#pages-context-menu). By opening a page, the application navigates to the [Draw View](#draw-view), loads data page set into the Draw View.
 
 > #### Pages context menu
-```Navigation: Application | Documents View | Pages | Page context menu```
+```Navigation: Application | Document View | Pages | Page context menu```
 
 > **Page context menu** is a menu that provides functions to manage selected PDF pages such as open, delete, append, import, export, duplicate... To open the menu, right-click the page thumbnail. Users can also select multiple pages to perform batch operations such as delete, export, duplicate... **Page context menu** has similar functions as [Pages menu](#pages-menu) as another option to accent pages functions by using right-click.
 
