@@ -54,12 +54,12 @@ Operations within the application occur at the project level. This implies that 
 
 [Pages](#pages) is provided with grid view that displays PDF pages in thumbnails of an opened folder. To open a page, user can either double-click the page thumbnail or select Open Menu in the Page Context Menu. To remove a page , users need to select the page thumbnail, then either open [Pages Menu](#pages-menu) or right-click the page  thumbnail to open context menu, and finally select Delete Pages menu item.
 
-### Folders Menu
+### Folders menu
 ```Navigation: Application | Document View | Folders | Folders menu```
 
 [Folders menu](#folders-menu) is a feature that provides functions for managing PDF folders such as adding, deleting, renaming. To access the menu, users can either right-click the folder list view or click the menu button located in the top-right corner of the folder list view.
 
-### Pages Menu
+### Pages menu
 ```Navigation: Application | Document View | Pages | Pages menu```
 
 [Pages menu](#pages-menu) is a feature that provides functions to managing PDF pages of an opened folder such as opening, deleting, appending, importing, exporting, and duplicating. To access the menu, users either click the menu button located in the top-right corner of the page list or right-click the page grid view to open the context menu. Users can also select multiple pages to perform batch operations.
@@ -78,11 +78,9 @@ Under-laying data of a page thumbnail is the page dataset, which consists of the
 ## Draw View
 ```Navigation: Application | Draw View```
 
-> **Draw View** is the centric interface of the application. It is where users perform quantity take-off, create and edit shapes, materials, tags, annotations, images...etc.
+[Draw View](#draw-view) is the centric interface of the application. It is where users perform quantity take-off, create and edit shapes, materials, tags, annotations, images...etc.
+When you open a page, the Draw View interface looks as follows:
 
-### User Interface
-
-> When you open a page, the Draw View interface looks as follows:
 
 > ![Draw View interface](assets/image/application/drawview.png)
 > 
