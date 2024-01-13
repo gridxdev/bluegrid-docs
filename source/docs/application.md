@@ -57,22 +57,22 @@ Operations within the application occur at the project level. This implies that 
 ### Folders Menu
 ```Navigation: Application | Document View | Folders | Folders menu```
 
-[Folders Menu](#folders-menu) is a feature that provides functions for managing PDF folders such as adding, deleting, renaming. To access the menu, users can either right-click the folder list view or click the menu button located in the top-right corner of the folder list view.
+[Folders menu](#folders-menu) is a feature that provides functions for managing PDF folders such as adding, deleting, renaming. To access the menu, users can either right-click the folder list view or click the menu button located in the top-right corner of the folder list view.
 
 ### Pages Menu
 ```Navigation: Application | Document View | Pages | Pages menu```
 
-[Pages Menu](#pages-menu) is a feature that provides functions to managing PDF pages of an opened folder such as opening, deleting, appending, importing, exporting, and duplicating. To access the menu, users either click the menu button located in the top-right corner of the page list or right-click the page grid view to open the context menu. Users can also select multiple pages to perform batch operations.
+[Pages menu](#pages-menu) is a feature that provides functions to managing PDF pages of an opened folder such as opening, deleting, appending, importing, exporting, and duplicating. To access the menu, users either click the menu button located in the top-right corner of the page list or right-click the page grid view to open the context menu. Users can also select multiple pages to perform batch operations.
 
-> #### Page thumbnails
+### Page thumbnails
 ```Navigation: Application | Document View | Pages | Page thumbnails```
 
-> Under-laying data of a page thumbnail is the page data set which consists of the PDF page, shapes, materials, annotations, and any data the user added to the page.To open a page, user double-click the page thumbnail or select Open in the [**Page Context Menu `7` **](#pages-context-menu). By opening a page, the application navigates to the [Draw View](#draw-view), loads data page set into the Draw View.
+Under-laying data of a page thumbnail is the page dataset, which consists of the PDF page, shapes, materials, annotations, and any additional data that users has added to the page. To open a page, users either double-click the page thumbnail or select Open option in the [Page context menu](#pages-context-menu). Upon opening a page, the application automatically switches to the [Draw View](#draw-view), loads page dataset into this view.
 
-> #### Pages context menu
+### Pages context menu
 ```Navigation: Application | Document View | Pages | Page context menu```
 
-> **Page context menu** is a menu that provides functions to manage selected PDF pages such as open, delete, append, import, export, duplicate... To open the menu, right-click the page thumbnail. Users can also select multiple pages to perform batch operations such as delete, export, duplicate... **Page context menu** has similar functions as [Pages menu](#pages-menu) as another option to accent pages functions by using right-click.
+[Pages context menu](#pages-context-menu) provides functionalities as [Pages menu](#pages-menu) 
 
 
 ## Draw View
