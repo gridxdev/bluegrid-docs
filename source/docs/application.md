@@ -38,10 +38,10 @@ Operations within the application occur at the project level. This implies that 
 1. [Application Tool Bar](#application-tool-bar)
 2. [Folders](#folders) 
 3. [Pages](#pages) 
-4. [Folders menu](#folders-menu)
-5. [Pages menu](#folders-menu)
-6. [Page thumbnails](#page-thumbnials)
-7. [Pages context menu](#pages-context-menu)
+4. [Folders Menu](#folders-menu)
+5. [Pages Menu](#folders-menu)
+6. [Page Thumbnails](#page-thumbnials)
+7. [Pages Context Menu](#pages-context-menu)
 
 
 ### Folders
@@ -54,15 +54,15 @@ Operations within the application occur at the project level. This implies that 
 
 [Pages](#pages) is provided with grid view that displays PDF pages in thumbnails of an opened folder. To open a page, user can either double-click the page thumbnail or select Open Menu in the Page Context Menu. To remove a page , users need to select the page thumbnail, then either open [Pages Menu](#pages-menu) or right-click the page  thumbnail to open context menu, and finally select Delete Pages menu item.
 
-> #### Folders menu
+### Folders Menu
 ```Navigation: Application | Document View | Folders | Folders menu```
 
-> **Folders menu** is a menu that provides functions to manage PDF folders such as add, delete, rename... To open the menu, right-click the folder list or click the menu button on the top-right corner of the folder list.
+[Folders Menu](#folders-menu) is a feature that provides functions for managing PDF folders such as adding, deleting, renaming. To access the menu, users can either right-click the folder list view or click the menu button located in the top-right corner of the folder list view.
 
-> #### Pages menu
+### Pages Menu
 ```Navigation: Application | Document View | Pages | Pages menu```
 
-> **Pages menu** is a menu that provides functions to manage PDF pages of a folder such as open, delete, append, import, export, duplicate... To open the menu,  click the menu button on the top-right corner of the page list. Users can also select multiple pages to perform batch operations such as delete, export, duplicate...
+[Pages Menu](#pages-menu) is a feature that provides functions to managing PDF pages of an opened folder such as opening, deleting, appending, importing, exporting, and duplicating. To access the menu, users either click the menu button located in the top-right corner of the page list or right-click the page grid view to open the context menu. Users can also select multiple pages to perform batch operations.
 
 > #### Page thumbnails
 ```Navigation: Application | Document View | Pages | Page thumbnails```
