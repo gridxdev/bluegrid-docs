@@ -1,4 +1,5 @@
 :root {
+    --rs-color-grey-100: #282828;
     --rs-color-grey-95: #252528;
     --rs-color-grey-90: #303033;
     --rs-color-grey-80: #474749;
@@ -16,6 +17,15 @@
     --md-accent-bg-color: hsla(0, 0%, 100%, 1);
     --md-accent-bg-color--light: hsla(0, 0%, 100%, 0.7);
     --md-typeset-color: var(--rs-color-grey-5);
+
+
+    --md-default-bg-color: var(--rs-color-grey-100);
+
+    --md-primary-fg-color: DodgerBlue;
+
+}
+body {
+    background-color: var(--rs-color-grey-100);
 }
 .md-grid {
     margin-left: 0;
@@ -23,13 +33,12 @@
     max-width: 100%;
 }
 
-
 .md-header--shadow {
     box-shadow: 0 0 0.2rem #0000001a, 0 0.2rem 0.4rem #0003;
     transition: transform .25s cubic-bezier(.1,.7,.1,1),box-shadow .25s;
 }
 .md-header {
-    background-color: var(--md-primary-fg-color);
+    background-color: var(--rs-color-grey-90);
     box-shadow: 0 0 0.2rem #0000, 0 0.2rem 0.4rem #0000;
     color: var(--md-primary-bg-color);
     display: block;

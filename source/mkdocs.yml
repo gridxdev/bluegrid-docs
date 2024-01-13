@@ -9,7 +9,7 @@ theme:
     text: Roboto
     code: Roboto Mono
 
-  custom_dir: overrides
+#  custom_dir: overrides
   feature:
     - navigation.sections
     - navigation.expand

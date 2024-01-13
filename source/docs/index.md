@@ -10,10 +10,10 @@ Please stay updated!</h1>
 * **Bill of Material**: Lists or exports the bill of material directly on PDF blueprints or to csv (excel) files.
 * **Import and Export**: Imports and exports files to and from PDF, CSV, JSON, etc. for re-use and sharing.
 * **Fast and precise point snap**: Provides fast and precise point snap for accurate measurements.
-* **Real-time rendering**: Renders in real-time with thin line mode for the best experience.
+* **Real-time rendering**: Renders in real-time with thin line mode for the best user experience.
 * **Drawing tools**: Provides drawing tools to create shapes, markups, and annotations with metric properties for various use cases.
 * **Note-taking**: Allows you to add notes with text, callout, cloud, and unlimited block shapes.
-* **Shape manipulation**: Enables you to transform, flip, rotate, scale, resize, and style shapes, markups, notes, and annotations with 16 million colors.
+* **Shape manipulation**: Enables you to transform, flip, rotate, scale, resize, and style shapes, markups, notes, and annotations.
 * **Material coding**: Codes and standardizes materials for easy identification.
 * **Drag-and-drop material**: Allows you to drag and drop materials onto shapes.
 * **PDF layer**: Provides layer on/off functionality to reduce noise.
