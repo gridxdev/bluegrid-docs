@@ -1,8 +1,11 @@
-<h1 style="color: darkorange">We are regularly shipping new updates and features.<br>
-Your project data is long-term supported. <br>
-Please stay updated!</h1>
+[//]: # (<h1 style="color: darkorange">We are regularly shipping new updates and features.<br>)
 
-<hr>
+[//]: # (Your project data is long-term supported. <br>)
+
+[//]: # (Please stay updated!</h1>)
+
+[//]: # ()
+[//]: # (<hr>)
 <h1>THE TAKE-OFF SOFTWARE</h1>
 
 # Implemented features and functions
