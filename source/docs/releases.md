@@ -1,5 +1,11 @@
 ## Release notes
 
+### Version 1.0.97 - 24/01/18
+- Enhancements
+  - Internal optimizations.
+- Bug fixes
+  - Fix bugs in pdf shapes selection.
+
 ### Version 1.0.96 - 24/01/11
 - Enhancements
     - Internal optimizations.

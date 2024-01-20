@@ -1,14 +1,7 @@
-[//]: # (<h1 style="color: darkorange">We are regularly shipping new updates and features.<br>)
 
-[//]: # (Your project data is long-term supported. <br>)
-
-[//]: # (Please stay updated!</h1>)
-
-[//]: # ()
-[//]: # (<hr>)
 <h1>THE TAKE-OFF SOFTWARE</h1>
 
-# Implemented features and functions
+## Implemented features and functions
 * **PDF support**: Supports PDF files with vector and image formats.
 * **Bill of Material**: Lists or exports the bill of material directly on PDF blueprints or to csv (excel) files.
 * **Import and Export**: Imports and exports files to and from PDF, CSV, JSON, etc. for re-use and sharing.
