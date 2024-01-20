@@ -31,7 +31,7 @@ Operations within the application occur at the project level. This implies that 
 ## Document View
 ```Navigation: Application | Document View```
 
-[Documents View](#document-view) is the view of project construction blueprints of PDF folders and pages. The user interface is designed to facilitate the viewing of PDFs (as thumbnails) and provide simple yet powerful management of PDF blueprints.
+[Document View](#document-view) is the view of project construction blueprints of PDF folders and pages. The user interface is designed to facilitate the viewing of PDFs (as thumbnails) and provide simple yet powerful management of PDF blueprints.
 
 ![Document View interface](assets/image/application/documentview.png)
 
@@ -74,7 +74,7 @@ Under-laying data of a page thumbnail is the page dataset, which consists of the
 
 [Pages context menu](#pages-context-menu) provides functionalities as [Pages menu](#pages-menu) 
 
-
+For more information about the Document View, please refer to [PDF documents](../pdf).
 ## Draw View
 ```Navigation: Application | Draw View```
 
@@ -109,14 +109,14 @@ When you open a page, the Draw View interface looks as follows:
 > #### Left Panel
 ```Navigation: Application | Draw View | Left Panel```
 
-> **Left Panel** is a panel that allows users to switch to between tab panes of the Draw View. These tabs contain tools and data that co-relate to Draw Canvas's data. The data displayed is at page level. There are 3 tabs: [Draw Tab](#draw-tab), [Material Tab](#material-tab), and [Layer Tab](#layer-tab).
+> Left Panel is a panel that allows users to switch to between tab panes of the Draw View. These tabs contain tools and data that co-relate to Draw Canvas's data. The data displayed is at page level. There are 3 tabs: [Draw Tab](#draw-tab), [Material Tab](#material-tab), and [Layer Tab](#layer-tab).
 
 > ##### Draws TabPane
 ```Navigation: Application | Draw View | Left Panel | Draws TabPane```
-> **Draws TabPane `5.1`** is displayed when user select Draws tab in the Left Panel, as follows:
+> Draws TabPane `5.1` is displayed when user select Draws tab in the Left Panel, as follows:
 
 > ![Draws TabPane](assets/image/application/drawtab.png)
-> **Draws TabPane** is a tab pane that contains tools to draw shapes, add notes, annotations and images...etc. In **Draw TabPane** there are 4 tool sets:
+> Draws TabPane is a tab pane that contains tools to draw shapes, add notes, annotations and images...etc. In **Draw TabPane** there are 4 tool sets:
 
   1. **Shape Tools** allow users to draw 2D shapes that are used to compute metric values such as length, area, and volume. Shapes created using these tools are of Metric class and can be tagged to materials.
   2. **Modify Tools** allow users to change 'native' data of shapes,  e.g: to remove points from a polygon, to insert points to polygon. These tools are not used to add shapes or annotations.
@@ -126,25 +126,25 @@ When you open a page, the Draw View interface looks as follows:
 > ##### Materials TabPane
 ```Navigation: Application | Draw View | Left Panel | Materials TabPane```
 
-> **Materials TabPane `5.2`** is displayed when user select Materials tab in the Left Panel, as follows:
+> Materials TabPane `5.2` is displayed when user select Materials tab in the Left Panel, as follows:
 >
 > ![Materials TabPane](assets/image/application/materialtab.png)
   
-> **Material TabPane** is a tab pane that contains material table that will be used to apply/tag to shapes. Once shapes are tagged to with a material, the shape style is bound to the material's style. 
+> Material TabPane is a tab pane that contains material table that will be used to apply/tag to shapes. Once shapes are tagged to with a material, the shape style is bound to the material's style. 
 > The quantity of the material is the sum of all shapes metric values that are tagged with it. Please take notes that users should trigger [Compute Button](#compute-button) to compute the quantity of the material.
 > The material table is at page level.
 
 > ##### Layers TabPane
 ```Navigation: Application | Draw View | Left Panel | Layers TabPane```
 
-> **Layers TabPane `5.3`** is displayed when user select Layers tab in the Left Panel, as follows:
+> Layers TabPane `5.3` is displayed when user select Layers tab in the Left Panel, as follows:
 > 
 > ![Materials TabPane](assets/image/application/layertab.png)
 
-> **Layers TabPane** is a tab pane that contains layer table that will be used to manage rendering objects in the PDF page by turning on/off layers. This feature will be useful when the PDF page has many layers and users want to focus on specific layers as well as to reduce noise. 
+> Layers TabPane is a tab pane that contains layer table that will be used to manage rendering objects in the PDF page by turning on/off layers. This feature will be useful when the PDF page has many layers and users want to focus on specific layers as well as to reduce noise. 
 
 
-> #### Bottom Bar
+> ### Bottom Bar
 ```Navigation: Application | Draw View | Bottom Bar```
 
-> **Bottom Bar** is a bar that provides additional assisting options to the tool that is being used. For example, when user select a draw tool to draw shapes, users can select options of point snaps on the Bottom Bar to assist drawing shapes precisely. 
+> Bottom Bar is a bar that provides additional assisting options to the tool that is being used. For example, when user select a draw tool to draw shapes, users can select options of point snaps on the Bottom Bar to assist drawing shapes precisely. 

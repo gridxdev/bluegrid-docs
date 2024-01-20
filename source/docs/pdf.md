@@ -1,75 +1,79 @@
-In BlueGrid, pdf blueprints is the main input data that every project must have for users to perform take-off or markup tasks.
+In BlueGrid, PDF blueprints are the main input data that every project must have for users to perform take-off or markup tasks.
 
-## 1. Import files
+## Import PDF files
 To import pdf files, follow steps below:
 
-1. Go to Documents view,
-2. From the file menu select the menu "Import pdf files",
-3. Navigate the pdf files and click Open.
+1. Go to [Document view](../application/#document-view).
+2. From the file menu select the option `Import PDF files`.
+3. Navigate the PDF files and click `Open`.
+
+Upon importing PDF files, BlueGrid will store the PDF files in folders that have similar names to the PDF files.
+
+If you wish to import PDF files to a specific folder, please create the folder first and then [append the PDF files](#append-pages) to the folder.
 
    ![type:video](https://www.youtube.com/embed/rsp7yxf9m5Y)
-<figcaption>Import pdf files</figcaption>
+<figcaption>Import PDF files</figcaption>
 
-## 2. Remove files
-This instruction will show you how to remove PDF files from the Documents view. This action will remove all data associated with the deleted PDF files, including quantity take-off, material, markups, etc. _**This action cannot be undone.**_
+## Remove PDF folders
+This guide will show you how to remove PDF folder from the [Document view](../appication/#document-view). Please note that this action will remove all data associated with the deleted PDF folders, including quantity take-off, material, markups, etc. **As this action cannot be undone, please proceed with caution.**
 
-1. Go to Documents view.
-2. From the file list, select the files that you want to delete.
-3. Go to the File menu and select the option "Remove PDF files".
+1. Go to [Document view](../appication/#document-view).
+2. From the file list, select the folders that you wish to delete.
+3. Go to the `File menu` and select the option `Remove PDF files`.
 
    ![type:video](https://www.youtube.com/embed/wNityPXCH7E)
 <figcaption>Remove pdf files</figcaption>
 
-## 3. Remove pages
-This instruction will show you how to remove PDF pages, from a pdf file in Documents view. This action will delete all data related to the pages including quantity take-off, material, markups, etc. **This action cannot be undone.**
+## Remove pages
+This instruction will show you how to remove PDF pages, from a PDF folder in [Document view](../application/#document-view). This action will delete all data associated to the pages including quantity take-off, material, markups, etc. **As this action cannot be undone, please proceed with caution.**
 
 1. Go to Documents view,
-2. On the pages view, select pages you want to remove (*hold Ctrl down to select multiple pages*),
-3. Go to page menu, select the menu "Remove pages".
+2. On the pages view, select pages you want to remove (_hold `Ctrl` down to select multiple pages_),
+3. Navigate `Page menu`, select the option `Remove pages`.
 
    ![type:video](https://www.youtube.com/embed/pF7-XBC9DJo)
 <figcaption>Remove pages</figcaption>
 
-## 4. Append pages
-To append pdf pages to a pdf file, follow steps below:
+## Append pages
+To append PDF pages to a PDF folder, follow steps below:
 
-1. Go to Documents view, select the file the pdf pages will be appended to,
-2. In the pages view, select "Append pages menu",
-3. Navigate the pdf file and click Open.
+1. Go to [Document view](../application/#document-view), select the PDF folder to which you wish to append the PDF files.
+2. Navigate to the `Page menu`, select the option `Append pages menu`,
+3. Navigate the PDF files and click `Open`.
 
    ![type:video](https://www.youtube.com/embed/1u7DFIRSXJg)
 <figcaption>Append pages</figcaption>
 
-## 5. Export pages
-In BlueGrid you can export pdf pages with visual quantity markup and quantity list to pdf.To export pdf pages, follow steps below:
+## Export pages
+In BlueGrid you can export PDF pages with visual quantity markup and quantity list, and any annotations to PDF files.To export PDF pages, follow steps below:
 
-1. Go to Documents view,
-2. From the pages view, select pages to export, (*hold Ctrl down to select multiple pages*).
-3. From the page menu select the menu "Export pdf pages",
-4. Locate the directory, set the file's name and click Save.
+1. Go to [Document view](../application/#document-view).
+2. From the `Page view`, select pages you wish to export, (_hold `Ctrl` down to select multiple pages_).
+3. Navigate the `Pages menu` select the option `Export pdf pages`.
+4. Navigate to the desired directory, set the file’s name, and click `Save`.
 
    ![type:video](https://www.youtube.com/embed/1TkAnGGe9sk)
-<figcaption>Export pages</figcaption>
+<figcaption>Export PDF pages</figcaption>
 
-## 6. Replace pages
+## Replace pages
 To replace a page, follow steps below:
 
-1. Go to Documents view,
-2. From the pages view, select the page you want to replace,
-3. Right click to open context menu, select menu "Replace page",
-4. Navigate the pdf file and click Open.
+1. Go to [Document view](../application/#document-view).
+2. From the `Pages view`, select the page you wish it to be replaced,
+3. Right click to open context menu, select the option `Replace page`,
+4. Navigate the PDF file and click `Open`.
 
    ![type:video](https://www.youtube.com/embed/xbv6FI8_FE4)
 <figcaption>Replace pages</figcaption>
 
-## 7. Setting scale
+## Setting scale
 To page scale, follow steps below:
 
-1. Go to Draw view,
-2. Turn on point snap *for accuracy*,
-3. In draw toolbar select scale tool,
-4. Pick two points which you know the distance of them, *these two points are usually the dim points*,
-5. Put the value of the distance into the scale dialog.
+1. Go to [Draw view](../application/#draw-view).
+2. Turn on point snap *for accuracy*.
+3. In draw tool set, select scale tool.
+4. Pick two points between which you know the distance (_these two points are usually the dimension points_).
+5. Enter the value of the distance into the `scale dialog`.
 
    ![type:video](https://www.youtube.com/embed/9X7IzYknEKU?si=iAP3beAH_gGC3T0T)
 <figcaption>Set page's scale</figcaption>
