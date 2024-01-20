@@ -1,16 +1,16 @@
-In BlueGrid, pdf blueprints is the main input data that every project must have for users to perform take-off or markup tasks.
+In BlueGrid, PDF blueprints are the main input data that every project must have for users to perform take-off or markup tasks.
 
-## 1. Import files
+## Import PDF files
 To import pdf files, follow steps below:
 
-1. Go to Documents view,
-2. From the file menu select the menu "Import pdf files",
-3. Navigate the pdf files and click Open.
+1. Go to [Document view](../application/#document-view).
+2. From the file menu select the option `Import pdf files`.
+3. Navigate the PDF files and click `Open`.
 
    ![type:video](https://www.youtube.com/embed/rsp7yxf9m5Y)
-<figcaption>Import pdf files</figcaption>
+<figcaption>Import PDF files</figcaption>
 
-## 2. Remove files
+## Remove files
 This instruction will show you how to remove PDF files from the Documents view. This action will remove all data associated with the deleted PDF files, including quantity take-off, material, markups, etc. _**This action cannot be undone.**_
 
 1. Go to Documents view.
@@ -20,7 +20,7 @@ This instruction will show you how to remove PDF files from the Documents view. 
    ![type:video](https://www.youtube.com/embed/wNityPXCH7E)
 <figcaption>Remove pdf files</figcaption>
 
-## 3. Remove pages
+## Remove pages
 This instruction will show you how to remove PDF pages, from a pdf file in Documents view. This action will delete all data related to the pages including quantity take-off, material, markups, etc. **This action cannot be undone.**
 
 1. Go to Documents view,
@@ -30,7 +30,7 @@ This instruction will show you how to remove PDF pages, from a pdf file in Docum
    ![type:video](https://www.youtube.com/embed/pF7-XBC9DJo)
 <figcaption>Remove pages</figcaption>
 
-## 4. Append pages
+## Append pages
 To append pdf pages to a pdf file, follow steps below:
 
 1. Go to Documents view, select the file the pdf pages will be appended to,
@@ -40,7 +40,7 @@ To append pdf pages to a pdf file, follow steps below:
    ![type:video](https://www.youtube.com/embed/1u7DFIRSXJg)
 <figcaption>Append pages</figcaption>
 
-## 5. Export pages
+## Export pages
 In BlueGrid you can export pdf pages with visual quantity markup and quantity list to pdf.To export pdf pages, follow steps below:
 
 1. Go to Documents view,
@@ -51,7 +51,7 @@ In BlueGrid you can export pdf pages with visual quantity markup and quantity li
    ![type:video](https://www.youtube.com/embed/1TkAnGGe9sk)
 <figcaption>Export pages</figcaption>
 
-## 6. Replace pages
+## Replace pages
 To replace a page, follow steps below:
 
 1. Go to Documents view,
@@ -62,7 +62,7 @@ To replace a page, follow steps below:
    ![type:video](https://www.youtube.com/embed/xbv6FI8_FE4)
 <figcaption>Replace pages</figcaption>
 
-## 7. Setting scale
+## Setting scale
 To page scale, follow steps below:
 
 1. Go to Draw view,

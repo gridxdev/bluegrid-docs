@@ -9,7 +9,7 @@ theme:
     text: Roboto
     code: Roboto Mono
 
-#  custom_dir: overrides
+  custom_dir: overrides
   feature:
     - navigation.sections
     - navigation.expand
@@ -64,7 +64,7 @@ nav:
       - Application: 'application.md'
       - Data:  'data.md'
   - Project: 'project.md'
-  - PDF : "pdf.md"
+  - PDF documents : "pdf.md"
   - Materials:
       - Catalogs/WBS: "wbs.md"
       - Materials: "material.md"
