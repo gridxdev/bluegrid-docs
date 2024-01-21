@@ -9,107 +9,107 @@ Application is the main window of BlueGrid, where users perform quantity take-of
 
 Operations within the application occur at the project level. This implies that any changes made within the application are applied directly to the project data. This project data is then stored within the project file.
 
-### User Interface
-> The application features an [Application Tool Bar](#application-tool-bar) and 3 sub-views: [Document View](#document-view), [Draw View](#draw-view), and [Catalog View](#catalog-view). At a given time, only one of these views is displayed. Users can switch between views using the [Application Tool Bar](#application-tool-bar).
+The application features a [Navigation bar](#navigation-bar) and 3 sub-views: [Document view](#document-view), [Draw view](#draw-view), and [Catalog view](#catalog-view). At a given time, only one of these views is displayed. [Document-view](#document-view) is the default sub-view when users open the application. Users can switch between views using the [Navigation bar](#navigation-bar).
 
-> ![Document View interface](assets/image/application/application.png)
+![Document View interface](assets/image/application/application.png)
 
- 1. [Application Tool Bar](#application-tool-bar)
- 2. [Sub-view](#sub-view)
+ 1. [Navigation bar](#application-tool-bar)
+ 2. [Document-view](#document-view)
 
-> #### Application Tool Bar
-```Navigation: Application | Application Tool Bar```
+## Navigation bar
+```Navigation: Application | Navigation bar```
 
-> The [Application Tool Bar](#application-tool-bar) is on the top of the application view and is always visible by default. From the [Application Tool Bar](#application-tool-bar), users perform common operations such as save, undo, redo, and switch to different sub-views of the application for various purposes. 
-
-> #### Sub-view
-```Navigation: Application | Sub-view```
-
-> Sub-view can be either [Document View](#document-view), [Draw View](#draw-view), or [Catalog View](#catalog-view). Each sub-view has its own functionalities and functions. All sub-views share the same project data. The Documents View is the default sub-view of the application when you open a project.
+The [Navigation bar](#navigation-bar) is on the top of the application view and is always visible by default. From the [Application Tool Bar](#application-tool-bar), users perform common operations such as save, undo, redo, and switch to different sub-views of the application for various purposes. 
 
 
-## Document View
+## Document view
 ```Navigation: Application | Document View```
 
-[Document View](#document-view) is the view of project construction blueprints of PDF folders and pages. The user interface is designed to facilitate the viewing of PDFs (as thumbnails) and provide simple yet powerful management of PDF blueprints.
+The [Document view](#document-view) displays the project’s PDF blueprints, which include a list view of folders and a grid view of PDF thumbnails. The user interface is designed to facilitate the viewing of PDFs in thumbnail format and provide efficient management of PDF blueprints.
 
 ![Document View interface](assets/image/application/documentview.png)
 
-1. [Application Tool Bar](#application-tool-bar)
+1. [Navigation-bar](#Navigation-bar)
 2. [Folders](#folders) 
 3. [Pages](#pages) 
-4. [Folders Menu](#folders-menu)
-5. [Pages Menu](#folders-menu)
-6. [Page Thumbnails](#page-thumbnials)
-7. [Pages Context Menu](#pages-context-menu)
+4. [Folders menu](#folders-menu)
+5. [Pages menu](#folders-menu)
+6. [Page thumbnails](#page-thumbnials)
+7. [Pages context menu](#pages-context-menu)
 
 
 ### Folders
 ```Navigation: Application | Document View | Folders```
 
-[Folders](#folder) is provided with a list view that displays all PDF folders of the project. Users click a folder item in the list to open it. Once the folder is opened, all the PDF content is shown as thumbnails in a grid-view, referred to as [Pages](#pages). To remove a folder from the list, select the folder item in the list, open [Folders Menu](#folders-menu), and select delete menu item.
+The [Folders](#folders) provides a list view that displays all the PDF folders of the project. Users can click on a folder item in the list to open it. Upon opening a folder, all the PDF content is displayed as thumbnails in a grid view, referred to as [Pages](#pages). To remove a folder from the list, users need to select the folder item, open the `Folders menu`, and select the option `Delete`.
 
-### Pages
-```Navigation: Application | Document View | Pages```
-
-[Pages](#pages) is provided with grid view that displays PDF pages in thumbnails of an opened folder. To open a page, user can either double-click the page thumbnail or select Open Menu in the Page Context Menu. To remove a page , users need to select the page thumbnail, then either open [Pages Menu](#pages-menu) or right-click the page  thumbnail to open context menu, and finally select Delete Pages menu item.
-
-### Folders menu
-```Navigation: Application | Document View | Folders | Folders menu```
+#### Folders menu
+```Navigation: Application | Document view | Folders | Folders menu```
 
 [Folders menu](#folders-menu) is a feature that provides functions for managing PDF folders such as adding, deleting, renaming. To access the menu, users can either right-click the folder list view or click the menu button located in the top-right corner of the folder list view.
 
-### Pages menu
-```Navigation: Application | Document View | Pages | Pages menu```
+### Pages
+```Navigation: Application | Document view | Pages```
+
+The [Pages](#pages) feature provides a grid view that displays thumbnails of PDF pages from an opened folder. To open a page, users can either double-click the page thumbnail or select `Open` from the [Page context menu](#page-context-menu). To remove a page, users need to select the page thumbnail, then either open the `Pages menu` or right-click the page thumbnail to open the context menu, and finally select the option `Delete pages`.
+
+
+#### Pages menu
+```Navigation: Application | Document view | Pages | Pages menu```
 
 [Pages menu](#pages-menu) is a feature that provides functions to managing PDF pages of an opened folder such as opening, deleting, appending, importing, exporting, and duplicating. To access the menu, users either click the menu button located in the top-right corner of the page list or right-click the page grid view to open the context menu. Users can also select multiple pages to perform batch operations.
 
-### Page thumbnails
-```Navigation: Application | Document View | Pages | Page thumbnails```
+#### Page thumbnails
+```Navigation: Application | Document view | Pages | Page thumbnails```
 
-Under-laying data of a page thumbnail is the page dataset, which consists of the PDF page, shapes, materials, annotations, and any additional data that users has added to the page. To open a page, users either double-click the page thumbnail or select Open option in the [Page context menu](#pages-context-menu). Upon opening a page, the application automatically switches to the [Draw View](#draw-view), loads page dataset into this view.
+The underlying data of a page thumbnail is the page dataset, which consists of the PDF page, shapes, materials, annotations, and any additional data that users have added to the page. To open a page, users can either double-click the page thumbnail or select the `Open` option in the [Page context menu](#page-context-menu). Upon opening a page, the application automatically switches to the [Draw view](#draw-view) and loads the page dataset into this view.
 
-### Pages context menu
+#### Pages context menu
 ```Navigation: Application | Document View | Pages | Page context menu```
 
 [Pages context menu](#pages-context-menu) provides functionalities as [Pages menu](#pages-menu) 
 
-For more information about the Document View, please refer to [PDF documents](../pdf).
-## Draw View
-```Navigation: Application | Draw View```
+For more information about the [Document view](#document-view), please refer to [PDF documents](../pdf).
 
-[Draw View](#draw-view) is the centric interface of the application. It is where users perform quantity take-off, create and edit shapes, materials, tags, annotations, images...etc.
-When you open a page, the Draw View interface looks as follows:
+## Draw view
+```Navigation: Application | Draw view```
+
+[Draw view](#draw-view) is the central interface of the application. This is where users perform quantity take-off, create and edit shapes, materials, tags, annotations, images...etc.
+When you open a page, the [Draw view](#draw-view) interface appears as follows:
 
 
-> ![Draw View interface](assets/image/application/drawview.png)
-> 
-> 1. [Application Tool Bar](#application-tool-bar)
-> 2. [Draw Tool Bar](#draw-tool-bar)
-> 3. [Free Shape Format Tool Bar](#free-shape-format-tool-bar)
-> 4. [Draw Canvas](#draw-canvas)
-> 5. [Left Panel](#left-panel)
-> 6. [Bottom Bar](#bottom-bar)
+![Draw View interface](assets/image/application/drawview.png)
+ 
+1. [Navigation Bar](#navigation-bar)
+2. [Draw Toolbar](#draw-toolbar)
+3. [Free Shapes Format Toolbar](#free-format-toolbar)
+4. [Draw Canvas](#draw-canvas)
+5. [Left Panel](#left-panel)
+6. [Bottom Bar](#bottom-bar)
 
-> #### Draw Tool Bar
-```Navigation: Application | Draw View | Draw Tool Bar```
+#### Draw Toolbar
+```Navigation: Application | Draw View | Draw Toolbar```
 
-> **Draw Tool Bar** is a toolbar that provides tools to operate on the Draw Canvas. The tools are categorized into 3 groups: [Zoom](#zoom), [View](#view), and [Select](#select).
+The [Draw Toolbar](#draw-toolbar) provides tools to operate on the [Draw Canvas](#draw-canvas). The tools are categorized into 3 groups: [Zoom](#zoom) which provides zoom utilities, [View](#view) which provides view utilities, and [Select](#select) which provides selection options.
 
-> #### Free Shape Format Tool Bar
-```Navigation: Application | Draw View | Free Shape Format Tool Bar```
+#### Free Shapes Format Toolbar
+```Navigation: Application | Draw view | Free shapes format toolbar```
 
-> **Free Shape Format Tool Bar** is a toolbar that provides tools to style free shapes, texts and annotations. With these tools use can change style properties such as color, line width, opacity, font, font size, etc. of free shapes, texts and annotations. Tagged shapes are not affected by these tools. Tagged shapes are style by their styling tags such as [materials](/material).
-> 
-> #### Draw Canvas
-```Navigation: Application | Draw View | Draw Canvas```
+The [Free Shapes Format Toolbar](#free-shapes-format-toolbar) is a toolbar that provides tools to style free shapes, texts and annotations. With these tools use can change style properties such as color, line width, opacity, font, font size, etc. of free shapes, texts, or annotations. Tagged shapes are not affected by these tools as they are not free shapes. Tagged shapes are style by their styling tags such as [materials](/material).
+ 
+#### Draw Canvas
+```Navigation: Application | Draw view | Draw canvas```
 
-> **Draw Canvas** is the centric component of the Draw View, The Draw Canvas is a PDF viewer that displays PDF the opened PDF page. The Draw Canvas is also a drawing board that allows users to draw shapes, add notes, annotations and images, tag and untag materials...etc. The Draw Canvas is where users perform quantity take-off by drawing shapes and the application compute their metric properties such length, area, volume and of course counting. The data in Draw Canvas is at page level.
+[Draw Canvas](#draw-canvas) is the central component of the [Draw view](#draw-view). The [Draw canvas](#draw-canvas) is layered with a PDF view and a drawing pane which allows users to draw shapes on the PDF page. It is equipped with numerous features and functionalities to facilitate the drawing process.
 
-> #### Left Panel
+Shapes of Metric class, drawn by users are used to compute metric values such as count, length, area, and volume. These shapes can be tagged to materials to compute quantity of those materials. 
+
+Shapes of Annotation class, drawn by users are not used to compute metric values. These shapes can not be tagged to materials; they are always free shapes and are formatted using [Free shapes format toolbar](#free-shapes-format-toolbar).
+
+#### Left Panel
 ```Navigation: Application | Draw View | Left Panel```
 
-> Left Panel is a panel that allows users to switch to between tab panes of the Draw View. These tabs contain tools and data that co-relate to Draw Canvas's data. The data displayed is at page level. There are 3 tabs: [Draw Tab](#draw-tab), [Material Tab](#material-tab), and [Layer Tab](#layer-tab).
+Left Panel is a panel that allows users to switch to between tab panes of the Draw View. These tabs contain tools and data that co-relate to Draw Canvas's data. The data displayed is at page level. There are 3 tabs: [Draw Tab](#draw-tab), [Material Tab](#material-tab), and [Layer Tab](#layer-tab).
 
 > ##### Draws TabPane
 ```Navigation: Application | Draw View | Left Panel | Draws TabPane```
