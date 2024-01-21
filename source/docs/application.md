@@ -13,7 +13,7 @@ The application features a [Navigation bar](#navigation-bar) and 3 sub-views: [D
 
 ![Document View interface](assets/image/application/application.png)
 
- 1. [Navigation bar](#application-tool-bar)
+ 1. [Navigation bar](#navigation-bar)
  2. [Document-view](#document-view)
 
 ## Navigation bar
