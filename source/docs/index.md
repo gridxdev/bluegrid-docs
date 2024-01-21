@@ -15,12 +15,14 @@
 * **PDF layer**: Provides layer on/off functionality to reduce noise.
 * **Work Breakdown Structure (WBS)**: Enables you to build, add, modify, customize, and standardize WBSs.
 * **3D stack view**: Provides a 3D view and animation for convenient work review.
+* **Select shapes in PDF**: Creates shapes with PDF selection.
+* **Shapes to symbols**: Convert shapes to counting symbols.
 
 [//]: # (<h3>On-plan features and functions</h3>)
 
 [//]: # (* **Select snap**: Enables snap while transforming shapes.)
 
-[//]: # (* **Select shapes in PDF**: Creates shapes with pdf selection.)
+
 
 [//]: # (* **Select text in PDF blueprint**: Selects and copies text from PDF blueprints.)
 
@@ -30,7 +32,7 @@
 
 [//]: # (* **Auto find and count**: Automatically counts the number of similar blocks.)
 
-[//]: # (* **Pick shapes and convert to symbol**: Picks a shape on a PDF and converts it into a block tool.)
+
 
 [//]: # (* **Other quantity take-off tools**: Gradually fulfills the need of the industry.)
 
