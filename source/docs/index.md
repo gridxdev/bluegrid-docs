@@ -39,7 +39,7 @@
 [//]: # (* **Cloud and enterprise functions**: Supports quantity management at the enterprise level.)
 
 
-<h3>Demo</h3>
+## Demo
 <figure markdown>
   ![Compilation](assets/image/mix.jpeg)
   ![IArea take-off 1](assets/image/area_1.png)
@@ -49,7 +49,7 @@
   ![Image title](assets/image/count_1.png)
   ![Image title](assets/image/count_2.png)
   ![Count, blocks, cloud and texts](assets/image/blocks.png)
-  ![Count, blocks, cloud and texts](assets/image/notes.jpeg)
+  ![Count, blocks, cloud and texts](assets/image/application/layertab.png)
   ![Stack view](assets/image/stack_view_1.png)
   ![Document view](assets/image/document_view_1.png)
   ![Catalogs view](assets/image/wbs.png)
