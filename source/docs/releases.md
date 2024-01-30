@@ -1,5 +1,15 @@
 ## Release notes
 
+### Version 1.0.98 - 24/01/30
+- Enhancements
+    - Internal optimizations.
+
+- Bug fixes
+    - Fix bugs in pdf shapes selection.
+    - Remove osculated thumbnails.
+    - Fix bugs in shape clipping.
+    - Snap on/off 
+
 ### Version 1.0.97 - 24/01/18
 - Enhancements
   - Internal optimizations.
