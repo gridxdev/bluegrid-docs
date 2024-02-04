@@ -9,7 +9,7 @@ Application is the main window of BlueGrid, where users perform quantity take-of
 
 Operations within the application occur at the project level. This implies that any changes made within the application are applied directly to the project data. This project data is then stored within the project file.
 
-The application features a [Navigation bar](#navigation-bar) and 3 sub-views: [Document view](#document-view), [Draw view](#draw-view), and [Catalog view](#catalog-view). At a given time, only one of these views is displayed. [Document-view](#document-view) is the default sub-view when users open the application. Users can switch between views using the [Navigation bar](#navigation-bar).
+The application features a [Navigation bar](#navigation-bar) and 3 views: [Document view](#document-view), [Draw view](#draw-view), and [Catalog view](#catalog-view). At a given time, only one of these views is displayed. [Document-view](#document-view) is the default view when users open the application. Users can switch between views using the [Navigation bar](#navigation-bar).
 
 ![Document View interface](assets/image/application/application.png)
 
