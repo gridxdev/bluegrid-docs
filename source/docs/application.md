@@ -19,7 +19,7 @@ The application features a [Navigation bar](#navigation-bar) and 3 views: [Docum
 ## Navigation bar
 ```Navigation: Application | Navigation bar```
 
-The [Navigation bar](#navigation-bar) is on the top of the application view and is always visible by default. From the [Application Tool Bar](#application-tool-bar), users perform common operations such as save, undo, redo, and switch to different sub-views of the application for various purposes. 
+The [Navigation bar](#navigation-bar) is on the top of the application view and is always visible by default. From the [Navigation-bar](#navigation-bar), users perform common operations such as save, undo, redo, and switch to different views of the application for various purposes. 
 
 
 ## Document view
