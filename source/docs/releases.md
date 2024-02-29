@@ -1,5 +1,10 @@
 ## Release notes
 
+### Version 1.0.99 - 24/02/06
+- Enhancements
+  - Internal optimizations.
+
+
 ### Version 1.0.98 - 24/01/30
 - Enhancements
     - Internal optimizations.
