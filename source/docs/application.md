@@ -87,64 +87,64 @@ When you open a page, the [Draw view](#draw-view) interface appears as follows:
 5. [Left Panel](#left-panel)
 6. [Bottom Bar](#bottom-bar)
 
-#### Draw Toolbar
+### Draw Toolbar
 ```Navigation: Application | Draw View | Draw Toolbar```
 
 The [Draw Toolbar](#draw-toolbar) provides tools to operate on the [Draw Canvas](#draw-canvas). The tools are categorized into 3 groups: [Zoom](#zoom) which provides zoom utilities, [View](#view) which provides view utilities, and [Select](#select) which provides selection options.
 
-#### Free Shapes Format Toolbar
+### Free Shapes Format Toolbar
 ```Navigation: Application | Draw view | Free shapes format toolbar```
 
 The [Free Shapes Format Toolbar](#free-shapes-format-toolbar) is a toolbar that provides tools to style free shapes, texts and annotations. With these tools use can change style properties such as color, line width, opacity, font, font size, etc. of free shapes, texts, or annotations. Tagged shapes are not affected by these tools as they are not free shapes. Tagged shapes are style by their styling tags such as [materials](/material).
  
-#### Draw Canvas
+### Draw canvas
 ```Navigation: Application | Draw view | Draw canvas```
 
-[Draw Canvas](#draw-canvas) is the central component of the [Draw view](#draw-view). The [Draw canvas](#draw-canvas) is layered with a PDF view and a drawing pane which allows users to draw shapes on the PDF page. It is equipped with numerous features and functionalities to facilitate the drawing process.
+[Draw canvas](#draw-canvas) is the central component of the [Draw view](#draw-view). The [Draw canvas](#draw-canvas) is layered with a PDF view and a drawing pane which allows users to draw shapes on the PDF page. It is equipped with numerous features and functionalities to facilitate the drawing process.
 
 Shapes of Metric class, drawn by users are used to compute metric values such as count, length, area, and volume. These shapes can be tagged to materials to compute quantity of those materials. 
 
 Shapes of Annotation class, drawn by users are not used to compute metric values. These shapes can not be tagged to materials; they are always free shapes and are formatted using [Free shapes format toolbar](#free-shapes-format-toolbar).
 
-#### Left Panel
+### Left Panel
 ```Navigation: Application | Draw View | Left Panel```
 
 Left Panel is a panel that allows users to switch to between tab panes of the Draw View. These tabs contain tools and data that co-relate to Draw Canvas's data. The data displayed is at page level. There are 3 tabs: [Draw Tab](#draw-tab), [Material Tab](#material-tab), and [Layer Tab](#layer-tab).
 
-> ##### Draws TabPane
+#### Draws TabPane
 ```Navigation: Application | Draw View | Left Panel | Draws TabPane```
-> Draws TabPane `5.1` is displayed when user select Draws tab in the Left Panel, as follows:
+Draws Tab `5.1` is displayed when user select Draws tab in the Left Panel, as follows:
 
-> ![Draws TabPane](assets/image/application/drawtab.png)
-> Draws TabPane is a tab pane that contains tools to draw shapes, add notes, annotations and images...etc. In **Draw TabPane** there are 4 tool sets:
+![Draws Tab](assets/image/application/drawtab.png)
+Draws Tab contains drawing tools to draw shapes, add notes, annotations and images...etc. In **Draw TabPane** there are 4 tool sets:
 
   1. **Shape Tools** allow users to draw 2D shapes that are used to compute metric values such as length, area, and volume. Shapes created using these tools are of Metric class and can be tagged to materials.
   2. **Modify Tools** allow users to change 'native' data of shapes,  e.g: to remove points from a polygon, to insert points to polygon. These tools are not used to add shapes or annotations.
   3. **Annotation Tools** allow users to add texts, annotations such as arrow, callouts, clouds, images..etc. Objects created using these tools are not of Metric class and can not be tagged to materials.
   4. **Symbol Tools** is a dynamic tool set that user can to add, remove, or customize tools. These tools allow users to add blocked shapes which can not be changed 'natively'. Shapes added using these tools are of Metric class can also be used as counting when tagged to materials.
 
-> ##### Materials TabPane
+#### Materials TabPane
 ```Navigation: Application | Draw View | Left Panel | Materials TabPane```
 
-> Materials TabPane `5.2` is displayed when user select Materials tab in the Left Panel, as follows:
->
-> ![Materials TabPane](assets/image/application/materialtab.png)
-  
-> Material TabPane is a tab pane that contains material table that will be used to apply/tag to shapes. Once shapes are tagged to with a material, the shape style is bound to the material's style. 
-> The quantity of the material is the sum of all shapes metric values that are tagged with it. Please take notes that users should trigger [Compute Button](#compute-button) to compute the quantity of the material.
-> The material table is at page level.
+Materials TabPane `5.2` is displayed when user select Materials tab in the Left Panel, as follows:
 
-> ##### Layers TabPane
+![Materials Tab](assets/image/application/materialtab.png)
+  
+Material Tab is a tab pane that contains material table that will be used to apply/tag to shapes. Once shapes are tagged to with a material, the shape style is bound to the material's style. 
+The quantity of the material is the sum of all shapes metric values that are tagged with it. Please take notes that users should trigger [Compute Button](#compute-button) to compute the quantity of the material.
+The material table is at page level.
+
+#### Layers Tab
 ```Navigation: Application | Draw View | Left Panel | Layers TabPane```
 
-> Layers TabPane `5.3` is displayed when user select Layers tab in the Left Panel, as follows:
-> 
-> ![Materials TabPane](assets/image/application/layertab.png)
+Layers Tab `5.3` is displayed when user select Layers tab in the Left Panel, as follows:
+ 
+![Materials TabPane](assets/image/application/layertab.png)
 
-> Layers TabPane is a tab pane that contains layer table that will be used to manage rendering objects in the PDF page by turning on/off layers. This feature will be useful when the PDF page has many layers and users want to focus on specific layers as well as to reduce noise. 
+Layers TabPane is a tab pane that contains layer table that will be used to manage rendering objects in the PDF page by turning on/off layers. This feature will be useful when the PDF page has many layers and users want to focus on specific layers as well as to reduce noise. 
 
 
-> ### Bottom Bar
+### Bottom bar
 ```Navigation: Application | Draw View | Bottom Bar```
 
-> Bottom Bar is a bar that provides additional assisting options to the tool that is being used. For example, when user select a draw tool to draw shapes, users can select options of point snaps on the Bottom Bar to assist drawing shapes precisely. 
+Bottom Bar is a bar that provides additional assisting options to the tool that is being used. For example, when user select a draw tool to draw shapes, users can select options of point snaps on the Bottom Bar to assist drawing shapes precisely. 
