@@ -1,5 +1,10 @@
 ## Release notes
 
+### Version 1.0.101 - 24/03/12
+- New Features
+  - Introduction of non-compress BlueGrid project file format.
+  - Introduction of GDX project - incubator stage.
+
 ### Version 1.0.100 - 24/02/29
 - Enhancements
   - Internal optimizations.
