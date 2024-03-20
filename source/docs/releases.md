@@ -1,5 +1,10 @@
 ## Release notes
 
+### Version 1.0.102 - 24/03/21
+- New features
+  - Adding the feature of adding versions to a PDF page.
+  - Adding the feature of opting a version to open a PDF page.
+
 ### Version 1.0.102 - 24/03/19
 - Enhancements
     - Re-layout of the main window of Draw View
