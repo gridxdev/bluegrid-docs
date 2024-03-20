@@ -1,5 +1,10 @@
 ## Release notes
 
+### Version 1.0.102 - 24/03/19
+- Enhancements
+    - Re-layout of the main window of Draw View
+    - Improve performance of metric values computation.
+
 ### Version 1.0.101 - 24/03/12
 - New Features
   - Introduction of non-compress BlueGrid project file format.
