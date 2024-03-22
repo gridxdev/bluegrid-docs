@@ -1,9 +1,14 @@
 ## Release notes
 
-### Version 1.0.102 - 24/03/21
+
+
+### Version 1.0.103 - 24/03/22
 - New features
   - Adding the feature of adding versions to a PDF page.
   - Adding the feature of opting a version to open a PDF page.
+  Please note that this feature is not available for the Compressed Project type. To utilize this feature, users need to create either Non-Compressed projects or GDX projects.
+- Bug fixes
+  - Draw board occasionally locked.
 
 ### Version 1.0.102 - 24/03/19
 - Enhancements
