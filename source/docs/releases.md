@@ -1,6 +1,13 @@
 ## Release notes
 
-
+### Version 1.0.107 - 31/03/22
+- New features
+    - Add feature of Rotating PDF page.
+    - Add feature of Purging project database.
+    - Add text search feature in Draw view
+    - Add feature to set page properties such as name, scale in Document view
+- Enhancements
+    - Internal optimization
 
 ### Version 1.0.103 - 24/03/22
 - New features
