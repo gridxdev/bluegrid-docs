@@ -1,9 +1,36 @@
 ## Release notes
 
-### Version 1.0.107 - 31/03/22
+
+### Version 1.0.111 - 24/04/07
+- Enhancements
+  - Internal optimization
 - New features
-    - Add feature of Rotating PDF page.
-    - Add feature of Purging project database.
+  - Format tools accepts active shapes.
+- Fix bugs
+  - Color pickers take effect immediately.
+  - Shape style changes undos fallback to the previous style.
+
+### Version 1.0.110 - 24/04/04
+- Enhancements
+    - Internal optimization
+- Changes
+      - Change the default project type to Non-Compressed project.
+      - End support for Compressed project type.
+- New features
+    - Searching PDF with text, regex pattern on multiple pages.
+
+### Version 1.0.109 - 24/04/02
+- Enhancements
+  - Internal optimization
+
+### Version 1.0.108 - 24/04/01
+- Enhancements
+  - Internal optimization
+
+### Version 1.0.107 - 24/03/31
+- New features
+    - Add the feature of Rotating PDF page.
+    - Add the feature of Purging project database.
     - Add text search feature in Draw view
     - Add feature to set page properties such as name, scale in Document view
 - Enhancements
