@@ -21,7 +21,7 @@
 
 ### Version 1.0.109 - 24/04/02
 - Enhancements
-  - Internal optimization
+  - Not to re-render when changing view-port size.
 
 ### Version 1.0.108 - 24/04/01
 - Enhancements
