@@ -1,17 +1,16 @@
 # Starter
 <p>
-Starter is the entry window of Bluegrid. From the Starter users open a project, create a project, modify shortcut keys, or customize looks and feels as well as set application parameters to optimize usage experience.
+Starter is the entry window of Bluegrid. From the Starter users open a project, create a project, or perform application settings to optimize user experience.
 </p>
-Operations in the Starter are at application level. This means that the changes made in the Starter are applied to the application as a whole, not to a specific project. Data of application is stored in the settings profile file.
 ## Projects
-
+<p>Bluegrid project list view is rendered in the Starter window which utilizes searching, and opening projects.</p>
 <procedure title="Create a project" id="create-project">
 <p>Before performing quantity take-off on PDF blueprints, users must create a Bluegrid project.</p>
 <step>Click on the <code>Create</code> button in the Starter window. </step>
 <step>A selection modal will appear, where users can select the project which is suitable to your needs and click <code>Create project</code> button to open the Save dialog where users can save the project to a location on the computer. </step>
 <p>Upon saving the project, the project will be created and opened in the application.</p>
 
-<img src="create_project.png" style="block" alt="Create a project"  width="460"/>
+<img src="create_project.png"  alt="Create a project"  width="460"/>
 </procedure>
 <note>
     <p>
@@ -35,4 +34,12 @@ To open a project, users follow the steps below:
 </tip>
 
 ## Settings
+### Themes and Styles
+
+### Language
+
+### Precision
+
+### Shortcut Keys
+
 
