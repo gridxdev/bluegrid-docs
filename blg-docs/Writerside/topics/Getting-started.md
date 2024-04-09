@@ -3,7 +3,7 @@
 Starter is the entry window of Bluegrid. From the Starter users open a project, create a project, or perform application settings to optimize user experience.
 </p>
 ## Projects
-<p>Bluegrid project list view is rendered in the Starter window which utilizes searching, and opening projects.</p>
+<p>Bluegrid project list view is rendered in the Starter window which utilizes finding, and opening projects.</p>
 <procedure title="Create a project" id="create-project">
 <p>Before performing quantity take-off on PDF blueprints, users must create a Bluegrid project.</p>
 <step>Click on the <code>Create</code> button in the Starter window. </step>
