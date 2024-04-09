@@ -18,7 +18,6 @@ Starter is the entry window of Bluegrid. From the Starter users open a project, 
     </p>
 </note>
 
-### Open a project
 <procedure title="Open a project" id="open-project">
 <p>
 To open a project, users follow the steps below:
@@ -34,12 +33,56 @@ To open a project, users follow the steps below:
 </tip>
 
 ## Settings
-### Themes and Styles
+<procedure title="Select Themes and Styles" id="select-themes-and-styles">
+<p>
+The application has 4 styles: Prime, Nord, Cupertino, and Dracula, each is with dark and light themes.
+</p>
+<step>From the Starter window select setting tab</step>
+<step>Select theme from theme selection <code>dropdown</code></step>
+<step>To change accent color, click on one of the color indicators</step>
+<img src="select_theme.png" alt="Select theme and style" width="460"/>
+</procedure>
 
-### Language
+<procedure title="Select language" id="select-language">
+<step>
+From the Starter window select setting tab
+</step>
+<step>
+Select language from the language selection <code>dropdown</code>
+</step>
+<img src="language_selection.png" alt="Select language" width="460"/>
+</procedure>
 
-### Precision
+<procedure title="Set floating point" id="set-floating-point">
+<step>
+From the Starter window select setting tab
+</step>
+<step>
+Select floating point from the floating point selection <code>dropdown</code>
+</step>
+<img src="precision_selection.png" alt="Setting floating point" width="460"/>
+</procedure>
 
-### Shortcut Keys
+<procedure title="Setting shortcut keys" id="setting-shorcut-key">
+In Bluegrid, most user actions can be performed using keyboard shortcuts. 
+
+<p>
+To view or set shortcut keys, click on the <code>Setting</code> tab and scroll down to set Shortcut keys section in the Starter window.
+</p>
+<p>
+ Shortcut keys are categorized into four groups and two levels: <code> Application</code> (level 0), <code>Draw View</code> (level 1), <code>Document View</code> (level 1), and <code>Catalog View<code> (level 1). Each group contains a list of shortcut keys that users can customize. Shortcut keys at a lower level have a higher execution priority, meaning a shortcut key at a higher level will not execute if a lower-level key shares the same shortcut, the lower level shortcut key executes.
+</p>
+<p>
+Identical shortcut keys in different groups at the same level will have the same execution priority. For example, the shortcut key <code>Ctrl</code>+<code>O</code> in the Draw View group and <code>Ctrl</code>+<code>O</code> in the <code>Document View</code> group will have the same execution priority. Shortcut key <code>Ctrl</code>+<code>O</code> in <code>Application</code> group will have the highest execution priority, if <code>Draw View</code> has the same shor
+, the shortcut key in <code>Application</code> group will execute and the shortcut key in <code>Draw View</code> group will not execute.
+</p>
+<p>
+Different groups can share shortcut keys. In the same group, shortcut keys shall be unique.
+</p>
+
+
+<img src="shortcut.png" alt="Setting shortcut keys" width="460"/>
+</procedure>
+<p>
 
 
