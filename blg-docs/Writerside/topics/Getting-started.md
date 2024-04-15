@@ -70,7 +70,7 @@ In Bluegrid, most user actions can be performed using keyboard shortcuts.
 To view or set shortcut keys, click on the <code>Setting</code> tab and scroll down to set Shortcut keys section in the Starter window.
 
 Shortcut keys are categorized into four groups and two levels: <code> Application</code> (level 0), which is for ui controls on the top <code>Toolbar</code>, as shown in the image below, 
-<img src="app_toolbar.png"  width="460"/>
+<img src="app_toolbar.png"  width="460" alt="Application toolbar"/>
 
 <code>Draw View</code> (level 1), <code>Document View</code> (level 1), and <code>Catalog View</code> (level 1).
 

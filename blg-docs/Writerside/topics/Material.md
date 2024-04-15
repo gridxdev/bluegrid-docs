@@ -1,5 +1,3 @@
 # Material
 
-## Projects
-
-## Settings
+Page development is underway...
