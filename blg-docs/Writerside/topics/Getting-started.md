@@ -10,7 +10,7 @@ Starter is the entry window of Bluegrid. From the Starter users open a project, 
 <step>A selection modal will appear, where users can select the project which is suitable to your needs and click <code>Create project</code> button to open the Save dialog where users can save the project to a location on the computer. </step>
 <p>Upon saving the project, the project will be created and opened in the application.</p>
 
-<img src="create_project.png"  alt="Create a project"  width="460"/>
+<img src="create_project.png"  alt="Create a project"  width="640"/>
 </procedure>
 <note>
     <p>
@@ -24,7 +24,7 @@ To open a project, users follow the steps below:
 </p>
 <step>Click on the <code>Open</code> button in the Starter window. </step>
 <step>Navigate to the Bluegrid project file you want to open and click <code>Open</code> from the dialog window.</step>
-<img src="open_project.png" alt="Open a project" width="460"/>
+<img src="open_project.png" alt="Open a project" width="640"/>
 </procedure>
 <tip>
 <p>
@@ -40,7 +40,7 @@ The application has 4 styles: Prime, Nord, Cupertino, and Dracula, each is with 
 <step>From the Starter window select setting tab</step>
 <step>Select theme from theme selection <code>dropdown</code></step>
 <step>To change accent color, click on one of the color indicators</step>
-<img src="select_theme.png" alt="Select theme and style" width="460"/>
+<img src="select_theme.png" alt="Select theme and style" width="640"/>
 </procedure>
 
 <procedure title="Select language" id="select-language">
@@ -50,7 +50,7 @@ From the Starter window select setting tab
 <step>
 Select language from the language selection <code>dropdown</code>
 </step>
-<img src="language_selection.png" alt="Select language" width="460"/>
+<img src="language_selection.png" alt="Select language" width="640"/>
 </procedure>
 
 <procedure title="Set floating point" id="set-floating-point">
@@ -60,7 +60,7 @@ From the Starter window select setting tab
 <step>
 Select floating point from the floating point selection <code>dropdown</code>
 </step>
-<img src="precision_selection.png" alt="Setting floating point" width="460"/>
+<img src="precision_selection.png" alt="Setting floating point" width="640"/>
 </procedure>
 
 <procedure title="Setting shortcut keys" id="setting-shorcut-key">
@@ -70,7 +70,7 @@ In Bluegrid, most user actions can be performed using keyboard shortcuts.
 To view or set shortcut keys, click on the <code>Setting</code> tab and scroll down to set Shortcut keys section in the Starter window.
 
 Shortcut keys are categorized into four groups and two levels: <code> Application</code> (level 0), which is for ui controls on the top <code>Toolbar</code>, as shown in the image below, 
-<img src="app_toolbar.png"  width="460" alt="Application toolbar"/>
+<img src="app_toolbar.png"  width="640" alt="Application toolbar"/>
 
 <code>Draw View</code> (level 1), <code>Document View</code> (level 1), and <code>Catalog View</code> (level 1).
 
@@ -84,7 +84,7 @@ Different groups can share shortcut keys. In the same group, shortcut keys shall
 </p>
 
 
-<img src="shortcut.png" alt="Setting shortcut keys" width="460"/>
+<img src="shortcut.png" alt="Setting shortcut keys" width="640"/>
 </procedure>
 <procedure title="Save and load profiles" id="save-load-profiles">
 <p>
@@ -93,7 +93,7 @@ The application setting can be saved and loaded as profiles. For example, users 
 <p>
 To save or load a setting profile, click on the <code>Setting</code> tab and scroll down to the <code>Setting Profile</code> section in the Starter window.
 </p>
-<img src="profile.png" alt="Save and load profile" width="460"/>
+<img src="profile.png" alt="Save and load profile" width="640"/>
 <procedure title="Import setting profiles">
 <step>
 Click on the <code>Export</code> button to save the current setting profile.

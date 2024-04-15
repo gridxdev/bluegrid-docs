@@ -1,5 +1,5 @@
 # PDFs
-### Concept of Page
+## Concept of Page
 <p>
 In Bluegrid, a <b>page</b> is virtually a reference of a blueprint. A blueprint is a piece of a construction design. A blueprint may have one or multiple versions or updates. A page may hold zero or multiple corresponding PDF versions of the blueprint. A page is an entry point, a reference to every <b>Additional data</b> related to the page.
 </p>
@@ -7,9 +7,9 @@ In Bluegrid, a <b>page</b> is virtually a reference of a blueprint. A blueprint 
     Every page resides in one folder.
 </p>
 
-### Additional data
+## Additional data
 <p>
-<b>Additional data</b> is the data generated in Bluegrid, by users such as shapes, markups, materials, etc. that are stored with referencing to a <b>page<b>. A page is the access point for all the additional data related to that page.
+<b>Additional data</b> is the data generated in Bluegrid, by users such as shapes, markups, materials, etc. that are stored with referencing to a <b>page</b>. A page is the access point for all the additional data related to that page.
 </p>
 
 ## Folders
@@ -20,7 +20,7 @@ In BlueGrid, additional data such as shapes, markups, materials, etc. are genera
 <p>
 To create a folder, go to <code>Folder menu</code> in <code>Document view</code> and  select item <code>Create folder</code>.
 </p>
-<img src="create_folder.png" alt="Create folder" width="460"/>
+<img src="create_folder.png" alt="Create folder" width="640"/>
 </procedure>
 
 <procedure title="Import PDFs to a new folder" id="import-pdf">
@@ -32,13 +32,13 @@ To create a folder, go to <code>Folder menu</code> in <code>Document view</code>
 <p>
 To import PDFs to a new folder, go to <code>Folder menu</code> in <code>Document view</code> and  select item <code>Import</code>.
 </p>
-<img src="import_pdf.png" alt="Import PDFs" width="460"/>
+<img src="import_pdf.png" alt="Import PDFs" width="640"/>
 </procedure>
-<procedure title="Remove a folder" id="remove folder">
+<procedure title="Remove a folder" id="remove-folder">
 <p>
 To remove a folder, go to <code>Folder menu</code> in <code>Document view</code> and  select item <code>Remove</code>.
 </p>
-<img src="remove_folder.png" alt="Remove folder" width="460"/>
+<img src="remove_folder.png" alt="Remove folder" width="640"/>
 
 </procedure>
 
@@ -56,7 +56,7 @@ From <code>Page menu</code> select <code>Add PDF</code> item.
 <step>
 Navigate to the PDF files you want to add to the folder and click <code>Open</code> from the dialog window.
 </step>
-<img src="add_pdf.png" alt="Add PDFs to a folder" width="460"/>
+<img src="add_pdf.png" alt="Add PDFs to a folder" width="640"/>
 </procedure>
 
 <procedure title="Export to PDFs" id="export-to-pdf">
@@ -72,7 +72,7 @@ From <code>Page menu</code> select <code>Export to PDF</code> item.
 <step>
 Navigate to the location you want to save the PDF files and click <code>Save</code> from the dialog window.
 </step>
-<img src="export_pdf.png" alt="Export to PDF" width="460"/>
+<img src="export_pdf.png" alt="Export to PDF" width="640"/>
 <note>
     <p>
         You can always select multiple pages to export to one PDF file.
@@ -95,7 +95,7 @@ Select the pages you want to remove in the <code>Page view</code>.
 <step>
 From <code>Page menu</code> select <code>Remove</code> item.
 </step>
-<img src="remove_page.png" alt="Remove page" width="460"/>
+<img src="remove_page.png" alt="Remove page" width="640"/>
 </procedure>
 
 
