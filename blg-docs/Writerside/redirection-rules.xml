@@ -10,4 +10,8 @@
         <description>Created after removal of "This is the first topic" from Help Instance</description>
         <accepts>Default-topic.html</accepts>
     </rule>
+    <rule id="1b2e6086">
+        <description><![CDATA[Created after removal of "<Starter_Projects.md>" from Help Instance]]></description>
+        <accepts>Starter_Projects.html</accepts>
+    </rule>
 </rules>

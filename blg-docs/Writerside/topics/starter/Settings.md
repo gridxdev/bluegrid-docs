@@ -1,41 +1,6 @@
-# Starter
-<p>
-Starter is the entry window of Bluegrid. From the Starter users open a project, create a project, or perform application settings to optimize user experience.
-</p>
-## Projects
-<p>Bluegrid project list view is rendered in the Starter window which utilizes finding, and opening projects.</p>
-<procedure title="Create a project" id="create-project">
-<p>Before performing quantity take-off on PDF blueprints, users must create a Bluegrid project.</p>
-<step>Click on the <code>Create</code> button in the Starter window. </step>
-<step>A selection modal will appear, where users can select the project which is suitable to your needs and click <code>Create project</code> button to open the Save dialog where users can save the project to a location on the computer. </step>
-<p>Upon saving the project, the project will be created and opened in the application.</p>
-
-<img src="create_project.png"  alt="Create a project"  width="640"/>
-</procedure>
-<note>
-    <p>
-        Any project you created or opened is saved in the project list in the Starter window. You can open a project by clicking on the project in the project list.
-    </p>
-</note>
-
-<procedure title="Open a project" id="open-project">
-<p>
-To open a project, users follow the steps below:
-</p>
-<step>Click on the <code>Open</code> button in the Starter window. </step>
-<step>Navigate to the Bluegrid project file you want to open and click <code>Open</code> from the dialog window.</step>
-<img src="open_project.png" alt="Open a project" width="640"/>
-</procedure>
-<tip>
-<p>
-    You can always look for a project by typing in the project's name or the project's path in the project <code>filter</code> and if it were there, just click on the project item to open it.
-</p>
-</tip>
-
-## Settings
 <procedure title="Select Themes and Styles" id="select-themes-and-styles">
 <p>
-The application has 4 styles: Prime, Nord, Cupertino, and Dracula, each is with dark and light themes.
+The application has 4 themes: Prime, Nord, Cupertino, and Dracula, each is with dark and light modes.
 </p>
 <step>From the Starter window select setting tab</step>
 <step>Select theme from theme selection <code>dropdown</code></step>
@@ -65,11 +30,11 @@ Select floating point from the floating point selection <code>dropdown</code>
 
 <procedure title="Setting shortcut keys" id="setting-shorcut-key">
 In Bluegrid, most user actions can be performed using keyboard shortcuts. 
-
 <p>
 To view or set shortcut keys, click on the <code>Setting</code> tab and scroll down to set Shortcut keys section in the Starter window.
 
-Shortcut keys are categorized into four groups and two levels: <code> Application</code> (level 0), which is for ui controls on the top <code>Toolbar</code>, as shown in the image below, 
+Shortcut keys are categorized into four groups and two levels: <code>Application</code> (level 0), which is for ui controls on the top <code>Toolbar</code>, as shown in the image below,
+
 <img src="app_toolbar.png"  width="640" alt="Application toolbar"/>
 
 <code>Draw View</code> (level 1), <code>Document View</code> (level 1), and <code>Catalog View</code> (level 1).
@@ -110,10 +75,4 @@ To load a setting profile, click on the <code>Import</code> button.
 <step>
 Upon clicking the <code>Import</code> button, an opening files dialog box will appear, navigate to the profile file and click <code>Open</code> from the dialog window to load the file.
 </step>
-
 </procedure>
-
-</procedure>
-<p>
-
-
