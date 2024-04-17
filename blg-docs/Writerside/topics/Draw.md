@@ -23,10 +23,10 @@ To have the best accuracy when drawing shapes, <code>point snap</code> should be
         Select the <code>Rectangle tool</code> from the <code>Draw tool pane</code>.
     </step>
     <step>
-        Left click on the <code>Draw board</code> to pick the first corner of the rectangle.
+        Left mouse click to pick the first corner of the rectangle.
     </step>
     <step>
-        Drag or move the mouse to the opposite corner of the rectangle and release or press the right mouse button.
+        Drag or move the mouse to the opposite corner of the rectangle and release or press the mouse button to finish the rectangle.
     </step>
 </procedure>
 <procedure title="Polyline tool" id="polyline-tool">
