@@ -7,8 +7,8 @@
                  start-page="Overview.md">
     <toc-element topic="Overview.md"/>
     <toc-element toc-title="Starter">
-        <toc-element toc-title="Projects" topic="Projects.md"/>
-        <toc-element toc-title="Settings" topic="Settings.md"/>
+        <toc-element topic="Projects.md"/>
+        <toc-element topic="Settings.md"/>
 
     </toc-element>
 
