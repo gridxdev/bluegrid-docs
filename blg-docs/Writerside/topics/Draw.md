@@ -1,6 +1,6 @@
 # Draw shapes
 <p>
-In BlueGrid standard, shape tools are tools used to draw almost any type of 2D shapes that are usually used in construction blueprints, such as line, rectangle, polygon, spline, path, shapes with wholes in side...etc. All shapes drawn using shape tools have metric values and can subscribe to material tags. Metric values are derived from shapes as rendered visuals. 
+In BlueGrid, shape tools are tools used to draw almost any type of 2D shapes that are usually used in construction blueprints, such as line, rectangle, polygon, spline, path, shapes with wholes in side...etc. All shapes drawn using shape tools have metric values and can subscribe to material tags. Metric values are derived from shapes as rendered visuals. 
 </p>
 <tip>
 <p>
@@ -71,7 +71,7 @@ While drawing, to get the best accuracy, point snaps should be on.
         Select the <code>Circle tool</code> from the <code>Draw tool pane</code>.
     </step>
     <step>
-        Click on the <code>Draw board</code> to pick the center of the circle.
+        Click  to pick the center of the circle.
     </step>
     <step>
         Drag or move the mouse to a point on the perimeter of the circle and release or press the mouse button.
@@ -79,17 +79,20 @@ While drawing, to get the best accuracy, point snaps should be on.
 </procedure>
 
 <procedure title="Arc tool" id="arc-tool">
+    <p>
+        An arc is a part of a circle. In BlueGrid, drawing an arc is to pick three points on the circle, the start point, the end point, and a point in between the start and the end point.
+   </p>
     <step>
         Select the <code>Arc tool</code> from the <code>Draw tool pane</code>.
     </step>
     <step>
-        Click on the <code>Draw board</code> to pick the start point of the arc.
+        Click to pick the start point of the arc.
     </step>
     <step>
-        Click on the <code>Draw board</code> to pick the second point of the arc.
+        Click  to pick the second point of the arc. The second point can be any point in between the arc curve but not the start nor the end point
     </step>
     <step>
-        Click on the <code>Draw board</code> to pick the end point of the arc.
+        Click  to pick the end point of the arc.
     </step>
 </procedure>
 
