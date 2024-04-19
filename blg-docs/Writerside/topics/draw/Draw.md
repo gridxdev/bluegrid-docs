@@ -1,4 +1,4 @@
-# Draw shapes
+# Shapes
 <p>
 In BlueGrid, <code>shape tools</code> are used to draw almost any type of 2D shapes that are usually used in construction blueprints, such as line, rectangle, polygon, spline, path, shapes with wholes in side...etc. 
 </p>
