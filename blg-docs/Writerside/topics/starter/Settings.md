@@ -37,7 +37,7 @@ To view or set shortcut keys, click on the <code>Setting</code> tab and scroll d
 
 Shortcut keys are categorized into four groups and two levels: <code>Application</code> (level 0), which is for ui controls on the top <code>Toolbar</code>, as shown in the image below,
 
-<img src="app_toolbar.png"  width="640" alt="Application toolbar"/>
+<img src="app_toolbar.png"  width="540" alt="Application toolbar"/>
 
 <code>Draw View</code> (level 1), <code>Document View</code> (level 1), and <code>Catalog View</code> (level 1).
 

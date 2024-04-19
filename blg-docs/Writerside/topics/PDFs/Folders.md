@@ -6,7 +6,7 @@ In BlueGrid, additional data such as shapes, markups, materials, etc. are genera
 <p>
 To create a folder, go to <code>Folder menu</code> in <code>Document view</code> and  select item <code>Create folder</code>.
 </p>
-<img src="create_folder.png" alt="Create folder" width="640"/>
+<img src="create_folder.png" alt="Create folder" width="540"/>
 </procedure>
 
 <procedure title="Import PDFs to a new folder" id="import-pdf">
@@ -18,12 +18,12 @@ To create a folder, go to <code>Folder menu</code> in <code>Document view</code>
 <p>
 To import PDFs to a new folder, go to <code>Folder menu</code> in <code>Document view</code> and  select item <code>Import</code>.
 </p>
-<img src="import_pdf.png" alt="Import PDFs" width="640"/>
+<img src="import_pdf.png" alt="Import PDFs" width="540"/>
 </procedure>
 <procedure title="Remove a folder" id="remove-folder">
 <p>
 To remove a folder, go to <code>Folder menu</code> in <code>Document view</code> and  select item <code>Remove</code>.
 </p>
-<img src="remove_folder.png" alt="Remove folder" width="640"/>
+<img src="remove_folder.png" alt="Remove folder" width="540"/>
 
 </procedure>

@@ -10,7 +10,7 @@ From <code>Page menu</code> select <code>Add PDF</code> item.
 <step>
 Navigate to the PDF files you want to add to the folder and click <code>Open</code> from the dialog window.
 </step>
-<img src="add_pdf.png" alt="Add PDFs to a folder" width="640"/>
+<img src="add_pdf.png" alt="Add PDFs to a folder" width="540"/>
 </procedure>
 
 <procedure title="Export to PDFs" id="export-to-pdf">
@@ -26,7 +26,7 @@ From <code>Page menu</code> select <code>Export to PDF</code> item.
 <step>
 Navigate to the location you want to save the PDF files and click <code>Save</code> from the dialog window.
 </step>
-<img src="export_pdf.png" alt="Export to PDF" width="640"/>
+<img src="export_pdf.png" alt="Export to PDF" width="540"/>
 <note>
     <p>
         You can always select multiple pages to export to one PDF file.
@@ -49,7 +49,7 @@ Select the pages you want to remove in the <code>Page view</code>.
 <step>
 From <code>Page menu</code> select <code>Remove</code> item.
 </step>
-<img src="remove_page.png" alt="Remove page" width="640"/>
+<img src="remove_page.png" alt="Remove page" width="540"/>
 </procedure>
 
 
