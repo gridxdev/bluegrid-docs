@@ -7,7 +7,7 @@ The application has 4 themes: Prime, Nord, Cupertino, and Dracula, each is with 
 <step>From the Starter window select setting tab</step>
 <step>Select theme from theme selection <code>dropdown</code></step>
 <step>To change accent color, click on one of the color indicators</step>
-<img src="select_theme.png" alt="Select theme and style" width="640"/>
+<img src="select_theme.png" alt="Select theme and style" width="540"/>
 </procedure>
 
 <procedure title="Select language" id="select-language">
@@ -17,7 +17,7 @@ From the Starter window select setting tab
 <step>
 Select language from the language selection <code>dropdown</code>
 </step>
-<img src="language_selection.png" alt="Select language" width="640"/>
+<img src="language_selection.png" alt="Select language" width="540"/>
 </procedure>
 
 <procedure title="Set floating point" id="set-floating-point">
@@ -27,7 +27,7 @@ From the Starter window select setting tab
 <step>
 Select floating point from the floating point selection <code>dropdown</code>
 </step>
-<img src="precision_selection.png" alt="Setting floating point" width="640"/>
+<img src="precision_selection.png" alt="Setting floating point" width="540"/>
 </procedure>
 
 <procedure title="Setting shortcut keys" id="setting-shorcut-key">
@@ -51,7 +51,7 @@ Different groups can share shortcut keys. In the same group, shortcut keys shall
 </p>
 
 
-<img src="shortcut.png" alt="Setting shortcut keys" width="640"/>
+<img src="shortcut.png" alt="Setting shortcut keys" width="540"/>
 </procedure>
 <procedure title="Save and load profiles" id="save-load-profiles">
 <p>
@@ -60,7 +60,7 @@ The application setting can be saved and loaded as profiles. For example, users 
 <p>
 To save or load a setting profile, click on the <code>Setting</code> tab and scroll down to the <code>Setting Profile</code> section in the Starter window.
 </p>
-<img src="profile.png" alt="Save and load profile" width="640"/>
+<img src="profile.png" alt="Save and load profile" width="540"/>
 <procedure title="Import setting profiles">
 <step>
 Click on the <code>Export</code> button to save the current setting profile.
@@ -69,6 +69,7 @@ Click on the <code>Export</code> button to save the current setting profile.
 Upon clicking the <code>Export</code> button, a saving files dialog will appear where users can enter the profile name and click <code>Save</code> to save the profile to a file on the computer.
 </step>
 </procedure>
+
 <procedure title="Export setting profiles">
 
 <step>
