@@ -1,7 +1,5 @@
 # PDF Pages
 
-
-
 <procedure title="Add PDF blueprints to folder" id="add-pdf-pages">
 <step>
 Select the folder you want to add PDFs to in the <code>Document view</code>.
