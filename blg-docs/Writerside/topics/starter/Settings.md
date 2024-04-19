@@ -1,3 +1,5 @@
+# Settings
+
 <procedure title="Select Themes and Styles" id="select-themes-and-styles">
 <p>
 The application has 4 themes: Prime, Nord, Cupertino, and Dracula, each is with dark and light modes.
