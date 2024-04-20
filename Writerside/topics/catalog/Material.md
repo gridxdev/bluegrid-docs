@@ -21,7 +21,7 @@ From <code>material table menu </code> hover <code>Add material</code> and selec
 <img src="add_material.png" alt="Add a material item" width="540"/>
 <note>
 <p>
-  The new material item is added with default properties such as <code>code</code>, <code>description</code>, and format style. A material item can always be edited. Refer to <a href="Edit-material-item">Edit material item</a> procedure.
+  The new material item is added with default properties such as <code>code</code>, <code>description</code>, and format style. A material item can always be edited. Refer to <a href="#edit-material-item">Edit material item</a> procedure.
 </p>
 </note>
 </procedure>
