@@ -10,20 +10,27 @@ To create a folder, go to <code>Folder menu</code> in <code>Document view</code>
 </procedure>
 
 <procedure title="Import PDFs to a new folder" id="import-pdf">
-<warning>
-    <p>
-        By deleting a folder, users will also delete all PDF pages and data referencing to every PDF page in the folder. This action is irreversible.
-    </p>
-</warning>
+
 <p>
 To import PDFs to a new folder, go to <code>Folder menu</code> in <code>Document view</code> and  select item <code>Import</code>.
 </p>
 <img src="import_pdf.png" alt="Import PDFs" width="540"/>
 </procedure>
-<procedure title="Remove a folder" id="remove-folder">
-<p>
-To remove a folder, go to <code>Folder menu</code> in <code>Document view</code> and  select item <code>Remove</code>.
-</p>
+<procedure title="Delete a folder" id="remove-folder">
+<warning>
+    <p>
+        By deleting a folder, users will also delete all PDF pages and data referencing to every PDF page in the folder. This action is irreversible.
+    </p>
+</warning>
+<step>
+Go to <code>Document view</code>
+</step>
+<step>
+Select the folder you want to delete
+</step>
+<step>
+Click on the <code>Folder menu</code> and select <code>Remove folder</code>
+</step>
 <img src="remove_folder.png" alt="Remove folder" width="540"/>
 
 </procedure>
