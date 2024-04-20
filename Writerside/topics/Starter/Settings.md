@@ -58,56 +58,30 @@ Different groups can share shortcut keys. In the same group, shortcut keys shall
 
 </procedure>
 
-[//]: # ()
-[//]: # (<procedure title="Save and load profiles" id="save-load-profiles">)
+<procedure title="Save and load profiles" id="save-load-profiles">
+<p>
+    The application setting can be saved and loaded as profiles. For example, users can save a settings profiles for different favors of use and save time on setting up the application.
+</p>
+<p>
+    To save or load a setting profile, click on the <code>Setting</code> tab and scroll down to the <code>Setting Profile</code> section in the Starter window.
+</p>
+<img src="profile.png" alt="Save and load profile" width="540"/>
+</procedure>
 
-[//]: # (<p>)
+<procedure title="Import setting profiles">
+<step>
+    Click on the <code>Export</code> button to save the current setting profile.
+</step>
+<step>
+    Upon clicking the <code>Export</code> button, a saving files dialog will appear where users can enter the profile name and click <code>Save</code> to save the profile to a file on the computer.
+</step>
+</procedure>
 
-[//]: # (The application setting can be saved and loaded as profiles. For example, users can save a settings profiles for different favors of use and save time on setting up the application.)
-
-[//]: # (</p>)
-
-[//]: # (<p>)
-
-[//]: # (To save or load a setting profile, click on the <code>Setting</code> tab and scroll down to the <code>Setting Profile</code> section in the Starter window.)
-
-[//]: # (</p>)
-
-[//]: # (<img src="profile.png" alt="Save and load profile" width="540"/>)
-
-[//]: # (</procedure>)
-
-[//]: # ()
-[//]: # (<procedure title="Import setting profiles">)
-
-[//]: # (<step>)
-
-[//]: # (Click on the <code>Export</code> button to save the current setting profile.)
-
-[//]: # (</step>)
-
-[//]: # (<step>)
-
-[//]: # (Upon clicking the <code>Export</code> button, a saving files dialog will appear where users can enter the profile name and click <code>Save</code> to save the profile to a file on the computer.)
-
-[//]: # (</step>)
-
-[//]: # (</procedure>)
-
-[//]: # ()
-[//]: # (<procedure title="Export setting profiles">)
-
-[//]: # ()
-[//]: # (<step>)
-
-[//]: # (To load a setting profile, click on the <code>Import</code> button.)
-
-[//]: # (</step>)
-
-[//]: # (<step>)
-
-[//]: # (Upon clicking the <code>Import</code> button, an opening files dialog box will appear, navigate to the profile file and click <code>Open</code> from the dialog window to load the file.)
-
-[//]: # (</step>)
-
-[//]: # (</procedure>)
+<procedure title="Export setting profiles">
+<step>
+    To load a setting profile, click on the <code>Import</code> button.
+</step>
+<step>
+    Upon clicking the <code>Import</code> button, an opening files dialog box will appear, navigate to the profile file and click <code>Open</code> from the dialog window to load the file.
+</step>
+</procedure>
