@@ -31,7 +31,7 @@ Go to <code>Document view</code>
 Select the folder you want to delete
 </step>
 <step>
-Click on the <code>Folder menu</code> and select <code>Remove folder</code>
+Click on the <code>Folder menu</code> and select <code>Remove folder</code> menu item.
 </step>
 <img src="remove_folder.png" alt="Remove folder" width="540"/>
 
