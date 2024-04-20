@@ -1,11 +1,20 @@
 # Folders
 <procedure title="Create a folder" id="create-a-folder">
 <p>
-In BlueGrid, additional data such as shapes, markups, materials, etc. are generated on top of pages, and pages reside in folders. So before adding pages, users must create folders.
+In BlueGrid, every PDF page resides in one folder. So before adding PDF pages to a folder, the folder must be created.
 </p>
-<p>
-To create a folder, go to <code>Folder menu</code> in <code>Document view</code> and  select item <code>Create folder</code>.
-</p>
+<step>
+Go to <code>Document view</code>
+</step>
+<step>
+Click on the <code>Folder menu</code> and select <code>Create folder</code>
+</step>
+<step>
+Buy clicking on <code>Create folder</code> an input dialog will appear where you can enter the folder name.
+</step>
+<step>
+Ensure the folder name is identical and click <code>OK</code> to create the folder.
+</step>
 <img src="create_folder.png" alt="Create folder" width="540"/>
 </procedure>
 
