@@ -1,7 +1,14 @@
-site_name: BlueGrid
+site_name: BlueGrid Tutorials
+site_description: BlueGrid is a professional construction quantity take-off software.
+site_author: BlueGrid Ltd.
+
 
 theme:
   name: material
+  font:
+    text: Roboto
+    code: Roboto Mono
+
   custom_dir: overrides
   feature:
     - navigation.sections
@@ -52,21 +59,24 @@ extra:
 
 nav:
   - Overview: 'index.md'
-  - Project:
-      - Create: "create.md"
-      - Open: "open_project.md"
-  - PDF/Blueprints:
-      - Import files: "import_pdf.md"
-      - Remove files: "remove_pdf_file.md"
-      - Remove pages: "remove_pages.md"
-      - Append pages: "append_pages.md"
-      - Export pages: "export_pdf.md"
-      - Replace pages: "replace_page.md"
-      - Setting scale: "setting_scale.md"
-      - Layers on/off: "pdf_layer.md"
-  - Works/Materials:
+  - Getting started:
+      - Starter: 'starter.md'
+      - Application: 'application.md'
+      - Data:  'data.md'
+  - Project: 'project.md'
+  - PDF documents : "pdf.md"
+  - Materials:
       - Catalogs/WBS: "wbs.md"
       - Materials: "material.md"
-
-
+  - Draws/Shapes:
+      - Shape tools: "shape_tool.md"
+      - Annotation tools: "annotation_tool.md"
+      - Symbol tools: "symbol_tool.md"
+      - Style shapes: "style.md"
+      - Transform: "transform.md"
+      - Modify: "modify.md"
+      - Utilization: "pdf_layer.md"
+  - Release notes: "releases.md"
+  - Issue Reports: "issue.md"
+  - Contact: "contact.md"
 
