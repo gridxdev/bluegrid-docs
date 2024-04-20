@@ -9,7 +9,6 @@
     <toc-element toc-title="Starter">
         <toc-element topic="Projects.md"/>
         <toc-element topic="Settings.md"/>
-
     </toc-element>
 
     <toc-element toc-title="PDFs">

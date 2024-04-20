@@ -61,6 +61,7 @@ The application setting can be saved and loaded as profiles. For example, users 
 To save or load a setting profile, click on the <code>Setting</code> tab and scroll down to the <code>Setting Profile</code> section in the Starter window.
 </p>
 <img src="profile.png" alt="Save and load profile" width="540"/>
+</procedure>
 <procedure title="Import setting profiles">
 <step>
 Click on the <code>Export</code> button to save the current setting profile.

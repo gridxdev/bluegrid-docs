@@ -1,4 +1,5 @@
 # Projects
+
 <p>Bluegrid renders a project <code>list view</code> in the <code>Starter window</code> which utilizes creating, opening and finding projects.</p>
 <procedure title="Create a project" id="create-project">
 <p>Before performing quantity take-off on PDF blueprints, users must create a Bluegrid project.</p>
@@ -22,8 +23,10 @@ To open a project, users follow the steps below:
 <step>Navigate to the Bluegrid project file you want to open and click <code>Open</code> from the dialog window.</step>
 <img src="open_project.png" alt="Open a project" width="540"/>
 </procedure>
-<tip>
-<p>
-    You can always look for a project by typing in the project's name or the project's path in the project <code>filter</code> and just click on the matched project item to open it.
-</p>
-</tip>
+<procedure title="Find and open a project from project list view" id="find-project">
+    <step>
+        Click on the <code>Filter</code> input box in the project list view.
+</step>
+<step>Type in the project name or the project path in the <code>Filter</code> input box.</step>
+<step>Click on the project item in the project list view to open the project.</step>
+</procedure>
