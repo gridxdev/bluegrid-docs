@@ -18,13 +18,6 @@ Ensure the folder name is identical and click <code>OK</code> to create the fold
 <img src="create_folder.png" alt="Create folder" width="540"/>
 </procedure>
 
-<procedure title="Import PDFs to a new folder" id="import-pdf">
-
-<p>
-To import PDFs to a new folder, go to <code>Folder menu</code> in <code>Document view</code> and  select item <code>Import</code>.
-</p>
-<img src="import_pdf.png" alt="Import PDFs" width="540"/>
-</procedure>
 <procedure title="Delete a folder" id="remove-folder">
 <warning>
     <p>
