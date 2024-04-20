@@ -17,7 +17,7 @@ From the Starter window select setting tab
 <step>
 Select language from the language selection <code>dropdown</code>
 </step>
-<img src="language_selection.png" alt="Select language" width="540" style="" />
+<img src="language_selection.png" alt="Select language" width="540"  />
 </procedure>
 
 <procedure title="Set floating point" id="set-floating-point">
@@ -27,7 +27,7 @@ From the Starter window select setting tab
 <step>
 Select floating point from the floating point selection <code>dropdown</code>
 </step>
-<img src="precision_selection.png" alt="Setting floating point" width="540" style="" />
+<img src="precision_selection.png" alt="Setting floating point" width="540" />
 </procedure>
 
 <procedure title="Setting shortcut keys" id="setting-shorcut-key">
