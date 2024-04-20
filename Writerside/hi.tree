@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="hi"
+                 name="BlueGrid Documentation"
+                 start-page="Overview.md">
+    <toc-element topic="Overview.md"/>
+    <toc-element toc-title="Starter">
+        <toc-element topic="Projects.md"/>
+        <toc-element topic="Settings.md"/>
+    </toc-element>
+
+    <toc-element toc-title="PDFs">
+        <toc-element  topic="Page_COP.md"/>
+        <toc-element topic="Folders.md"/>
+        <toc-element toc-title="PDF pages" topic="PDFs.md"/>
+    </toc-element>
+    <toc-element toc-title="Shapes">
+        <toc-element topic="Draw.md"/>
+        <toc-element topic="Move-and-transform.md"/>
+        <toc-element topic="Active-and-modify.md"/>
+    </toc-element>
+    <toc-element toc-title="Catalog">
+        <toc-element topic="Material.md"/>
+        <toc-element topic="Tree-Catalog.md"/>
+    </toc-element>
+
+</instance-profile>

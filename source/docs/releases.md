@@ -5,7 +5,7 @@
 - Enhancements
   - Internal optimization
 - New features
-  - Format tools accepts active shapes.
+  - Format tool accepts active shapes.
 - Fix bugs
   - Color pickers take effect immediately.
   - Shape style changes undos fallback to the previous style.
