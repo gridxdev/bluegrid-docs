@@ -19,14 +19,14 @@ Page development is under construction. Please check back later...
     <list type="decimal" start="1">
         <li>Add PDF pages</li>
         <li>Delete PDF pages</li>
-        <li>Set page properties: Name, scale</li>
-        <li>View page properties: Name, scale, PDF text content</li>
         <li>Replace pages</li>
         <li>Duplicate a page</li>
         <li>Delete pages</li>
         <li>Add page versions</li>
         <li>Delete page versions</li>
         <li>Rotate pages: Clockwise, counter-clockwise</li>
+        <li>Set page properties: Name, scale</li>
+        <li>View page properties: Name, scale, PDF text content</li>
     </list>
 </li>
 </list>
