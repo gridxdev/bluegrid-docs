@@ -4,7 +4,7 @@ Page development is under construction. Please check back later...
 
 ## Features and functionalities
 ### Pages and PDFs
-<list type="decimal" start="1">
+<list type="bullet" start="1">
 <li>Folders
     <list type="decimal" start="1">
         <li>Create folder</li>
@@ -93,6 +93,35 @@ Page development is under construction. Please check back later...
                 <li>Set text color (applicable to text-base class)</li>
             </list>
         </li>
+    </list>
+</li>
+<li>Materials
+    <list type="decimal" start="1">
+        <li>Add new materials</li>
+        <li>Delete materials</li>
+        <li>Import materials from CSV files</li>
+        <li>Export material definition to CSV files</li>
+        <li>Edit materials</li>
+        <li>Pull materials to page from project's catalogs</li>
+        <li>Export material quantity table to Microsoft Excel files</li>
+    </list>
+</li>
+<li>Catalog trees
+    <list type="decimal" start="1">
+        <li>Add catalog item</li>
+        <li>Delete catalog item</li>
+        <li>Add a material item as leave catalog item</li>
+        <li>Move child catalog item to another catalog parent</li>
+        <li>Import catalog items from catalog json files</li>
+        <li>Export catalog items to catalog json files</li>
+    </list>
+</li>
+<li>Shape-Material relation
+    <list type="decimal" start="1">
+        <li>Subscribe shapes to a material / Materialize</li>
+        <li>Unsubscribe shapes from the subscribed materials / Dematerialize</li>
+        <li>Compute material quantities from subscribed shapes</li>
+        <li>List material quantity table on PDF page</li>
     </list>
 </li>
 </list>
