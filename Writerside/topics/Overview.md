@@ -7,12 +7,12 @@ Page development is under construction. Please check back later...
 <list type="decimal" start="1">
 <li>Folders
     <list type="decimal" start="1">
-    <li>Create folder</li>
-    <li>Add folder</li>
-    <li>Delete folder</li>
-    <li>Rename folder</li>
-    <li>Filter folder by name</li>
-    <li>Sort folder by name</li>
+        <li>Create folder</li>
+        <li>Add folder</li>
+        <li>Delete folder</li>
+        <li>Rename folder</li>
+        <li>Filter folder by name</li>
+        <li>Sort folder by name</li>
     </list>
 </li>
 <li>Pages
@@ -72,6 +72,25 @@ Page development is under construction. Please check back later...
                 <li>Change shape anchor point coordinates</li>
                 <li>Insert anchor points (applicable to Poly class shapes)</li>
                 <li>Remove anchor points (applicable to Poly class shapes)</li>
+            </list>
+        </li>
+        <li>Copy/Delete
+            <list type="decimal" start="1">
+                <li>Copy in place shapes</li>
+                <li>Copy displace shapes</li>
+                <li>Delete shapes</li>    
+            </list>
+        </li>
+        <li>Style shapes (applicable to free shapes)
+            <list>
+                <li>Set fill color</li>
+                <li>Set stroke color</li>
+                <li>Set fill opacity</li>
+                <li>Set stroke opacity</li>
+                <li>Set stroke with</li>
+                <li>Set text font (applicable to text-base class)</li>
+                <li>Set text font size (applicable to text-base class)</li>
+                <li>Set text color (applicable to text-base class)</li>
             </list>
         </li>
     </list>
