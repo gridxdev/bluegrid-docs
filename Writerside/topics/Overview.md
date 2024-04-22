@@ -52,7 +52,7 @@ Page development is under construction. Please check back later...
                 <li>Pick shapes from PDF</li>
             </list>
         </li>
-        <li>Blocks
+        <li>Block shapes
             <list type="decimal" start="1">
                 <li>Convert a shape to countable a shape block</li>
                 <li>Import countable shape blocks from Json files</li>
@@ -65,6 +65,13 @@ Page development is under construction. Please check back later...
                 <li>Rotate shapes</li>
                 <li>Scale shapes X direction</li>
                 <li>Scale shape Y direction</li>
+            </list>
+        </li>
+        <li>Modify shapes
+            <list type="decimal" start="1">
+                <li>Change shape anchor point coordinates</li>
+                <li>Insert anchor points (applicable to Poly class shapes)</li>
+                <li>Remove anchor points (applicable to Poly class shapes)</li>
             </list>
         </li>
     </list>
