@@ -3,8 +3,8 @@
 Page development is under construction. Please check back later...
 
 ## Features and functionalities
-### Pages and PDFs
-<list type="bullet" start="1">
+
+<list type="bullet" >
 <li>Folders
     <list type="decimal" start="1">
         <li>Create folder</li>
