@@ -1,6 +1,6 @@
 # Overview
 
-Page development is under construction. Please check back later...
+The page is under construction. Please check back later...
 
 ## Features and functionalities
 
