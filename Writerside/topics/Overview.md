@@ -5,14 +5,13 @@ Page development is under construction. Please check back later...
 ## Features and functionalities
 
 <list type="bullet" >
-<li>Folders
+<li><a href="Folders.md"> Folders</a>
     <list type="decimal" start="1">
-        <li>Create folder</li>
-        <li>Add folder</li>
-        <li>Delete folder</li>
-        <li>Rename folder</li>
-        <li>Filter folder by name</li>
-        <li>Sort folder by name</li>
+        <li><a href="Folders.md" anchor="create-a-folder" >Add folders</a></li>
+        <li><a href="Folders.md" anchor="remove-folder">Delete folder </a></li>
+        <li><a href="Folders.md" anchor="rename-folder">Rename folder</a></li>
+        <li><a href="Folders.md" anchor="filter-folders">Filter folders</a></li>
+        <li><a href="Folders.md" anchor="sort-folders">Sort folders</a> </li>
     </list>
 </li>
 <li>Pages
