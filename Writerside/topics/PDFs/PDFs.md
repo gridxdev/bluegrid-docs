@@ -71,6 +71,26 @@ Navigate to the PDF file you want to replace the page with and click <code>Open<
 </note>
 </procedure>
 
+## Rotate PDF pages
+<procedure>
+<step>
+    From <code>Page view</code> in <code>Document view</code> select the page to rotate.
+</step>
+<step>
+    Right mouse click to open page <code>context menu</code>
+</step>
+<step>
+    Hove menu item <code>Rotate</code>
+</step>
+<step>
+    Select the rotation direction <code>Clockwise</code> or <code>Counter-clockwise</code>
+</step>
+<img src="rotate_page.png" alt="Rotate page" width="540"/>
+<note>
+    The rotation is applied to the last version of the page.
+</note>
+</procedure>
+
 ## Export to PDFs
 <procedure>
 <p>
@@ -86,10 +106,11 @@ From <code>Page menu</code> select <code>Export to PDF</code> item.
 Navigate to the location you want to save the PDF files and click <code>Save</code> from the dialog window.
 </step>
 <img src="export_pdf.png" alt="Export to PDF" width="540"/>
-<note>
+<tip>
         You can always select multiple pages to export to one PDF file.
-</note>
+</tip>
 </procedure>
+
 
 ## Delete pages
 <procedure  >
@@ -131,6 +152,69 @@ From <code>Page menu</code> select <code>Remove</code> item.
     A page will have no PDF blueprint version if users deletes all its PDF blueprint versions.
 </note>
 </procedure>
+
+## Set page properties
+<p>
+In BlueGrid, page properties of a page such as name, scale.
+</p>
+<procedure>
+<step>
+    From <code>Page view</code> in <code>Document view</code> select the page to set properties.
+</step>
+<step>
+    Right mouse click to open page <code>context menu</code>.
+</step>
+<step>
+    Select menu item <code>Properties</code>.
+</step>
+<step>
+    Set the page properties in the <code>Properties dialog</code> and click <code>OK</code> to save the properties.
+</step>
+<img src="page_properties.png" alt="Set page properties" width="540"/>
+</procedure>
+
+## Filter pages by name
+<p>
+    PDF pages in a opened folder can be filtered by name.
+</p>
+<procedure>
+<step>
+    From  <code>Document view</code> select the folder to filter pages.
+</step>
+<step>
+    Click on the <code>Filter</code> input box in the <code>Page view</code>.
+</step>
+<step>
+    Type complete or a part of the page name in the <code>Filter</code> input box.
+</step>
+<img src="filter_page.png" alt="Filter pages" width="540"/>
+</procedure>
+
+## Find PDF pages by text content
+<p>
+    In BlueGrid, users can search for PDF pages by text content hints.
+</p>
+<procedure>
+<step>
+    From <code>Document view</code> select the folder to search for pages.
+</step>
+<step>
+    Click on the <code>Filter | Search</code> input box in the <code>Page view</code>.
+</step>
+<step>
+    Type the text hint may PDF pages contain in the <code>Filter | Search</code> input box.
+</step>
+<step>
+    Hit button <code>Search</code> to trigger search.
+</step>
+<img src="search_page.png" alt="Search pages" width="540"/>
+<note>
+    BlueGrid will list all pages that contain the text hint in the search result.
+</note>
+</procedure>
+
+
+
 
 
 
