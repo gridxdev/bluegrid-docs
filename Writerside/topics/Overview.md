@@ -7,9 +7,9 @@ Page development is under construction. Please check back later...
 <list type="bullet" >
 <li><a href="Folders.md"> Folders</a>
     <list type="decimal" start="1">
-        <li><a href="Folders.md" anchor="create-a-folder" >Add folders</a></li>
-        <li><a href="Folders.md" anchor="remove-folder">Delete folder </a></li>
-        <li><a href="Folders.md" anchor="rename-folder">Rename folder</a></li>
+        <li><a href="Folders.md" anchor="add-folders" >Add folders</a></li>
+        <li><a href="Folders.md" anchor="delete-folders">Delete folder </a></li>
+        <li><a href="Folders.md" anchor="rename-folders">Rename folder</a></li>
         <li><a href="Folders.md" anchor="filter-folders">Filter folders</a></li>
         <li><a href="Folders.md" anchor="sort-folders">Sort folders</a> </li>
     </list>
