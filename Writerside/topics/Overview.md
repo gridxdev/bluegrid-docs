@@ -16,10 +16,10 @@ Page development is under construction. Please check back later...
 </li>
 <li>Pages
     <list type="decimal" start="1">
-        <li>Add PDF pages</li>
+        <li><a href="PDFs.md" anchor="add-pdf-pages">Add PDF pages</a></li>
+        <li>Duplicate a page</li>
         <li>Delete PDF pages</li>
         <li>Replace pages</li>
-        <li>Duplicate a page</li>
         <li>Delete pages</li>
         <li>Add page versions</li>
         <li>Delete page versions</li>

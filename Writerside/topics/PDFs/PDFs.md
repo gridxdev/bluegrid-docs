@@ -14,6 +14,63 @@ Navigate to the PDF files you want to add to the folder and click <code>Open</co
 <img src="add_pdf.png" alt="Add PDFs to a folder" width="540"/>
 </procedure>
 
+## Replace pages
+<procedure>
+<p>In BlueGrid a PDF page is conceptually a blueprint and may have many versions, the last version is the 'active' version. By replacing the PDF page, users replace the last version.</p>
+<step>
+Select the folder that contains the pages you want to replace in the <code>Document view</code>.
+</step>
+<step>
+Select the page you want to replace in the <code>Page view</code>.
+</step>
+<step>
+Right click on the page item to open the page <code>context menu</code>.
+</step>
+<step>
+Select <code>Replace</code> menu item.
+</step>
+<step>
+Navigate to the PDF file you want to replace the page with and click <code>Open</code> from the dialog window.
+</step>
+<img src="replace_page.png" alt="Replace page" width="540"/>
+<note>
+    BlueGrid will take the first page of the PDF file to replace the page.
+</note>
+</procedure>
+
+## Duplicate a page
+<procedure>
+<step>
+    From <code>Page view</code> in <code>Document view</code> select the page to duplicate.
+</step>
+<step>
+    Right mouse click to open page <code>context menu</code>
+</step>
+<step>
+    Select menu item <code>Duplicate</code>
+</step>
+<img src="duplicate_page.png" alt="Duplicate a page" width="540">
+</procedure>
+
+## Add page version
+<procedure>
+<step>
+    From <code>Page view</code> in <code>Document view</code> select the page to add version.
+</step>
+<step>
+    Right mouse click to open page <code>context menu</code>
+</step>
+<step>
+    Select menu item <code>Add version</code>
+</step>
+<step>
+   Navigate to the PDF file you want to add version and click <code>Open</code> from the dialog window.
+</step>
+<note>
+    The lastly added PDF page is the last version and will be the active PDF blueprint.
+</note>
+</procedure>
+
 ## Export to PDFs
 <procedure>
 <p>
@@ -51,33 +108,29 @@ Select the pages you want to remove in the <code>Page view</code>.
 From <code>Page menu</code> select <code>Remove</code> item.
 </step>
 <img src="remove_page.png" alt="Remove page" width="540"/>
+
 </procedure>
 
-## Replace pages
+## Delete page versions
 <procedure>
-<p>In BlueGrid a PDF page is conceptually a blueprint and may have many versions, the last version is the 'active' version. By replacing the PDF page, users replace the last version.</p>
 <step>
-Select the folder that contains the pages you want to replace in the <code>Document view</code>.
+    From <code>Page view</code> in <code>Document view</code>    
 </step>
 <step>
-Select the page you want to replace in the <code>Page view</code>.
+    Select the page you want to delete version.
 </step>
 <step>
-Right click on the page item to open the page <code>context menu</code>.
+    Right mouse click to open page <code>context menu</code>.
 </step>
 <step>
-Select <code>Replace</code> menu item.
+    Select menu item <code>Delete version</code>.
 </step>
-<step>
-Navigate to the PDF file you want to replace the page with and click <code>Open</code> from the dialog window.
-</step>
-<img src="replace_page.png" alt="Replace page" width="540"/>
+<img src="" alt="Delete page versions"/>
 <note>
-    BlueGrid will take the first page of the PDF file to replace the page.
+    By deleting version, BlueGrid deletes the last version of the page. The version next to the deleted version will be the last version and the active version.
+    A page will have no PDF blueprint version if users deletes all its PDF blueprint versions.
 </note>
 </procedure>
-
-
 
 
 

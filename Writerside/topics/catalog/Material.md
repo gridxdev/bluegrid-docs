@@ -61,7 +61,7 @@ From <code>material table menu </code> select <code>Export to csv</code> menu it
 <step>
 Upon selecting the <code>Export to csv</code>, a save file <code>dialog window</code> will display. Navigate to the location you want to save the CSV file and click <code>Save</code> from the <code>dialog window</code>.
 </step>
-<img src="export_pdf.png" alt="Export material to csv" width="540"/>
+<img src="export_csv.png" alt="Export material to csv" width="540"/>
 <note>
 <p>
 Exporting material table to csv files is different from exporting to excel files. While exporting to csv file is to export the material definitions for the page, 
