@@ -8,8 +8,8 @@ Page development is under construction. Please check back later...
 <li><a href="Folders.md"> Folders</a>
     <list type="decimal" start="1">
         <li><a href="Folders.md" anchor="add-folders" >Add folders</a></li>
-        <li><a href="Folders.md" anchor="delete-folders">Delete folder </a></li>
-        <li><a href="Folders.md" anchor="rename-folders">Rename folder</a></li>
+        <li><a href="Folders.md" anchor="delete-folders">Delete folders</a></li>
+        <li><a href="Folders.md" anchor="rename-folders">Rename folders</a></li>
         <li><a href="Folders.md" anchor="filter-folders">Filter folders</a></li>
         <li><a href="Folders.md" anchor="sort-folders">Sort folders</a> </li>
     </list>
