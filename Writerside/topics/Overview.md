@@ -17,12 +17,12 @@ Page development is under construction. Please check back later...
 <li>Pages
     <list type="decimal" start="1">
         <li><a href="PDFs.md" anchor="add-pdf-pages">Add PDF pages</a></li>
-        <li>Duplicate a page</li>
-        <li>Delete PDF pages</li>
-        <li>Replace pages</li>
-        <li>Delete pages</li>
-        <li>Add page versions</li>
-        <li>Delete page versions</li>
+        <li><a href="PDFs.md" anchor="duplicate-a-page">Duplicate a page</a></li>
+        <li><a href="PDFs.md" anchor="replace-pages" >Replace a page</a></li>
+        <li><a href="PDFs.md" anchor="add-page-version">Add page versions</a></li>
+        <li><a href="PDFs.md" anchor="export-to-pdfs" >Export to PDF</a></li>
+        <li><a href="PDFs.md" anchor="delete-pages"></a>Delete pages</li>
+        <li><a href="PDFs.md" anchor="delete-page-versions">Delete page versions</a></li>
         <li>Rotate pages: Clockwise, counter-clockwise</li>
         <li>Set page properties: Name, scale</li>
         <li>View page properties: Name, scale, PDF text content</li>
