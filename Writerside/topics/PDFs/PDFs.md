@@ -53,7 +53,29 @@ From <code>Page menu</code> select <code>Remove</code> item.
 <img src="remove_page.png" alt="Remove page" width="540"/>
 </procedure>
 
-
+## Replace pages
+<procedure>
+<p>In BlueGrid a PDF page is conceptually a blueprint and may have many versions, the last version is the 'active' version. By replacing the PDF page, users replace the last version.</p>
+<step>
+Select the folder that contains the pages you want to replace in the <code>Document view</code>.
+</step>
+<step>
+Select the page you want to replace in the <code>Page view</code>.
+</step>
+<step>
+Right click on the page item to open the page <code>context menu</code>.
+</step>
+<step>
+Select <code>Replace</code> menu item.
+</step>
+<step>
+Navigate to the PDF file you want to replace the page with and click <code>Open</code> from the dialog window.
+</step>
+<img src="replace_page.png" alt="Replace page" width="540"/>
+<note>
+    BlueGrid will take the first page of the PDF file to replace the page.
+</note>
+</procedure>
 
 
 
