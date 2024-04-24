@@ -49,7 +49,7 @@ Navigate to the PDF file you want to replace the page with and click <code>Open<
 <step>
     Select menu item <code>Duplicate</code>
 </step>
-<img src="duplicate_page.png" alt="Duplicate a page" width="540">
+<img src="duplicate_page.png" alt="Duplicate a page" width="540"/>
 </procedure>
 
 ## Add page version

@@ -86,6 +86,7 @@ Filtering folders facilitates users to quickly find the folder they are looking 
 <procedure >
 <p>
 Sorting folders helps users to organize the folders in a way that is easy to find by sorting them alphabetically.
+</p>
 <step>
     From <code>Document view</code> click on the <code>Folder menu</code>.
 </step>
@@ -95,8 +96,6 @@ Sorting folders helps users to organize the folders in a way that is easy to fin
     
 <img src="sort_folder.png" alt="Sort folders" width="540"/>
 <tip>
-    <p>
-        BlueGrid uses last sort order to sort the folders. If the folders are sorted in ascending order, the next sort will be in descending order. 
-    </p>
+    BlueGrid uses last sort order to sort the folders. If the folders are sorted in ascending order, the next sort will be in descending order. 
 </tip>
 </procedure>
