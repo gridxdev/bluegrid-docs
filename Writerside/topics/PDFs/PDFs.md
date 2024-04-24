@@ -94,7 +94,7 @@ Navigate to the PDF file you want to replace the page with and click <code>Open<
 ## Export to PDFs
 <procedure>
 <p>
-In Bluegrid, users can export <code>Draw board</code> content of a page including shapes, markups, quantity take-off data to PDF files.
+In BlueGrid, users can export <code>Draw board</code> content of a page including shapes, markups, quantity take-off data to PDF files.
 </p>
 <step>
 Select the pages you want to export to PDF in the <code>Document view</code>.
@@ -146,7 +146,8 @@ From <code>Page menu</code> select <code>Remove</code> item.
 <step>
     Select menu item <code>Delete version</code>.
 </step>
-<img src="" alt="Delete page versions"/>
+
+[//]: # (<img src="" alt="Delete page versions"/>)
 <note>
     By deleting version, BlueGrid deletes the last version of the page. The version next to the deleted version will be the last version and the active version.
     A page will have no PDF blueprint version if users deletes all its PDF blueprint versions.
@@ -170,12 +171,12 @@ In BlueGrid, page properties of a page such as name, scale.
 <step>
     Set the page properties in the <code>Properties dialog</code> and click <code>OK</code> to save the properties.
 </step>
-<img src="page_properties.png" alt="Set page properties" width="540"/>
+<img src="set_page_properties.png" alt="Set page properties" width="540"/>
 </procedure>
 
 ## Filter pages by name
 <p>
-    PDF pages in a opened folder can be filtered by name.
+    PDF pages in an opened folder can be filtered by name.
 </p>
 <procedure>
 <step>
@@ -187,7 +188,7 @@ In BlueGrid, page properties of a page such as name, scale.
 <step>
     Type complete or a part of the page name in the <code>Filter</code> input box.
 </step>
-<img src="filter_page.png" alt="Filter pages" width="540"/>
+<img src="filter_pages.png" alt="Filter pages" width="540"/>
 </procedure>
 
 ## Find PDF pages by text content
@@ -207,7 +208,8 @@ In BlueGrid, page properties of a page such as name, scale.
 <step>
     Hit button <code>Search</code> to trigger search.
 </step>
-<img src="search_page.png" alt="Search pages" width="540"/>
+
+[//]: # (<img src="search_page.png" alt="Search pages" width="540"/>)
 <note>
     BlueGrid will list all pages that contain the text hint in the search result.
 </note>
