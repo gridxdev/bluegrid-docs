@@ -1,4 +1,4 @@
-# Overview
+# Introduction
 
 The page is under construction. Please check back later...
 
@@ -23,9 +23,8 @@ The page is under construction. Please check back later...
         <li><a href="PDFs.md" anchor="export-to-pdfs" >Export to PDF</a></li>
         <li><a href="PDFs.md" anchor="delete-pages"></a>Delete pages</li>
         <li><a href="PDFs.md" anchor="delete-page-versions">Delete page versions</a></li>
-        <li>Rotate pages: Clockwise, counter-clockwise</li>
-        <li>Set page properties: Name, scale</li>
-        <li>View page properties: Name, scale, PDF text content</li>
+        <li><a href="PDFs.md" anchor="rotate-pdf-pages" >Rotate pages: Clockwise, counter-clockwise</a></li>
+        <li><a href="PDFs.md" anchor="set-page-properties"> Set page properties: Name, scale</a></li>
     </list>
 </li>
 <li>Draw
