@@ -14,7 +14,7 @@ The page is under construction. Please check back later...
         <li><a href="Folders.md" anchor="sort-folders">Sort folders</a> </li>
     </list>
 </li>
-<li>Pages
+<li><b>Pages</b>
     <list type="decimal" start="1">
         <li><a href="PDFs.md" anchor="add-pdf-pages">Add PDF pages</a></li>
         <li><a href="PDFs.md" anchor="duplicate-a-page">Duplicate a page</a></li>
@@ -27,8 +27,8 @@ The page is under construction. Please check back later...
         <li><a href="PDFs.md" anchor="set-page-properties"> Set page properties: Name, scale</a></li>
     </list>
 </li>
-<li>Draw
-    <list type="decimal" start="1">
+<li><b>Draw</b>
+    <list type="bullet" >
         <li>Draw shapes
             <list type="decimal" start="1">
                 <li><a href="Draw-tools.md" anchor="line-tool">Line</a></li>
@@ -36,7 +36,7 @@ The page is under construction. Please check back later...
                 <li><a href="Draw-tools.md" anchor="polyline-tool">Polyline</a></li>
                 <li><a href="Draw-tools.md" anchor="polygon-tool">Polygon</a></li>
                 <li><a href="Draw-tools.md" anchor="circle-tool">Circle</a></li>
-                <li><a href="Draw-tools.md" anchor="circle-3-points-tool"></a>Circle 3 points</li>
+                <li><a href="Draw-tools.md" anchor="circle-3-points-tool">Circle 3 points</a></li>
                 <li><a href="Draw-tools.md" anchor="ellipse-tool">Ellipse</a></li>
                 <li><a href="Draw-tools.md" anchor="arc-tool">Arc</a></li>
                 <li><a href="Draw-tools.md" anchor="path-tool">Path</a></li>
@@ -93,7 +93,7 @@ The page is under construction. Please check back later...
         </li>
     </list>
 </li>
-<li>Materials
+<li><b>Materials</b>
     <list type="decimal" start="1">
         <li>Add new materials</li>
         <li>Delete materials</li>
@@ -104,7 +104,7 @@ The page is under construction. Please check back later...
         <li>Export material quantity table to Microsoft Excel files</li>
     </list>
 </li>
-<li>Catalog trees
+<li><b>Catalog trees</b>
     <list type="decimal" start="1">
         <li>Add catalog item</li>
         <li>Delete catalog item</li>
@@ -114,7 +114,7 @@ The page is under construction. Please check back later...
         <li>Export catalog items to catalog json files</li>
     </list>
 </li>
-<li>Shape-Material relation
+<li><b>Shape-Material relation</b>
     <list type="decimal" start="1">
         <li>Subscribe shapes to a material / Materialize</li>
         <li>Unsubscribe shapes from the subscribed materials / Dematerialize</li>

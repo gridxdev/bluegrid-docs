@@ -289,6 +289,9 @@ The first element of a path is always a Move element and is automatically create
     <step>
         To finish drawing the path, right mouse click <code>draw board</code> to remove the active extra vertex and finish the path.
     </step>
+<tip>
+With path tool, you can draw complex shapes with multiple segments such as line, skip (empty distance), quadratic segment, cubic segment, arc segment, and with zero or multiple wholes inside.
+</tip>
 
 </procedure>
 
