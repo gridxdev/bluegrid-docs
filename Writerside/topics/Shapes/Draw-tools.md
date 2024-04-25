@@ -201,6 +201,7 @@ A spline is a smooth curve that is defined by a sequence of points. The curve pa
 A path is a sequence of connected lines, curves and moves (gaps). In BlueGrid, drawing a path is to consequently and continuously draw path elements. In BlueGrid, there are 6 types of Path Elements: Line, Quad Curve, Cubic Curve, Arc, Move, and Close. 
 Adjacent path elements are connected, the last control point of the previous path element is the first control point of the next path element. 
 To draw different path elements, switch to the corresponding path mode. This can be done by switching directly from the path mode choice box or switch by using shortcut keys. Below is the path mode shortcut keys table:
+</p>
 
 | Shortcut Key | Path mode / path element | Draw                   | 
 |:-------------|:-------------------------|:-----------------------|
@@ -212,7 +213,7 @@ To draw different path elements, switch to the corresponding path mode. This can
 | 5            | Close mode               |                        |
 | Space        | Cancel last segment      |                        |
 
-</p>
+
 <note>
 The first element of a path is always a Move element and is automatically created when the path is started.
 </note>
@@ -225,7 +226,7 @@ The first element of a path is always a Move element and is automatically create
     </step>
     <procedure title="Draw a line segment" id="draw-line-segment">
         <step>
-            Press the <code>1</code> key to switch to the <code>Line segment mode</code>.
+            Select <code>Line To</code> mode from <code>Path mode</code> selection box or press the <code>1</code> key to switch to the <code>Line segment mode</code>.
         </step>
         <step>
             Click to pick the next point of the path.
@@ -233,7 +234,7 @@ The first element of a path is always a Move element and is automatically create
     </procedure>
     <procedure title="Draw a quad curve segment" id="draw-quad-curve-segment">
         <step>
-            Press the <code>2</code> key to switch to the <code>Quad segment mode</code>.
+          Select <code>Quad To</code> mode from <code>Path mode</code> selection box or press the <code>2</code> key to switch to the <code>Quad segment mode</code>.
         </step>
         <step>
             Click to pick the next point of the path.
@@ -244,7 +245,7 @@ The first element of a path is always a Move element and is automatically create
     </procedure>
     <procedure title="Draw a cubic curve segment" id="draw-cubic-curve-segment">
         <step>
-            Press the <code>3</code> key to switch to the <code>Cubic segment mode</code>.
+            Select <code>Cubic To</code> mode from <code>Path mode</code> selection box or press the <code>3</code> key to switch to the <code>Cubic segment mode</code>.
         </step>
         <step>
             Click to pick the next point of the path.
@@ -258,7 +259,7 @@ The first element of a path is always a Move element and is automatically create
     </procedure>
     <procedure title="Draw an arc segment" id="draw-arc-segment">
         <step>
-            Press the <code>4</code> key to switch to the <code>Arc segment mode</code>.
+            Select <code>Arc To</code> mode from <code>Path mode</code> selection box or press the <code>4</code> key to switch to the <code>Arc segment mode</code>.
         </step>
         <step>
             Click to pick the next point of the path.
@@ -269,7 +270,7 @@ The first element of a path is always a Move element and is automatically create
     </procedure>
     <procedure title="Move to the next point" id="move-to-next-point">
         <step>
-            Press the <code>0</code> key to switch to the <code>Move to mode</code>.
+            Select <code>Move To</code> mode from <code>Path mode</code> selection box or press the <code>0</code> key to switch to the <code>Move to mode</code>.
         </step>
         <step>
             Click to pick the next point of the path.
@@ -277,12 +278,18 @@ The first element of a path is always a Move element and is automatically create
     </procedure>
     <procedure title="Close the path" id="close-path">
         <step>
-            Press the <code>5</code> key to switch to the <code>Close mode</code> to close the path.
+            Select <code>Close</code> mode from <code>Path mode</code> selection box or press the <code>5</code> key to switch to the <code>Close mode</code> to close the path.
+        </step>
+    </procedure>
+    <procedure title="Cancel the last segment" id="cancel-last-segment">
+        <step>
+            Press the <code>Space</code> key to cancel the last segment of the path.
         </step>
     </procedure>
     <step>
         To finish drawing the path, right mouse click <code>draw board</code> to remove the active extra vertex and finish the path.
     </step>
+
 </procedure>
 
 
