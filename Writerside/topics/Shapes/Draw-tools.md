@@ -9,6 +9,9 @@ To have the best accuracy when drawing shapes, <code>point snap</code> should be
 </p>
 </tip>
 
+
+
+
 ## Line tool
 <procedure >
     <step>
@@ -203,15 +206,15 @@ Adjacent path elements are connected, the last control point of the previous pat
 To draw different path elements, switch to the corresponding path mode. This can be done by switching directly from the path mode choice box or switch by using shortcut keys. Below is the path mode shortcut keys table:
 </p>
 
-| Shortcut Key   | Path mode            | Draw                           | Path element        | Visible |
-|:---------------|:---------------------|:-------------------------------|---------------------|---------|
-| <code>0</code> | <code>Move to</code> | Pick one point                 | Empty distance      | NO      |
-| <code>1</code> | <code>Line to</code> | Pick next point                | Line                | Yes     |
-| 2              | Quad segment mode    | Pick next two points           | Quad Curve          | Yes     |
-| 3              | Cubic segment mode   | Pick next three points         | Cubic               | Yes     |
-| 4              | Arc segment mode     | Pick next two points           | Circle Arc          | Yes     |
-| 5              | Close mode           | Path closes to last move       | Line (to last Move) | Yes     |
-| Space          | Cancel last segment  | Last active segment is removed |                     | Yes     | 
+| Shortcut Key       | Path mode/Action      | Draw                           | Path element         | Visible  |
+|:-------------------|:----------------------|:-------------------------------|:---------------------|:---------|
+| <code>0</code>     | <code>Move to</code>  | Pick one point                 | Empty distance       | NO       |
+| <code>1</code>     | <code>Line to</code>  | Pick next point                | Line                 | Yes      |
+| <code>2</code>     | <code>Quad to</code>  | Pick next two points           | Quad Curve           | Yes      |
+| <code>3</code>     | <code>Cubic to</code> | Pick next three points         | Cubic                | Yes      |
+| <code>4</code>     | <code>Arc to</code>   | Pick next two points           | Circle Arc           | Yes      |
+| <code>5</code>     | <code>Close</code>    | Path closes to last move       | Line (to last Move)  | Yes      |
+| <code>Space</code> | Cancel last segment   | Last active segment is removed |                      | Yes      | 
 
 
 <note>
