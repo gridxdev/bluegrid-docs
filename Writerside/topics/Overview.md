@@ -5,7 +5,7 @@ The page is under construction. Please check back later...
 ## Features and functionalities
 
 <list type="bullet" >
-<li><a href="Folders.md"> Folders</a>
+<li><a href="Folders.md"><b>Folders</b></a>
     <list type="decimal" start="1">
         <li><a href="Folders.md" anchor="add-folders" >Add folders</a></li>
         <li><a href="Folders.md" anchor="delete-folders">Delete folders</a></li>
@@ -31,18 +31,18 @@ The page is under construction. Please check back later...
     <list type="decimal" start="1">
         <li>Draw shapes
             <list type="decimal" start="1">
-                <li>Line</li>
-                <li>Rectangle</li>
-                <li>Polyline</li>
-                <li>Polygon</li>
-                <li>Circle</li>
-                <li>Circle 3 points</li>
-                <li>Ellipse</li>
-                <li>Arc</li>
-                <li>Path</li>
-                <li>Spline</li>
-                <li>Quad Curve</li>
-                <li>Cubic Curve</li>
+                <li><a href="Draw-tools.md" anchor="line-tool">Line</a></li>
+                <li><a href="Draw-tools.md" anchor="rectangle-tool">Rectangle</a></li>
+                <li><a href="Draw-tools.md" anchor="polyline-tool">Polyline</a></li>
+                <li><a href="Draw-tools.md" anchor="polygon-tool">Polygon</a></li>
+                <li><a href="Draw-tools.md" anchor="circle-tool">Circle</a></li>
+                <li><a href="Draw-tools.md" anchor="circle-3-points-tool"></a>Circle 3 points</li>
+                <li><a href="Draw-tools.md" anchor="ellipse-tool">Ellipse</a></li>
+                <li><a href="Draw-tools.md" anchor="arc-tool">Arc</a></li>
+                <li><a href="Draw-tools.md" anchor="path-tool">Path</a></li>
+                <li><a href="Draw-tools.md" anchor="spline-tool">Spline</a></li>
+                <li><a href="Draw-tools.md" anchor="quad-curve-tool">Quad Curve</a></li>
+                <li><a href="Draw-tools.md" anchor="cubic-curve-tool">Cubic Curve</a></li>
             </list>
         </li>
         <li>Extract shapes
