@@ -95,13 +95,13 @@ The page is under construction. Please check back later...
 </li>
 <li><b>Materials</b>
     <list type="decimal" start="1">
-        <li>Add new materials</li>
-        <li>Delete materials</li>
-        <li>Import materials from CSV files</li>
-        <li>Export material definition to CSV files</li>
-        <li>Edit materials</li>
-        <li>Pull materials to page from project's catalogs</li>
-        <li>Export material quantity table to Microsoft Excel files</li>
+        <li><a href="Material.md" anchor="add-a-material-item"> Add new materials</a></li>
+        <li><a href="Material.md" anchor="delete-material-items">Delete materials</a></li>
+        <li><a href="Material.md" anchor="import-materials-form-csv-files">Import materials from CSV files</a></li>
+        <li><a href="Material.md" anchor="export-material-table-to-csv-files">Export material definition to CSV files</a></li>
+        <li><a href="Material.md" anchor="edit-material-item">Edit materials</a></li>
+        <li> Pull materials to page from project's catalogs</li>
+        <li> Export material quantity table to Microsoft Excel files</li>
     </list>
 </li>
 <li><b>Catalog trees</b>
