@@ -203,15 +203,15 @@ Adjacent path elements are connected, the last control point of the previous pat
 To draw different path elements, switch to the corresponding path mode. This can be done by switching directly from the path mode choice box or switch by using shortcut keys. Below is the path mode shortcut keys table:
 </p>
 
-| Shortcut Key   | Path mode            | Draw                           | Path element   |
-|:---------------|:---------------------|:-------------------------------|----------------|
-| <code>0</code> | <code>Move to</code> | Pick one point                 | Empty distance |
-| <code>1</code> | <code>Line to</code> | Pick next point                | Line           |
-| 2              | Quad segment mode    | Pick next two points           | Quad Curve     |
-| 3              | Cubic segment mode   | Pick next three points         | Cubic          |
-| 4              | Arc segment mode     | Pick next two points           | Circle Arc     |
-| 5              | Close mode           | Path closes to last move       |                |
-| Space          | Cancel last segment  | Last active segment is removed |                |
+| Shortcut Key   | Path mode            | Draw                           | Path element        | Visible |
+|:---------------|:---------------------|:-------------------------------|---------------------|---------|
+| <code>0</code> | <code>Move to</code> | Pick one point                 | Empty distance      | NO      |
+| <code>1</code> | <code>Line to</code> | Pick next point                | Line                | Yes     |
+| 2              | Quad segment mode    | Pick next two points           | Quad Curve          | Yes     |
+| 3              | Cubic segment mode   | Pick next three points         | Cubic               | Yes     |
+| 4              | Arc segment mode     | Pick next two points           | Circle Arc          | Yes     |
+| 5              | Close mode           | Path closes to last move       | Line (to last Move) | Yes     |
+| Space          | Cancel last segment  | Last active segment is removed |                     | Yes     | 
 
 
 <note>
@@ -270,7 +270,7 @@ The first element of a path is always a Move element and is automatically create
     </procedure>
     <procedure title="Move to the next point" id="move-to-next-point">
         <p>
-            A <code>Move element</code> does not draw anything, it is used to move the start point of the next element to another point. Thus, it creates an empty distance between the last control point of a visible path element and the first control point of the next visible path element.
+            A <code>Move element</code> is not a visible element, it does not draw anything, it is used to move the start point of the next element to another point. Thus, it creates an empty distance between the last control point of a visible path element and the first control point of the next visible path element.
             Without a <code>Move element</code> the next path element will start from the last control point of the previous path element.
         </p>
         <step>
