@@ -47,7 +47,7 @@ The page is under construction. Please check back later...
         </li>
         <li>Extract shapes
             <list type="decimal" start="1">
-                <li>Pick shapes from PDF</li>
+                <li>Get shapes from PDF</li>
             </list>
         </li>
         <li>Block shapes
