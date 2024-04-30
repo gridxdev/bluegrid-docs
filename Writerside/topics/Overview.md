@@ -101,12 +101,13 @@ The page is under construction. Please check back later...
         <li><a href="Material.md" anchor="import-materials-form-csv-files">Import materials from CSV files</a></li>
         <li><a href="Material.md" anchor="export-material-table-to-csv-files">Export material definition to CSV files</a></li>
         <li><a href="Material.md" anchor="edit-material-item">Edit materials</a></li>
-        <li><a href="Material.md" anchor="" Export material quantity table to Microsoft Excel files</a></li>
+        <li><a href="Material.md" anchor="export-material-take-off-table-to-excel-files"> Export material quantity table to Microsoft Excel files</a></li>
     </list>
 </li>
 <li><b>Catalog trees</b>
     <list type="decimal" start="1">
-        <li>Add catalog item</li>
+        <li><a href="Tree-Catalog.md" anchor="add-a-catalog-tree">Add a catalog</a></li>
+        <li><a href="Tree-Catalog.md" anchor="add-a-catalog-tree-item">Add catalog item</a></li>
         <li>Delete catalog item</li>
         <li>Add a material item as leave catalog item</li>
         <li>Move child catalog item to another catalog parent</li>

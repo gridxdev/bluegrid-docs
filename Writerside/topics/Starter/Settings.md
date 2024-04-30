@@ -34,7 +34,7 @@ From the Starter window select setting tab
 
 <procedure title="Setting shortcut keys" id="setting-shorcut-key">
 <p>
-In Bluegrid, most user actions can be performed using keyboard shortcuts. 
+In BlueGrid, most user actions can be performed using keyboard shortcuts. 
 </p>
 <p>
 To view or set shortcut keys, click on the <code>Setting</code> tab and scroll down to set Shortcut keys section in the Starter window.

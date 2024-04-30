@@ -28,7 +28,7 @@ From <code>material table menu </code> hover <code>Add material</code> and selec
 
 ## Pull materials from catalogs
 <procedure>
-<p>Every Bluegrid project should have at least one catalog tree. Page materials can be pulled from the catalog tree.</p>
+<p>Every BlueGrid project should have at least one catalog tree. Page materials can be pulled from the catalog tree.</p>
 <step>
 Go to <code>Draw view</code>
 </step>
@@ -87,8 +87,8 @@ Upon selecting the <code>Export to csv</code>, a save file <code>dialog window</
 <img src="export_csv.png" alt="Export material to csv" width="540"/>
 <note>
 <p>
-Exporting material table to csv files is different from exporting to excel files. While exporting to csv file is to export the material definitions for the page, 
-exporting to excel files is to export the material quantity take-off data for the page. 
+Exporting material table to csv files is different from exporting to Excel files. While exporting to csv file is to export the material definitions for the page, 
+exporting to Excel files is to export the material quantity take-off data for the page. 
 </p>
 </note>
 <tip>
