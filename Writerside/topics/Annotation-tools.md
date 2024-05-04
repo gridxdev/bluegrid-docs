@@ -1,7 +1,7 @@
 # Annotation tools
 
 ## Scale tool
-The <code>scale tool</code> is not used to draw a visual shape but is used to set to a page scale.
+The <code>scale tool</code> is not used to draw a visual shape but is used to set a page scale.
 <procedure>
 <step>
 Go to <code>Draw view</code>
