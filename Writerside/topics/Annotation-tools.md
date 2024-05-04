@@ -19,7 +19,7 @@ Click on two points on the <code>draw board</code> to pick the distance to set t
 Up on picking the second point, a dialog will appear where you can enter the distance in the real world.
 </step>
 <step>
-Click <code>Apply</code> to set the scale.
+Click <code>Apply</code> to set the page scale.
 </step>
 <tip>
 <p>

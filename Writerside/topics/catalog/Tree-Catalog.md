@@ -32,7 +32,7 @@ Right click on the <code>catalog item</code> to open the <code>context menu</cod
 <note>
 <p>A catalog child item can be of any type: Group, Count, Linear, Area or Volume.</p>
 <p>
-    A group item can have child items while the others are leaf items and do not have child items.
+A group item can have child items while the others are leaf items and do not have child items.
 </p>
 </note>
 </procedure>

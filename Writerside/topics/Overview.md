@@ -45,6 +45,11 @@ The page is under construction. Please check back later...
                 <li><a href="Draw-tools.md" anchor="cubic-curve-tool">Cubic Curve</a></li>
             </list>
         </li>
+        <li>Annotations
+            <list type="decimal" start="1">
+                <li><a href="Annotation-tools.md" anchor="scale-tool">Scale tool</a>            </li>
+            </list>
+        </li>
         <li>Extract shapes
             <list type="decimal" start="1">
                 <li>Get shapes from PDF</li>
@@ -107,7 +112,7 @@ The page is under construction. Please check back later...
 <li><b>Catalog trees</b>
     <list type="decimal" start="1">
         <li><a href="Tree-Catalog.md" anchor="add-a-catalog-tree">Add a catalog</a></li>
-        <li><a href="Tree-Catalog.md" anchor="add-a-catalog-tree-item">Add catalog item</a></li>
+        <li><a href="Tree-Catalog.md" anchor="add-a-catalog-item">Add catalog item</a></li>
         <li>Delete catalog item</li>
         <li>Add a material item as leave catalog item</li>
         <li>Move child catalog item to another catalog parent</li>
