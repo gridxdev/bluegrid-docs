@@ -1,21 +1,27 @@
-# Draw tools
-
+# Shape tools
+<tldr>
+    <p>UI path: <ui-path><code>Draw view</code> | <code>Shape tool panel</code> | <code>Shape tool set</code></ui-path></p>
+</tldr>
 <p>
 In BlueGrid, <code>shape tools</code> are used to draw almost any type of 2D shapes that are usually used in construction blueprints, such as line, rectangle, polygon, spline, path, shapes with wholes in side...etc. 
 </p>
+<note>
+<p>
+Shapes belong to the Metric class; therefore, they can subscribe to materials. Once subscribed to materials, and their styling is always managed via the <code>material editor</code>.</p>
+</note>
+
 <tip>
 <p>
-To have the best accuracy when drawing shapes, <code>point snap</code> should be on.
+While drawing shapes, <code>point snap</code> options should be turned on to achieve the best accuracy.
 </p>
 </tip>
-
 
 
 
 ## Line tool
 <procedure >
     <step>
-        Select the <code>Line tool</code> from the <code>Draw tool pane</code>.
+        Select the <code>Line tool</code> from the <code>shape tool set</code>.
     </step>
     <step>
         Left mouse click to pick the start point of the line.
@@ -28,7 +34,7 @@ To have the best accuracy when drawing shapes, <code>point snap</code> should be
 ## Rectangle tool
 <procedure >
     <step>
-        Select the <code>Rectangle tool</code> from the <code>Draw tool pane</code>.
+        Select the <code>Rectangle tool</code> from the <code>shape tool set</code>.
     </step>
     <step>
         Left mouse click to pick the first corner of the rectangle.
@@ -44,7 +50,7 @@ To have the best accuracy when drawing shapes, <code>point snap</code> should be
     A polyline is a connected sequence of line segments created as a single shape. A polyline has two or many vertices. In BlueGrid, drawing a polyline is to pick all the vertices of the polyline, in ordered sequence.
     </p>
     <step>
-    Select the <code>Polyline tool</code> from the <code>Draw tool pane</code>.
+    Select the <code>Polyline tool</code> from the <code>shape tool set</code>.
     </step>
     <step>
     Click left mouse button on the <code>Draw board</code> to pick the first vertex of the polyline. By picking the first vertex, there will an extra active vertex which is always move with the mouse cursor.
@@ -63,7 +69,7 @@ To have the best accuracy when drawing shapes, <code>point snap</code> should be
         A polygon is a connected sequence of line segments created as a single shape. A polygon is an always close polyline. Drawing a polygon is similar to drawing a polyline, but the last vertex of the polygon is always connected to the first vertex.
     </p>
     <step>
-        Select the <code>Polyline tool</code> from the <code>Draw tool pane</code>.
+        Select the <code>Polyline tool</code> from the <code>shape tool set</code>.
     </step>
     <step>
         Click left mouse button on the <code>Draw board</code> to pick the first vertex of the polygon. 
@@ -83,7 +89,7 @@ To have the best accuracy when drawing shapes, <code>point snap</code> should be
 
 <procedure  >
     <step>
-        Select the <code>Circle tool</code> from the <code>Draw tool pane</code>.
+        Select the <code>Circle tool</code> from the <code>shape tool set</code>.
     </step>
     <step>
         Click  to pick the center of the circle.
@@ -96,7 +102,7 @@ To have the best accuracy when drawing shapes, <code>point snap</code> should be
 ## Circle 3 points tool
 <procedure  >
     <step>
-        Select the <code>Circle tool</code> from the <code>Draw tool pane</code>.
+        Select the <code>Circle tool</code> from the <code>shape tool set</code>.
     </step>
     <step>
         Click  to pick the center of the circle.
@@ -112,7 +118,7 @@ To have the best accuracy when drawing shapes, <code>point snap</code> should be
         An arc is a part of a circle. In BlueGrid, drawing an arc is to pick three points on the circle, the start point, the end point, and a point in between the start and the end point.
    </p>
     <step>
-        Select the <code>Arc tool</code> from the <code>Draw tool pane</code>.
+        Select the <code>Arc tool</code> from the <code>shape tool set</code>.
     </step>
     <step>
         Click to pick the start point of the arc.
@@ -128,7 +134,7 @@ To have the best accuracy when drawing shapes, <code>point snap</code> should be
 ## Ellipse tool
 <procedure >
     <step>
-        Select the <code>Ellipse tool</code> from the <code>Draw tool pane</code>.
+        Select the <code>Ellipse tool</code> from the <code>shape tool set</code>.
     </step>
     <step>
         Click on the <code>Draw board</code> to pick the center of the ellipse.
@@ -145,7 +151,7 @@ To have the best accuracy when drawing shapes, <code>point snap</code> should be
 A quad curve is a curve that is defined by three points, the start point, the control point, and the end point. The curve is a smooth curve that passes through the start and the end point and is controlled by the control point.
 </p>
     <step>
-        Select the <code>Quad Curve tool</code> from the <code>Draw tool pane</code>.
+        Select the <code>Quad Curve tool</code> from the <code>shape tool set</code>.
     </step>
     <step>
         Click to pick the start point of the quad curve.
@@ -164,7 +170,7 @@ A quad curve is a curve that is defined by three points, the start point, the co
 A cubic curve is a curve that is defined by four points, the start point, the control point 1, the control point 2, and the end point. The curve is a smooth curve that passes through the start and the end point and is controlled by the control points.
 </p>
     <step>
-        Select the <code>Cubic Curve tool</code> from the <code>Draw tool pane</code>.
+        Select the <code>Cubic Curve tool</code> from the <code>shape tool set</code>.
     </step>
     <step>
         Click to pick the start point of the cubic curve.
@@ -186,7 +192,7 @@ A cubic curve is a curve that is defined by four points, the start point, the co
 A spline is a smooth curve that is defined by a sequence of points. The curve passes through the points and is controlled by the points. In BlueGrid, drawing a spline is to pick a sequence of points.
 </p>
     <step>
-        Select the <code>Spline tool</code> from the <code>Draw tool pane</code>.
+        Select the <code>Spline tool</code> from the <code>shape tool set</code>.
     </step>
     <step>
         Click to pick the first point of the spline.
@@ -222,7 +228,7 @@ The first element of a path is always a Move element and is automatically create
 </note>
 <procedure >
     <step>
-        Select the <code>Path tool</code> from the <code>Draw tool pane</code>.
+        Select the <code>Path tool</code> from the <code>shape tool set</code>.
     </step>
     <step>
         Click to pick the first point of the path.

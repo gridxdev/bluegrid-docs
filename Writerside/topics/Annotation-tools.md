@@ -8,6 +8,10 @@
 While drawing shapes, annotations, <code>point snap</code> options should be turned on to achieve the best accuracy.
 </p>
 </tip>
+<note>
+<p>
+Annotations do not belong to the Metric class; therefore, they cannot subscribe to a material. Annotations are free shapes, and their styling is always managed via the <code>style toolbar</code>.</p>
+</note>
 
 ## Scale tool
 The <code>scale tool</code> is not used to draw a visual shape but is used to set a page scale.
@@ -46,6 +50,17 @@ Pick the first point on the <code>draw board</code> to start the dimension.
 <step>
 Move the mouse to the second point and click to set the dimension.
 </step>
+</procedure>
 
-
+## Arrow tool
+<procedure>
+<step>
+Click on the <code>arrow tool</code> icon to select the tool.
+</step>
+<step>
+Pick the first point on the <code>draw board</code> to start the arrow.
+</step>
+<step>
+Move the mouse to the second point and click to finish the arrow.
+</step>
 </procedure>

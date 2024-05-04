@@ -31,18 +31,18 @@ The page is under construction. Please check back later...
     <list type="bullet" >
         <li>Draw shapes
             <list type="decimal" start="1">
-                <li><a href="Draw-tools.md" anchor="line-tool">Line</a></li>
-                <li><a href="Draw-tools.md" anchor="rectangle-tool">Rectangle</a></li>
-                <li><a href="Draw-tools.md" anchor="polyline-tool">Polyline</a></li>
-                <li><a href="Draw-tools.md" anchor="polygon-tool">Polygon</a></li>
-                <li><a href="Draw-tools.md" anchor="circle-tool">Circle</a></li>
-                <li><a href="Draw-tools.md" anchor="circle-3-points-tool">Circle 3 points</a></li>
-                <li><a href="Draw-tools.md" anchor="ellipse-tool">Ellipse</a></li>
-                <li><a href="Draw-tools.md" anchor="arc-tool">Arc</a></li>
-                <li><a href="Draw-tools.md" anchor="path-tool">Path</a></li>
-                <li><a href="Draw-tools.md" anchor="spline-tool">Spline</a></li>
-                <li><a href="Draw-tools.md" anchor="quad-curve-tool">Quad Curve</a></li>
-                <li><a href="Draw-tools.md" anchor="cubic-curve-tool">Cubic Curve</a></li>
+                <li><a href="Shape-tools.md" anchor="line-tool">Line</a></li>
+                <li><a href="Shape-tools.md" anchor="rectangle-tool">Rectangle</a></li>
+                <li><a href="Shape-tools.md" anchor="polyline-tool">Polyline</a></li>
+                <li><a href="Shape-tools.md" anchor="polygon-tool">Polygon</a></li>
+                <li><a href="Shape-tools.md" anchor="circle-tool">Circle</a></li>
+                <li><a href="Shape-tools.md" anchor="circle-3-points-tool">Circle 3 points</a></li>
+                <li><a href="Shape-tools.md" anchor="ellipse-tool">Ellipse</a></li>
+                <li><a href="Shape-tools.md" anchor="arc-tool">Arc</a></li>
+                <li><a href="Shape-tools.md" anchor="path-tool">Path</a></li>
+                <li><a href="Shape-tools.md" anchor="spline-tool">Spline</a></li>
+                <li><a href="Shape-tools.md" anchor="quad-curve-tool">Quad Curve</a></li>
+                <li><a href="Shape-tools.md" anchor="cubic-curve-tool">Cubic Curve</a></li>
             </list>
         </li>
         <li>Annotations
