@@ -172,6 +172,10 @@ In BlueGrid, page properties of a page such as name, scale.
     Set the page properties in the <code>Properties dialog</code> and click <code>OK</code> to save the properties.
 </step>
 <img src="set_page_properties.png" alt="Set page properties" width="540"/>
+<note>
+    The recommended method to set scale to a page to use <code>Scale tool</code> in <code>annotation tool set</code> in <code>Draw view</code>.
+    <a href="Annotation-tools.md" anchor="scale-tool">Learn more about scale tool</a>
+</note>
 </procedure>
 
 ## Filter pages by name

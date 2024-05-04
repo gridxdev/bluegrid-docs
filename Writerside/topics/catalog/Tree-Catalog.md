@@ -5,7 +5,6 @@ A catalog is a tree-like structure, so it must have a top parent item and all ot
 A group item itself can have child items while the others are leaf items and do not have child items. The root item is a group item.
 
 ## Add a catalog tree
-
 <procedure>
 <step>
 Go to <code>Catalogs view</code>
@@ -16,7 +15,7 @@ In catalogs list, from <code>catalogs list menu</code> select <code>Add catalog<
 
 </procedure>
 
-## Add a catalog tree item
+## Add a catalog item
 <procedure>
 <step>
 Select the catalog in the <code>list view</code> to open its <code>tree-view</code>
@@ -36,5 +35,5 @@ Right click on the <code>catalog item</code> to open the <code>context menu</cod
     A group item can have child items while the others are leaf items and do not have child items.
 </p>
 </note>
-
 </procedure>
+
