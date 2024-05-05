@@ -23,10 +23,10 @@ Click on the <code>scale tool</code> icon to activate the tool.
 Click on the first point on the <code>draw board</code> to start setting the scale.
 </step>
 <step>
-Move the mouse to the second point and click to set the scale.
+Move the mouse to the second point and click to get the model distance.
 </step>
 <step>
-Up on picking the second point, a dialog will appear where you can enter the distance in the real world.
+Up on picking the second point, an input dialog will appear where you can enter the real distance.
 </step>
 <step>
 Click <code>Apply</code> to set the page scale.
