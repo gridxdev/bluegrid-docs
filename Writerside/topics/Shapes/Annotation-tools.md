@@ -255,7 +255,7 @@ Type the text and click outside the <code>text editor</code> to finish the text.
 ## Image tool
 <procedure>
 <step>
-Click on the <code>image tool</code> icon open the <code>open file dialog</code>.
+Click on the <code>image tool</code> icon to open the <code>open file dialog</code>.
 </step>
 <step>
 Navigate to the image file you want to add to the <code>draw board</code> and click <code>Open</code>.
