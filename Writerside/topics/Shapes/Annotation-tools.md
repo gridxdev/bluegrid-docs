@@ -122,3 +122,154 @@ Click on the <code>draw board</code> to start a simple <code>text editor</code> 
 Type the text and click outside the <code>text editor</code> to finish the text.
 </step>
 </procedure>
+
+## Callout tool
+<procedure>
+<step>
+Click on the <code>callout tool</code> icon to activate the tool.
+</step>
+<step>
+Click on the <code>draw board</code> to add the arrow point of the callout.
+</step>
+<step>
+Click on the <code>draw board</code> to add the control point of the callout.
+</step>
+<step>
+Click on the <code>draw board</code> to add the text box of the callout.
+</step>
+<step>
+Type the text and click outside the <code>text editor</code> to finish the text.
+</step>
+</procedure>
+
+## Quad callout tool
+<procedure>
+<step>
+Click on the <code>quad callout tool</code> icon to activate the tool.
+</step>
+<step>
+Click on the <code>draw board</code> to add the arrow point of the quad callout.
+</step>
+<step>
+Click on the <code>draw board</code> to add the control point of the quad callout.
+</step>
+<step>
+Click on the <code>draw board</code> to add the text box of the quad callout.
+</step>
+<step>
+Type the text and click outside the <code>text editor</code> to finish the text.
+</step>
+</procedure>
+
+## Cubic callout tool
+<procedure>
+<step>
+Click on the <code>cubic callout tool</code> icon to activate the tool.
+</step>
+<step>
+Click on the <code>draw board</code> to add the arrow point of the cubic callout.
+</step>
+<step>
+Move the mouse to the first control point and click to add the control point of the cubic callout.
+</step>
+<step>
+Move the mouse to the second control point and click to add the control point of the cubic callout.
+</step>
+<step>
+Click on the <code>draw board</code> to add the text box of the cubic callout.
+</step>
+<step>
+Type the text and click outside the <code>text editor</code> to finish the text.
+</step>
+</procedure>
+
+## Cloud callout tool
+<procedure>
+<step>
+Click on the <code>cloud callout tool</code> icon to activate the tool.
+</step>
+<step>
+Click on the <code>draw board</code> to set the first corner of the rectangle cloud of the cloud callout.
+</step>
+<step>
+Move the mouse to the second corner and click to set the rectangle cloud of the cloud callout.
+</step>
+<step>
+Move the mouse to the control point and click to set the control point of the cloud callout.
+</step>
+<step>
+Mouse the mouse to the <code>text box</code> position and click add the text box of the cloud callout.
+</step>
+<step>
+Type the text and click outside the <code>text editor</code> to finish the text.
+</step>
+</procedure>
+
+## Cloud quad callout tool
+<procedure>
+<step>
+Click on the <code>cloud quad callout tool</code> icon to activate the tool.
+</step>
+<step>
+Click on the <code>draw board</code> to set the first corner of the rectangle cloud of the cloud quad callout.
+</step>
+<step>
+Move the mouse to the second corner and click to set the rectangle cloud of the cloud quad callout.
+</step>
+<step>
+Move the mouse to the control point and click to set the control point of the cloud quad callout.
+</step>
+<step>
+Mouse the mouse to the <code>text box</code> position and click add the text box of the cloud quad callout.
+</step>
+<step>
+Type the text and click outside the <code>text editor</code> to finish the text.
+</step>
+</procedure>
+
+## Cloud cubic callout tool
+<procedure>
+<step>
+Click on the <code>cloud cubic callout tool</code> icon to activate the tool.
+</step>
+<step>
+Click on the <code>draw board</code> to set the first corner of the rectangle cloud of the cloud cubic callout.
+</step>
+<step>
+Move the mouse to the second corner and click to set the rectangle cloud of the cloud cubic callout.
+</step>
+<step>
+Move the mouse to the first control point and click to set the first control point of the cloud cubic callout.
+</step>
+<step>
+Move the mouse to the second control point and click to set the second control point of the cloud cubic callout.
+</step>
+<step>
+Mouse the mouse to the <code>text box</code> position and click add the text box of the cloud cubic callout.
+</step>
+<step>
+Type the text and click outside the <code>text editor</code> to finish the text.
+</step>
+</procedure>
+
+## Image tool
+<procedure>
+<step>
+Click on the <code>image tool</code> icon open the <code>open file dialog</code>.
+</step>
+<step>
+Navigate to the image file you want to add to the <code>draw board</code> and click <code>Open</code>.
+</step>
+<step>
+Upon opening the image file, the image will be added to the <code>draw board</code>.
+
+</step>
+<step>
+Click or double-click on the image to select or to turn the image into active mode and move, transform or adjust the image size.
+</step>
+</procedure>
+
+
+
+
+
