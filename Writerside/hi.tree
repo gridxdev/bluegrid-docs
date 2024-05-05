@@ -17,7 +17,12 @@
         <toc-element toc-title="PDF pages" topic="PDFs.md"/>
     </toc-element>
     <toc-element toc-title="Shapes">
-        <toc-element topic="Draw.md"/>
+        <toc-element topic="Terms-and-definition.md"/>
+        <toc-element toc-title="Draw">
+            <toc-element topic="Shape-tools.md"/>
+            <toc-element topic="Annotation-tools.md"/>
+            <toc-element topic="Block-tools.md"/>
+        </toc-element>
         <toc-element topic="Move-and-transform.md"/>
         <toc-element topic="Active-and-modify.md"/>
     </toc-element>

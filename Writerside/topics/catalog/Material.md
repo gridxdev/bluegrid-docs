@@ -26,6 +26,29 @@ From <code>material table menu </code> hover <code>Add material</code> and selec
 </note>
 </procedure>
 
+## Pull materials from catalogs
+<procedure>
+<p>Every BlueGrid project should have at least one catalog tree. Page materials can be pulled from the catalog tree.</p>
+<step>
+Go to <code>Draw view</code>
+</step>
+<step>
+Select <code>material tab</code> of on the left of the <code>Draw view</code>
+</step>
+<step>
+From <code>material table menu </code> select <code>Pull from catalog</code> menu item.
+</step>
+<step>
+Upon selecting the <code>Pull from catalog</code>, a catalog tree <code>dialog window</code> will display. Navigate to the catalog tree item you want to pull materials from and click <code>Pull</code> from the <code>dialog window</code>.
+</step>
+<tip>
+<p>
+  By choosing a catalog tree item to pull materials from, all materials under the catalog tree item will be pulled to the page material table.
+</p>
+</tip>
+
+</procedure>
+
 ## Import materials form CSV files
 <procedure title="Import materials from CSV files" id="import-materials-from-csv-files">
 <p>
@@ -61,11 +84,11 @@ From <code>material table menu </code> select <code>Export to csv</code> menu it
 <step>
 Upon selecting the <code>Export to csv</code>, a save file <code>dialog window</code> will display. Navigate to the location you want to save the CSV file and click <code>Save</code> from the <code>dialog window</code>.
 </step>
-<img src="export_pdf.png" alt="Export material to csv" width="540"/>
+<img src="export_csv.png" alt="Export material to csv" width="540"/>
 <note>
 <p>
-Exporting material table to csv files is different from exporting to excel files. While exporting to csv file is to export the material definitions for the page, 
-exporting to excel files is to export the material quantity take-off data for the page. 
+Exporting material table to csv files is different from exporting to Excel files. While exporting to csv file is to export the material definitions for the page, 
+exporting to Excel files is to export the material quantity take-off data for the page. 
 </p>
 </note>
 <tip>
@@ -107,10 +130,33 @@ Select the material item you want to edit
 By selecting the material item, it is loaded to the <code>material editor</code> on the bottom of the <code>Draw view</code>. Edit the material item properties in the <code>material editor</code>.  
 </step>
 <img src="edit_material.png" alt="Edit material item" width="540"/>
-</procedure>
-
 <tip>
 <p>
 As material table can be exported to and imported from CSV files, users can edit the material table in a spreadsheet application such as Microsoft Excel or Google Sheets and import the edited material table back to BlueGrid.
 </p>
 </tip>
+
+</procedure>
+
+## Export material take-off table to Excel files
+<procedure>
+<step>
+Go to <code>Draw view</code>
+</step>
+<step>
+Select <code>material tab</code> of on the left of the <code>Draw view</code>
+</step>
+<step>
+From <code>material table menu </code> mouse to <code>Export to excel</code> menu item.
+</step>
+<step>
+Select the <code>All items</code> menu item. or <code> Valued items</code> menu item to export only the material items with quantity values.
+</step>
+<step>
+Upon selecting the <code>Export to excel</code>, a save file <code>dialog window</code> will display. Navigate to the location you want to save the Excel file and click <code>Save</code> from the <code>dialog window</code>.
+</step>
+</procedure>
+
+
+
+

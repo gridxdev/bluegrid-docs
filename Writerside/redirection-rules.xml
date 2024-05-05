@@ -14,4 +14,9 @@
         <description><![CDATA[Created after removal of "<Starter_Projects.md>" from Help Instance]]></description>
         <accepts>Starter_Projects.html</accepts>
     </rule>
+    <rule id="6266af88">
+        <description>
+            <![CDATA[Created after removal of "<Terms-and-definitions.md>" from BlueGrid Documentation]]></description>
+        <accepts>Terms-and-definitions.html</accepts>
+    </rule>
 </rules>

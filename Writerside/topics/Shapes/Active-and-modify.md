@@ -8,7 +8,7 @@ An active shape displays its anchor points, controls and text input if the shape
 </p>
 <procedure title="Activate a shape by double click">
 <step>
-    To activate a shape, double click on the shape.
+    To activate a shape, double-click on the shape.
 </step>
 </procedure>
 <procedure title="Activate a shape with active tool">
