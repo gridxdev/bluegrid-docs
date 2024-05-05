@@ -103,10 +103,22 @@ Move the mouse to the second point and click to finish the rectangle cloud.
 Click on the <code>text tool</code> icon to activate the tool.
 </step>
 <step>
-Click on the <code>draw board</code> to add a simple <code>text editor</code> 
+Click on the <code>draw board</code> to add a simple <code>text editor</code> on the <code>draw board</code>.
 </step>
 <step>
 Type the text and click outside the <code>text editor</code> to finish the text.
 </step>
 </procedure>
 
+## Text box tool
+<procedure>
+<step>
+Click on the <code>text box tool</code> icon to activate the tool.
+</step>
+<step>
+Click on the <code>draw board</code> to start a simple <code>text editor</code> on the <code>draw board</code>
+</step>
+<step>
+Type the text and click outside the <code>text editor</code> to finish the text.
+</step>
+</procedure>
