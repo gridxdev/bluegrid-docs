@@ -17,7 +17,7 @@ Annotations do not belong to the Metric class; therefore, they cannot subscribe 
 The <code>scale tool</code> is not used to draw a visual shape but is used to set a page scale.
 <procedure>
 <step>
-Click on the <code>scale tool</code> icon to select the tool.
+Click on the <code>scale tool</code> icon to activate the tool.
 </step>
 <step>
 Click on the first point on the <code>draw board</code> to start setting the scale.
@@ -42,7 +42,7 @@ Click <code>Apply</code> to set the page scale.
 <procedure>
 
 <step>
-Click on the <code>dimension tool</code> icon to select the tool.
+Click on the <code>dimension tool</code> icon to activate the tool.
 </step>
 <step>
 Pick the first point on the <code>draw board</code> to start the dimension.
@@ -55,7 +55,7 @@ Move the mouse to the second point and click to set the dimension.
 ## Arrow tool
 <procedure>
 <step>
-Click on the <code>arrow tool</code> icon to select the tool.
+Click on the <code>arrow tool</code> icon to activate the tool.
 </step>
 <step>
 Pick the first point on the <code>draw board</code> to start the arrow.
@@ -64,3 +64,49 @@ Pick the first point on the <code>draw board</code> to start the arrow.
 Move the mouse to the second point and click to finish the arrow.
 </step>
 </procedure>
+
+## Poly cloud tool
+<procedure>
+<step>
+Click on the <code>poly cloud tool</code> icon to activate the tool.
+</step>
+<step>
+Click on the <code>draw board</code> to start the poly cloud.
+</step>
+<step>
+Click on the <code>draw board</code> to add next anchor point.
+</step>
+<step>
+Repeat the previous step to add more anchor points.
+</step>
+<step>
+Right-click to finish the poly cloud.
+</step>
+</procedure>
+
+## Rectangle cloud tool
+<procedure>
+<step>
+Click on the <code>rectangle cloud tool</code> icon to activate the tool.
+</step>
+<step>
+Click on the <code>draw board</code> to start the rectangle cloud.
+</step>
+<step>
+Move the mouse to the second point and click to finish the rectangle cloud.
+</step>
+</procedure>
+
+## Text tool
+<procedure>
+<step>
+Click on the <code>text tool</code> icon to activate the tool.
+</step>
+<step>
+Click on the <code>draw board</code> to add a simple <code>text editor</code> 
+</step>
+<step>
+Type the text and click outside the <code>text editor</code> to finish the text.
+</step>
+</procedure>
+

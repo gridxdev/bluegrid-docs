@@ -47,7 +47,20 @@ The page is under construction. Please check back later...
         </li>
         <li>Annotations
             <list type="decimal" start="1">
-                <li><a href="Annotation-tools.md" anchor="scale-tool">Scale tool</a>            </li>
+                <li><a href="Annotation-tools.md" anchor="scale-tool">Scale tool</a></li>
+                <li><a href="Annotation-tools.md" anchor="dimension-tool">Dimension tool</a></li>
+                <li><a href="Annotation-tools.md" anchor="arrow-tool">Arrow tool</a></li>
+                <li>Poly cloud tool</li>
+                <li>Rectangle cloud tool</li>
+                <li>Text tool</li>
+                <li>Text box tool</li>
+                <li>Callout tool</li>
+                <li>Quad callout tool</li>
+                <li>Cubic callout tool</li>
+                <li>Cloud callout tool</li>
+                <li>Cloud quad callout tool</li>
+                <li>Cloud cubic callout tool</li>
+                <li>Image tool</li>
             </list>
         </li>
         <li>Extract shapes
