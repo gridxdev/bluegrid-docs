@@ -1,3 +1,6 @@
 # BlueGrid official documentation repository
 
-https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+## Shortcut keys setup:
+```Shift``` + key: For alternative actions
+```Ctrl``` + key: For default actions
+```Alt``` + key: For additional actions mainly to open or switch to a view | component
