@@ -47,7 +47,20 @@ The page is under construction. Please check back later...
         </li>
         <li>Annotations
             <list type="decimal" start="1">
-                <li><a href="Annotation-tools.md" anchor="scale-tool">Scale tool</a>            </li>
+                <li><a href="Annotation-tools.md" anchor="scale-tool">Scale tool</a></li>
+                <li><a href="Annotation-tools.md" anchor="dimension-tool">Dimension tool</a></li>
+                <li><a href="Annotation-tools.md" anchor="arrow-tool">Arrow tool</a></li>
+                <li><a href="Annotation-tools.md" anchor="poly-cloud-tool">Poly cloud tool</a></li>
+                <li><a href="Annotation-tools.md" anchor="rectangle-cloud-tool">Rectangle cloud tool</a></li>
+                <li><a href="Annotation-tools.md" anchor="text-tool">Text tool</a></li>
+                <li><a href="Annotation-tools.md" anchor="text-box-tool">Text box tool</a></li>
+                <li><a href="Annotation-tools.md" anchor="callout-tool">Callout tool</a></li>
+                <li><a href="Annotation-tools.md" anchor="quad-callout-tool">Quad callout tool</a></li>
+                <li><a href="Annotation-tools.md" anchor="cubic-callout-tool">Cubic callout tool</a></li>
+                <li><a href="Annotation-tools.md" anchor="cloud-callout-tool">Cloud callout tool</a></li>
+                <li><a href="Annotation-tools.md" anchor="cloud-quad-callout-tool">Cloud quad callout tool</a></li>
+                <li><a href="Annotation-tools.md" anchor="cloud-cubic-callout-tool">Cloud cubic callout tool</a></li>
+                <li><a href="Annotation-tools.md" anchor="image-tool">Image tool</a> </li>
             </list>
         </li>
         <li>Extract shapes
