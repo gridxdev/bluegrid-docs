@@ -26,10 +26,10 @@
         <toc-element topic="Move-and-transform.md"/>
         <toc-element topic="Active-and-modify.md"/>
     </toc-element>
-    <toc-element topic="Shortcut-Keys.md"/>
     <toc-element toc-title="Catalog">
         <toc-element topic="Material.md"/>
         <toc-element topic="Tree-Catalog.md"/>
     </toc-element>
+    <toc-element topic="Shortcut-Keys.md"/>
 
 </instance-profile>
