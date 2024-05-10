@@ -23,6 +23,6 @@
       A anchor point which has position actively bond with <code>cursor</code> position.
    </def>
     <def title="Active segment">
-      A shape such <code>path</code> may be constituted of multiple lines, curves or empty distances. The segment which is being drawn is an active segment.
+      A shape such <code>path</code> may be constituted of multiple line segments, quadratic segments, cubic segments  or empty distances. The segment which is being drawn is an active segment.
     </def>
 </deflist>
