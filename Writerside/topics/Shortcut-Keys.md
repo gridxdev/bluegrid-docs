@@ -19,8 +19,12 @@ The page is under construction. Please check back later.
     </li>
     <li><shortcut>Alt+P</shortcut>: Open <code>Page menu</code>
         <list>
-        <li><shortcut>Ctrl+A</shortcut>: <code>Select all</code> - Select all viewing pages.</li>
-</list>
+            <li><shortcut>L</shortcut>: <code>Select all</code> - Select all viewing pages.</li>
+            <li><shortcut>A</shortcut>: <code>Add pages</code> - Open up an open <code>file dialog</code> to add new PDF pages from PDF files.</li>
+            <li><shortcut>X</shortcut>: <code>Export PDF</code> - Export selected PDF pages to a single PDF file.</li>
+            <li><shortcut>D</shortcut>: <code>Delete pages</code> - Delete selected PDF pages.</li>
+            <li><shortcut>R</shortcut>: <code>Rename pages with regex</code>: Rename all pages in the folder whose text content matches the input regex rule.</li>
+        </list>
     </li>
     </list>
 </li>
