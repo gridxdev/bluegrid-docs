@@ -100,7 +100,7 @@ Navigate to the PDF file you want to replace the page with and click <code>Open<
 In BlueGrid, users can export <code>Draw board</code> content of a page including shapes, markups, quantity take-off data to PDF files.
 </p>
 <step>
-Select the pages you want to export to PDF in the <code>Document view</code>.
+Select the pages you want to export to PDF in the <code>Page view</code>.
 </step>
 <step>
 From <code>Page menu</code> select <code>Export to PDF</code> item.
@@ -138,10 +138,7 @@ From <code>Page menu</code> select <code>Remove</code> item.
 ## Delete page versions
 <procedure>
 <step>
-    From <code>Page view</code> in <code>Document view</code>    
-</step>
-<step>
-    Select the page you want to delete version.
+    From <code>Page view</code> select the page you want to delete version.    
 </step>
 <step>
     Right mouse click to open page <code>context menu</code>.
@@ -163,7 +160,7 @@ In BlueGrid, page properties of a page such as name, scale.
 </p>
 <procedure>
 <step>
-    From <code>Page view</code> in <code>Document view</code> select the page to set properties.
+    From <code>Page view</code> select the page to set properties.
 </step>
 <step>
     Right mouse click to open page <code>context menu</code>.
@@ -187,7 +184,7 @@ In BlueGrid, page properties of a page such as name, scale.
 </p>
 <procedure>
 <step>
-    From  <code>Document view</code> select the folder to filter pages.
+    From  <code>Folder view</code> select the folder to filter pages.
 </step>
 <step>
     Click on the <code>Filter</code> input box in the <code>Page view</code>.
@@ -204,7 +201,7 @@ In BlueGrid, page properties of a page such as name, scale.
 </p>
 <procedure>
 <step>
-    From <code>Document view</code> select the folder to search for pages.
+    From <code>Folder view</code> select the folder to search for pages.
 </step>
 <step>
     Click on the <code>Filter | Search</code> input box in the <code>Page view</code>.
