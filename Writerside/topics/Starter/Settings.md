@@ -5,10 +5,10 @@
 The application has 4 themes: Prime, Nord, Cupertino, and Dracula, each is with dark and light modes.
 </p>
 <step>
-From the Starter window select setting tab
+From the <code>Starter</code> window select setting tab.
 </step>
-<step>Select theme from theme selection <code>dropdown</code></step>
-<step>To change accent color, click on one of the color indicators</step>
+<step>Select theme from theme selection <code>dropdown</code>.</step>
+<step>To change accent color, click on one of the color indicators.</step>
 <img src="select_theme.png" alt="Select theme and style" width="540"/>
 </procedure>
 

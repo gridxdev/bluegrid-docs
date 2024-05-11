@@ -1,17 +1,17 @@
 # Projects
 
-<p>BlueGrid renders a project <code>list view</code> in the <code>Starter window</code> which utilizes creating, opening and finding projects.</p>
+<p>BlueGrid renders a project <code>list view</code> in the <code>Starter</code> window which utilizes creating, opening and finding projects.</p>
 <procedure title="Create a project" id="create-project">
 <p>Before performing quantity take-off on PDF blueprints, users must create a BlueGrid project.</p>
 <step>Click on the <code>Create</code> button in the Starter window. </step>
-<step>A selection modal will appear, where users can select the project which is suitable to your needs and click <code>Create project</code> button to open the <code>save dialog</code> where users can save the project to a location on the computer. </step>
-<p>Upon saving the project, the project will be created and opened in the application.</p>
+<step>A <code>selection modal</code> will appear, where users can select the project which is suitable to your needs and click <code>Create project</code> button to open the <code>save dialog</code> where users can save the project to a location on the computer. </step>
+<p>Upon saving the project, the project will be created and automatically opened in the application.</p>
 
 <img src="create_project.png"  alt="Create a project"  width="540"/>
 </procedure>
 <note>
     <p>
-        Any project you created or opened is saved in the project list in the Starter window. You can open a project by clicking on the project in the project list.
+        Any project you created or opened is saved in the project list in the <code>Starter</code> window. You can open a project by clicking on the <code>project item</code> in the project list.
     </p>
 </note>
 
