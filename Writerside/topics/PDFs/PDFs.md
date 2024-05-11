@@ -1,8 +1,6 @@
 # PDF Pages
 
 ## Add PDF pages
-<procedure>
-</procedure>
 <procedure >
 <step>
 In the <code>Folder view</code>, select the folder you want to add PDFs to.
@@ -23,10 +21,10 @@ You can simply add PDF pages to a folder by dragging and dropping PDF files to t
 <procedure>
 <p>In BlueGrid a PDF page is conceptually a blueprint and may have many versions, the last version is the 'active' version. By replacing the PDF page, users replace the last version.</p>
 <step>
-Select the folder that contains the pages you want to replace in the <code>Document view</code>.
+In <code>Folder view</code>, select the folder that contains the pages you want to replace.
 </step>
 <step>
-Select the page you want to replace in the <code>Page view</code>.
+Select the page you want to replace in <code>Page view</code>.
 </step>
 <step>
 Right click on the page item to open the page <code>context menu</code>.
@@ -35,7 +33,7 @@ Right click on the page item to open the page <code>context menu</code>.
 Select <code>Replace</code> menu item.
 </step>
 <step>
-Navigate to the PDF file you want to replace the page with and click <code>Open</code> from the dialog window.
+Navigate to the PDF file you want to replace the page with and click <code>Open</code> from the <code>open file dialog</code>.
 </step>
 <img src="replace_page.png" alt="Replace page" width="540"/>
 <note>
@@ -46,7 +44,7 @@ Navigate to the PDF file you want to replace the page with and click <code>Open<
 ## Duplicate a page
 <procedure>
 <step>
-    From <code>Page view</code> in <code>Document view</code> select the page to duplicate.
+    From <code>Page view</code> select the page to duplicate.
 </step>
 <step>
     Right mouse click to open page <code>context menu</code>
@@ -60,7 +58,7 @@ Navigate to the PDF file you want to replace the page with and click <code>Open<
 ## Add page version
 <procedure>
 <step>
-    From <code>Page view</code> in <code>Document view</code> select the page to add version.
+    From <code>Page view</code> select the page to add version.
 </step>
 <step>
     Right mouse click to open page <code>context menu</code>
@@ -69,10 +67,10 @@ Navigate to the PDF file you want to replace the page with and click <code>Open<
     Select menu item <code>Add version</code>
 </step>
 <step>
-   Navigate to the PDF file you want to add version and click <code>Open</code> from the dialog window.
+   Navigate to the PDF file you want to add version and click <code>Open</code> from the <code>open file dialog</code>.
 </step>
 <note>
-    The lastly added PDF page is the last version and will be the active PDF blueprint.
+    The lastly added PDF page is the last version and will be the active PDF page.
 </note>
 </procedure>
 
