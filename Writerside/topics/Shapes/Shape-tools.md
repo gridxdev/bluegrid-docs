@@ -1,6 +1,6 @@
 # Shape tools
 <tldr>
-    <p>UI path: <ui-path><code>Draw view</code> <shortcut>Alt+1</shortcut> | <code>Shape tool set</code> <shortcut>Ctrl+Shift+H</shortcut></ui-path></p>
+    <p>UI path: <ui-path><code>Draw view</code> <shortcut>Alt+2</shortcut> | <code>Shape tool set</code> <shortcut>Ctrl+Shift+H</shortcut></ui-path></p>
 </tldr>
 <p>
 In BlueGrid, <code>shape tools</code> are used to draw almost any type of 2D shapes that are usually used in construction blueprints, such as line, rectangle, polygon, spline, path, shapes with wholes in side...etc. 
