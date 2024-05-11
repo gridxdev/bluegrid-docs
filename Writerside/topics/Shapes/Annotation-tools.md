@@ -1,6 +1,6 @@
 # Annotation tools
 <tldr>
-    <p>UI path: <ui-path><code>Draw view</code> | <code>Shape tool panel</code> | <code>Annotation tool set</code></ui-path></p>
+    <p>UI path: <ui-path><code>Draw view</code> <shortcut>Alt+2</shortcut> | <code>Annotation tool set</code></ui-path></p>
 </tldr>
 
 <tip>
