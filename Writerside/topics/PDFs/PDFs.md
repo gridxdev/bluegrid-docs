@@ -1,17 +1,22 @@
 # PDF Pages
 
 ## Add PDF pages
+<procedure>
+</procedure>
 <procedure >
 <step>
-Select the folder you want to add PDFs to in the <code>Document view</code>.
+In the <code>Folder view</code>, select the folder you want to add PDFs to.
 </step>
 <step>
-From <code>Page menu</code> select <code>Add PDF</code> item.
+Click to open <code>Page menu</code><shortcut>Alt+P</shortcut> select <code>Add PDF</code><shortcut>D</shortcut> menu item.
 </step>
 <step>
-Navigate to the PDF files you want to add to the folder and click <code>Open</code> from the dialog window.
+Navigate to the PDF files and click <code>Open</code> from the <code>open file dialog</code>.
 </step>
 <img src="add_pdf.png" alt="Add PDFs to a folder" width="540"/>
+<tip>
+You can simply add PDF pages to a folder by dragging and dropping PDF files to the <code>Page view</code> of the folder.
+</tip>
 </procedure>
 
 ## Replace pages
