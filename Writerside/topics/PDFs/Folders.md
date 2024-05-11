@@ -13,7 +13,7 @@ The folders are displayed in the left panel of the <code>Document view</code>, i
 In BlueGrid, every PDF page resides in one folder. So before adding PDF pages to a folder, the folder must be created.
 </p>
 <step>
-Click on the <code>Folder menu</code> and select <code>Create folder</code>
+Click to open the <code>Folder menu</code> <shortcut>Alt+F</shortcut> and select <code>Create folder</code> <shortcut>N</shortcut>
 </step>
 <step>
 Buy clicking on <code>Create folder</code> an input dialog will appear where you can enter the folder name.
