@@ -7,6 +7,7 @@ The page is under construction. Please check back later.
 
 <a href="Settings.md" anchor="setting-shorcut-key"> Learn how to set up shortcut keys.</a>
 
+<shortcut>Alt+1</shortcut>: To <code>Document view</code>
 <list>
 <li><shortcut>Alt+1</shortcut>: To <code>Document view</code>
     <list>
