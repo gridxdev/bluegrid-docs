@@ -31,23 +31,69 @@
     </def>
 </deflist>
 </def>
-<def title="Catalog">
+<def title="Catalog and Materials">
     <deflist>
         <def title="Catalog">
             <p>
-                A catalog is a tree structure of Work Breakdown Structure (WBS) that contains a list work groups, work items being referred to as materials in BlueGrid. A catalog is a project-wide data that can be shared among multiple pages.
+                A catalog is a tree structure of Work Breakdown Structure (WBS) that contains a list work groups, work items being referred to as materials in BlueGrid. 
             </p> 
+            <p>
+                A catalog is a project-wide data, which means it can be referred to from any page in the project.
+            </p>
         </def>
         <def title="Catalog Item">
             <p>
-                A catalog item is an item/node in a catalog tree. A catalog item can be of type Group, Count, Linear, Area, or Volume. A group item can have child items while the others are leaf items and do not have child items.
+                A catalog item is an item/node in a catalog tree. A catalog item can be of type <code>Group</code>, <code>Count</code>, <code>Linear</code>, <code>Area</code>, or <code>Volume</code>. A group item can have child items while the others are leaf items and do not have child items.
             </p>
             <p>
                 Each non-empty catalog has one root item which is a group item.
             </p>
             <p>
-                A catalog item of type Group can have child items. A catalog item of type Count, Linear, Area, or Volume is a leaf item and does not have child items, they are also referred to as material or work items.
+                A catalog item of type Group can have child items. A catalog item of type <code>Count</code>, <code>Linear</code>, <code>Area</code>, or <code>Volume</code> is a leaf item and does not have child items, they are also referred to as material or work items.
             </p>
+        </def>
+        <def title="Catalog Item Type">
+            <p>
+A catalog item must be either of type <code>Group</code>, <code>Count</code>, <code>Linear</code>, <code>Area</code>, or <code>Volume</code>. The table below describe properties of catalog item types:
+</p>
+        <table>
+            <tr>
+                <th>Type</th>
+                <th>WBS Ref.</th>
+                <th>Tree Access</th>
+                <th>Description</th>
+            </tr>
+            <tr>
+                <td><code>Group</code></td>
+                <td>Work group</td>
+                <td>Group item</td>
+                <td>Can have child items</td>
+            </tr>
+            <tr>
+                <td><code>Count</code></td>
+                <td>Work item</td>
+                <td>Leaf item</td>
+                <td>Has a count value in integer</td>
+            </tr>
+            <tr>
+                <td><code>Linear</code></td>
+                <td>Work item</td>
+                <td>Leaf item</td>
+                <td>Has a length value in float number</td>
+            </tr>
+            <tr>
+                <td><code>Area</code></td>
+                <td>Work item</td>
+                <td>Leaf item</td>
+                <td>Has an area value in float number</td>
+            </tr>
+            <tr>
+                <td><code>Volume</code></td>
+                <td>Work item</td>
+                <td>Leaf item</td>
+                <td>Has a volume value in float number</td>
+            </tr>   
+        </table>
         </def>
     </deflist>
 </def>
