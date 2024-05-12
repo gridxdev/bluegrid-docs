@@ -4,8 +4,11 @@
 
 <instance-profile id="hi"
                  name="BlueGrid Documentation"
-                 start-page="Overview.md">
-    <toc-element topic="Overview.md"/>
+                 start-page="index.md">
+    <toc-element topic="index.md">
+        <toc-element topic="Term-and-definition.md"/>
+        <toc-element topic="Features-and-functions.md"/>
+    </toc-element>
     <toc-element toc-title="Starter">
         <toc-element topic="Projects.md"/>
         <toc-element topic="Settings.md"/>
@@ -17,7 +20,6 @@
         <toc-element toc-title="PDF pages" topic="PDFs.md"/>
     </toc-element>
     <toc-element toc-title="Shapes">
-        <toc-element topic="Terms-and-definition.md"/>
         <toc-element toc-title="Draw">
             <toc-element topic="Shape-tools.md"/>
             <toc-element topic="Annotation-tools.md"/>

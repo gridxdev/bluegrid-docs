@@ -1,8 +1,12 @@
-# Terms and definitions
-
+# Terms and definition
+<deflist>
+<def title="Shape">
 <deflist>
     <def title="Shape">
         A shape is a 2D object that is drawn using shape tools. Shapes can be lines, rectangles, polygons, splines, paths, annotations, blocks, images...any things are added and visually rendered in <code>draw board</code>.
+        <p>
+            A shape is a page-wide data that exists in a page only.
+        </p>
     </def>
     <def title="Selected shape">
         <p>
@@ -25,4 +29,15 @@
     <def title="Active segment">
       A shape such <code>path</code> may be constituted of multiple line segments, quadratic segments, cubic segments  or empty distances. The segment which is being drawn is an active segment.
     </def>
+</deflist>
+</def>
+<def title="Catalog">
+    <deflist>
+    <def title="Catalog">
+        <p>
+            A catalog is a tree structure of Work Breakdown Structure (WBS) that contains a list work groups, work items being referred to as materials in BlueGrid. A catalog is a project-wide data that can be shared among multiple pages.
+        </p> 
+    </def>
+    </deflist>
+</def>
 </deflist>

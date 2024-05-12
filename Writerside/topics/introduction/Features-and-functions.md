@@ -1,8 +1,6 @@
-# Introduction
+# Features and functions
 
-The page is under construction. Please check back later...
-
-## Features and functionalities
+The page is under construction. Please check back later.
 
 <list type="bullet" >
 <li><a href="Folders.md"><b>Folders</b></a>
