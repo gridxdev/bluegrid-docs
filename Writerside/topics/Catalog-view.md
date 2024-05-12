@@ -1,0 +1,3 @@
+# Catalog view
+
+Start typing here...
