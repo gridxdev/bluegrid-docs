@@ -31,7 +31,7 @@
         <toc-element topic="Tree-Catalog.md"/>
         <toc-element topic="Material.md"/>
     </toc-element>
-    <toc-element topic="Shortcut-Keys.md">
+    <toc-element toc-title="Shortcut keys">
         <toc-element topic="Application-shortcuts.md"/>
         <toc-element topic="Document-view-shortcuts.md"/>
         <toc-element topic="Draw-view-shortcuts.md"/>
