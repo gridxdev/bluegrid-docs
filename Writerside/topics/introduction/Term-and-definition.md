@@ -33,11 +33,22 @@
 </def>
 <def title="Catalog">
     <deflist>
-    <def title="Catalog">
-        <p>
-            A catalog is a tree structure of Work Breakdown Structure (WBS) that contains a list work groups, work items being referred to as materials in BlueGrid. A catalog is a project-wide data that can be shared among multiple pages.
-        </p> 
-    </def>
+        <def title="Catalog">
+            <p>
+                A catalog is a tree structure of Work Breakdown Structure (WBS) that contains a list work groups, work items being referred to as materials in BlueGrid. A catalog is a project-wide data that can be shared among multiple pages.
+            </p> 
+        </def>
+        <def title="Catalog Item">
+            <p>
+                A catalog item is an item/node in a catalog tree. A catalog item can be of type Group, Count, Linear, Area, or Volume. A group item can have child items while the others are leaf items and do not have child items.
+            </p>
+            <p>
+                Each non-empty catalog has one root item which is a group item.
+            </p>
+            <p>
+                A catalog item of type Group can have child items. A catalog item of type Count, Linear, Area, or Volume is a leaf item and does not have child items, they are also referred to as material or work items.
+            </p>
+        </def>
     </deflist>
 </def>
 </deflist>
