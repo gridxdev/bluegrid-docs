@@ -31,4 +31,8 @@
         <description>Created after removal of "temp" from BlueGrid Documentation</description>
         <accepts>temp.html</accepts>
     </rule>
+    <rule id="1c3363c8">
+        <description>Created after removal of "Concept of Page" from BlueGrid Documentation</description>
+        <accepts>Page_COP.html</accepts>
+    </rule>
 </rules>

@@ -15,7 +15,6 @@
     </toc-element>
 
     <toc-element toc-title="PDFs">
-        <toc-element  topic="Page_COP.md"/>
         <toc-element topic="Folders.md"/>
         <toc-element toc-title="PDF pages" topic="PDFs.md"/>
     </toc-element>
