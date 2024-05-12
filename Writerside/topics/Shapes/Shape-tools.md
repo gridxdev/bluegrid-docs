@@ -1,6 +1,6 @@
 # Shape tools
 <tldr>
-    <p>UI path: <ui-path><code>Draw view</code> | <code>Shape tool panel</code> | <code>Shape tool set</code></ui-path></p>
+    <p>UI path: <ui-path><code>Draw view</code> <shortcut>Alt+2</shortcut> | <code>Shape tool set</code> <shortcut>Ctrl+Shift+H</shortcut></ui-path></p>
 </tldr>
 <p>
 In BlueGrid, <code>shape tools</code> are used to draw almost any type of 2D shapes that are usually used in construction blueprints, such as line, rectangle, polygon, spline, path, shapes with wholes in side...etc. 
@@ -21,7 +21,7 @@ While drawing shapes, <code>point snap</code> options should be turned on to ach
 ## Line tool
 <procedure >
     <step>
-        Select the <code>Line tool</code> from the <code>shape tool set</code>.
+        Select the <code>Line tool</code>   from the <code>shape tool set</code>.
     </step>
     <step>
         Left mouse click to pick the start point of the line.
@@ -34,7 +34,7 @@ While drawing shapes, <code>point snap</code> options should be turned on to ach
 ## Rectangle tool
 <procedure >
     <step>
-        Select the <code>Rectangle tool</code> from the <code>shape tool set</code>.
+        Select the <code>Rectangle tool</code>  from the <code>shape tool set</code>.
     </step>
     <step>
         Left mouse click to pick the first corner of the rectangle.
@@ -69,7 +69,7 @@ While drawing shapes, <code>point snap</code> options should be turned on to ach
         A polygon is a connected sequence of line segments created as a single shape. A polygon is an always close polyline. Drawing a polygon is similar to drawing a polyline, but the last vertex of the polygon is always connected to the first vertex.
     </p>
     <step>
-        Select the <code>Polyline tool</code> from the <code>shape tool set</code>.
+        Select the <code>Polygon tool</code> from the <code>shape tool set</code>.
     </step>
     <step>
         Click left mouse button on the <code>Draw board</code> to pick the first vertex of the polygon. 

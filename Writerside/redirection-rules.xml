@@ -19,4 +19,28 @@
             <![CDATA[Created after removal of "<Terms-and-definitions.md>" from BlueGrid Documentation]]></description>
         <accepts>Terms-and-definitions.html</accepts>
     </rule>
+    <rule id="1b052dd2">
+        <description>Created after removal of "Terms and definitions" from BlueGrid Documentation</description>
+        <accepts>Terms-and-definition.html</accepts>
+    </rule>
+    <rule id="7627b5b4">
+        <description>Created after removal of "Features and functions" from BlueGrid Documentation</description>
+        <accepts>Features-and-functions.html</accepts>
+    </rule>
+    <rule id="2a3a8350">
+        <description>Created after removal of "temp" from BlueGrid Documentation</description>
+        <accepts>temp.html</accepts>
+    </rule>
+    <rule id="1c3363c8">
+        <description>Created after removal of "Concept of Page" from BlueGrid Documentation</description>
+        <accepts>Page_COP.html</accepts>
+    </rule>
+    <rule id="33a4edb9">
+        <description>Created after removal of "Application shortcuts" from BlueGrid Documentation</description>
+        <accepts>Application-shortcuts.html</accepts>
+    </rule>
+    <rule id="3b4a83ff">
+        <description>Created after removal of "Document view shortcuts" from BlueGrid Documentation</description>
+        <accepts>Document-view-shortcuts.html</accepts>
+    </rule>
 </rules>
