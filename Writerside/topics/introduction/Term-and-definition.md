@@ -54,46 +54,57 @@
         </def>
         <def title="Catalog Item Type">
             <p>
-A catalog item must be either of type <code>Group</code>, <code>Count</code>, <code>Linear</code>, <code>Area</code>, or <code>Volume</code>. The table below describe properties of catalog item types:
-</p>
+                A catalog item must be either of type <code>Group</code>, <code>Count</code>, <code>Linear</code>, <code>Area</code>, or <code>Volume</code>. The table below describe properties of catalog item types:
+            </p>
         <table>
             <tr>
                 <th>Type</th>
                 <th>WBS Ref.</th>
                 <th>Tree Access</th>
+                <td>Material visual format</td>
                 <th>Description</th>
             </tr>
             <tr>
                 <td><code>Group</code></td>
                 <td>Work group</td>
                 <td>Group item</td>
+                <td>No</td>
                 <td>Can have child items</td>
             </tr>
             <tr>
                 <td><code>Count</code></td>
                 <td>Work item</td>
                 <td>Leaf item</td>
+                <td>Yes</td>
                 <td>Has a count value in integer</td>
             </tr>
             <tr>
                 <td><code>Linear</code></td>
                 <td>Work item</td>
                 <td>Leaf item</td>
+                  <td>Yes</td>
                 <td>Has a length value in float number</td>
             </tr>
             <tr>
                 <td><code>Area</code></td>
                 <td>Work item</td>
                 <td>Leaf item</td>
+                <td>Yes</td>
                 <td>Has an area value in float number</td>
             </tr>
             <tr>
                 <td><code>Volume</code></td>
                 <td>Work item</td>
                 <td>Leaf item</td>
+                  <td>Yes</td>
                 <td>Has a volume value in float number</td>
             </tr>   
         </table>
+        </def>
+        <def title="Material">
+            <p>
+                A material is a work item, set for a specific page. A material item has the same properties as a catalog work item except that it is page-wide data.
+            </p>
         </def>
     </deflist>
 </def>
