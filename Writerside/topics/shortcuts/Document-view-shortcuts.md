@@ -20,11 +20,26 @@ The page is under construction. Please check back later.
 </li>
 <li><shortcut>Alt+P</shortcut>: Open <code>Page menu</code>
     <list>
-        <li><shortcut>L</shortcut>: <code>Select all</code> - Select all viewing pages.</li>
-        <li><shortcut>A</shortcut>: <code>Add pages</code> - Open up an open <code>file dialog</code> to add new PDF pages from PDF files.</li>
+        <li><shortcut>O</shortcut>: <code>Open</code> - Open the selected page with the last (active) PDF blueprint version</li>
+        <li><shortcut>V</shortcut>: <code>Open version...</code> - Open the selected page with a selected version of PDF blueprint</li>
+        <li><shortcut>A</shortcut>: <code>Add PDF pages</code> - Open up an open <code>file dialog</code> to add new PDF pages from PDF files.</li>
+        <li><shortcut></shortcut>: <code>Replace PDF page</code> - Replace the last (active) version PDF blueprint by one other.</li>
+        <li><shortcut></shortcut>: <code>Duplicate page</code> - Duplicate the selected page</li>
+        <li><shortcut></shortcut>: <code>Add version</code> - Add a version of PDF blueprint to the page. The last added PDF blueprint version will be th active version.</li>
+        <li><shortcut></shortcut>: <code>Rotate PDF page</code> - Rotate selected PDF pages</li>
         <li><shortcut>X</shortcut>: <code>Export PDF</code> - Export selected PDF pages to a single PDF file.</li>
-        <li><shortcut>D</shortcut>: <code>Delete pages</code> - Delete selected PDF pages.</li>
+        <li><shortcut></shortcut>: <code>Delete pages</code> - Delete selected pages and additional data.</li>
+        <li><shortcut></shortcut>: <code>Delete version</code> - Delete the last PDF blueprint version.</li>
+        <li><shortcut></shortcut>: <code>View</code> - Open view size selection menus.
+            <list>
+            <li><shortcut></shortcut>: <code>Small</code> - Set view size to small.</li>
+            <li><shortcut></shortcut>: <code>Medium</code> - Set view size to medium.</li>
+            <li><shortcut></shortcut>: <code>Large</code> - Set view size to large.</li>
+            </list>
+        </li>
+        <li><shortcut></shortcut>: <code>Select all</code> - Select all pages in view port</li>        
         <li><shortcut>R</shortcut>: <code>Rename pages with regex</code>: Rename all pages in the folder whose text content matches the input regex rule.</li>
+        <li><shortcut></shortcut>: <code>Properties</code> - View and edit page properties.</li>
     </list>
 </li>
 </list>
