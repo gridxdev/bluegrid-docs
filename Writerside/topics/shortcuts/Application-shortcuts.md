@@ -1,4 +1,8 @@
 # Master shortcuts
+<p>
+The page is under construction. Please check back later.
+</p>
+<note>This is the default shortcut key setup which is aligned with this manual.</note>
 
 <list>
 <li><shortcut>Alt+1</shortcut>: To <code>Document view</code></li>

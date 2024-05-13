@@ -1,7 +1,11 @@
 # Projects
 
 <p>BlueGrid renders a project <code>list view</code> in the <code>Starter</code> window which utilizes creating, opening and finding projects.</p>
+
+## Create a project 
+
 <procedure title="Create a project" id="create-project">
+
 <p>Before performing quantity take-off on PDF blueprints, users must create a BlueGrid project.</p>
 <step>Click on the <code>Create</code> button in the Starter window. </step>
 <step>A <code>selection modal</code> will appear, where users can select the project which is suitable to your needs and click <code>Create project</code> button to open the <code>save dialog</code> where users can save the project to a location on the computer. </step>
@@ -15,6 +19,7 @@
     </p>
 </note>
 
+## Open a project
 <procedure title="Open a project" id="open-project">
 <p>
 To open a project, users follow the steps below:
@@ -30,3 +35,37 @@ To open a project, users follow the steps below:
 <step>Type in the project name or the project path in the <code>Filter</code> input box.</step>
 <step>Click on the project item in the project list view to open the project.</step>
 </procedure>
+
+## Delete a project from project list
+<procedure title="Delete a project" id="delete-project">
+<p>
+To delete a project from the project list, users follow the steps below:
+</p>
+<step>Select the project item you want to delete in the project list view.</step>
+<step>Right click to open the project <code>context menu</code>.</step>
+<step>Click on the <code>Delete</code> item in the context menu.</step>
+</procedure>
+<note>
+You can also delete a project by moving the mouse over the project item in the project list view and clicking on the cross icon.
+</note>
+<note>
+When you delete a project in the <code>Starter</code> <code>project list</code> view, the project file is not deleted from the computer. The project file is still available in the location where it was saved.
+</note>
+
+## Purge project data
+
+After many re-write operations, the project file may contain a lot of data that is not used. To reduce the project file size, users can purge the project data.
+<procedure title="Purge project data" >
+<step>
+Select the project item in the project list view.
+</step>
+<step>
+Right click to open the project <code>context menu</code>.
+</step>
+<step>
+Select the <code>Purge</code> menu item.
+</step>
+</procedure>
+
+
+
