@@ -2,6 +2,7 @@
 <tldr>
     <p>UI path: <ui-path><code>Document view</code> <shortcut>Alt+1</shortcut> | <code>Folder view</code></ui-path></p>
 </tldr>
+
 ## User interface layout
 The folders are displayed in the left panel of the <code>Document view</code>, in a <code>list view</code>. 
 <img src="folder_ui.png" alt="User interface of Folder Ui component"/>

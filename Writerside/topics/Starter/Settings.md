@@ -1,5 +1,7 @@
 # Application settings
-
+<tldr>
+    <p>UI path: <ui-path><code>Starter</code> | <code>Settings</code></ui-path></p>
+</tldr>
 
 ## Themes and Styles
 <procedure title="Select Themes and Styles" >
