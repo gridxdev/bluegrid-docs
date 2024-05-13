@@ -2,7 +2,7 @@ name: Build documentation
 
 on:
   push:
-    branches: ["main"]
+    branches: ["master"]
   workflow_dispatch:
 
 permissions:
@@ -46,16 +46,16 @@ jobs:
           name: docs
           path: artifacts
 
-#      - name: Test documentation
-#        uses: JetBrains/writerside-checker-action@v1
-#        with:
-#          instance: ${{ env.INSTANCE }}
+      - name: Test documentation
+        uses: JetBrains/writerside-checker-action@v1
+        with:
+          instance: ${{ env.INSTANCE }}
   deploy:
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
-#    needs: [build, test]
-    needs: [build]
+    needs: [build, test]
+#    needs: [build]
     runs-on: ubuntu-latest
     steps:
       - name: Download artifacts
