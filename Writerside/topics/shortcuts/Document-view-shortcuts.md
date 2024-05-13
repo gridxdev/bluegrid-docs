@@ -32,9 +32,9 @@ The page is under construction. Please check back later.
         <li><shortcut></shortcut>: <code>Delete version</code> - Delete the last PDF blueprint version.</li>
         <li><shortcut></shortcut>: <code>View</code> - Open view size selection menus.
             <list>
-            <li><shortcut></shortcut>: <code>Small</code> - Set view size to small.</li>
-            <li><shortcut></shortcut>: <code>Medium</code> - Set view size to medium.</li>
-            <li><shortcut></shortcut>: <code>Large</code> - Set view size to large.</li>
+            <li><shortcut></shortcut>: <code>Small</code> - Set page thumbnail size to small.</li>
+            <li><shortcut></shortcut>: <code>Medium</code> - Set page thumbnail size to medium.</li>
+            <li><shortcut></shortcut>: <code>Large</code> - Set page thumbnail size to large.</li>
             </list>
         </li>
         <li><shortcut></shortcut>: <code>Select all</code> - Select all pages in view port</li>        
