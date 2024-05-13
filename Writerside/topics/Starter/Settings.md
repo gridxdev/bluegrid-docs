@@ -1,6 +1,8 @@
-# Application Settings
+# Application settings
 
-<procedure title="Select Themes and Styles" id="select-themes-and-styles">
+
+## Themes and Styles
+<procedure title="Select Themes and Styles" >
 <p>
 The application has 4 themes: Prime, Nord, Cupertino, and Dracula, each is with dark and light modes.
 </p>
@@ -12,17 +14,27 @@ From the <code>Starter</code> window select setting tab.
 <img src="select_theme.png" alt="Select theme and style" width="540"/>
 </procedure>
 
-<procedure title="Select language" id="select-language">
-<step>
-    From the Starter window select setting tab
-</step>
-<step>
-    Select language from the language selection <code>dropdown</code>
-</step>
-<img src="language_selection.png" alt="Select language" width="540"  />
-</procedure>
+[//]: # (<procedure title="Select language" id="select-language">)
 
-<procedure title="Set floating point" id="set-floating-point">
+[//]: # (<step>)
+
+[//]: # (    From the Starter window select setting tab)
+
+[//]: # (</step>)
+
+[//]: # (<step>)
+
+[//]: # (    Select language from the language selection <code>dropdown</code>)
+
+[//]: # (</step>)
+
+[//]: # (<img src="language_selection.png" alt="Select language" width="540"  />)
+
+[//]: # (</procedure>)
+
+## Set precision
+
+<procedure title="Set floating point" >
 <step>
     From the Starter window select setting tab
 </step>
@@ -32,7 +44,9 @@ From the <code>Starter</code> window select setting tab.
 <img src="precision_selection.png" alt="Setting floating point" width="540" />
 </procedure>
 
-<procedure title="Setting shortcut keys" id="setting-shorcut-key">
+## Set shortcut keys 
+
+<procedure title="Setting shortcut keys" >
 <p>
 In BlueGrid, most user actions can be performed using keyboard shortcuts. 
 </p>
@@ -56,7 +70,9 @@ Different groups can share shortcut keys. In the same group, shortcut keys shall
 
 </procedure>
 
-<procedure title="Save and load profiles" id="save-load-profiles">
+## Import and Export setting profiles
+
+<procedure title="Save and load profiles" >
 <p>
     The application setting can be saved and loaded as profiles. For example, users can save a settings profiles for different favors of use and save time on setting up the application.
 </p>
