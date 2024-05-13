@@ -1,3 +1,3 @@
-# Catalog view
+# Catalog view shortcuts
 
 Start typing here...

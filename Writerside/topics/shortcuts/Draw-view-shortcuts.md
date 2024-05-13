@@ -1,3 +1,3 @@
-# Draw view
+# Draw view shortcuts
 
 Start typing here...
