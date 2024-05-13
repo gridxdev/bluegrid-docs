@@ -1,3 +1,5 @@
 # Draw view shortcuts
 
-Start typing here...
+<p>
+The page is under construction. Please check back later.
+</p>
