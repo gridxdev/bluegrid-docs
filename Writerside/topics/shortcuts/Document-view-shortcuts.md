@@ -13,18 +13,12 @@ The page is under construction. Please check back later.
 <list>
 
 <li><shortcut>Alt+F</shortcut>: Open <code>Folder menu</code>
-
-[//]: # (    <list>)
-
-[//]: # (        <li><shortcut>N</shortcut>: <code>Create folder</code> - Open up new folder <code>input dialog</code>.</li>)
-
-[//]: # (        <li><shortcut>R</shortcut>: <code>Rename folder</code> - Rename selected folder.</li>)
-
-[//]: # (        <li><shortcut>D</shortcut>: <code>Delete folder</code> - Delete selected folder.</li>)
-
-[//]: # (        <li><shortcut>S</shortcut>: <code>Sort</code> folders - Sort folders by name.</li>)
-
-[//]: # (    </list>)
+<list>
+    <li><shortcut>N</shortcut>: <code>Create folder</code> - Open up new folder <code>input dialog</code>.</li>
+    <li><shortcut>R</shortcut>: <code>Rename folder</code> - Rename selected folder.</li>
+    <li><shortcut>D</shortcut>: <code>Delete folder</code> - Delete selected folder.</li>
+    <li><shortcut>S</shortcut>: <code>Sort</code> folders - Sort folders by name.</li>
+</list>
 
 [//]: # (</li>)
 
