@@ -10,9 +10,9 @@ The page is under construction. Please check back later.
 
 <shortcut>Alt+1</shortcut>: To <code>Document view</code>
 
-[//]: # (<list>)
+<list>
 
-[//]: # (<li><shortcut>Alt+F</shortcut>: Open <code>Folder menu</code>)
+<li><shortcut>Alt+F</shortcut>: Open <code>Folder menu</code>
 
 [//]: # (    <list>)
 
@@ -76,6 +76,6 @@ The page is under construction. Please check back later.
 
 [//]: # (    </list>)
 
-[//]: # (</li>)
+</li>
 
-[//]: # (</list>)
+</list>
