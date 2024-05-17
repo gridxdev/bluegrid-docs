@@ -6,7 +6,7 @@ The page is under construction. Please check back later.
 
 <note>This is the default shortcut key setup which is aligned with this manual.</note>
 
-[//]: # (<a href="Settings.md" anchor="set-shortcut-keys"> Learn how to set up shortcut keys.</a>)
+<a href="Settings.md" anchor="set-shortcut-keys"> Learn how to set up shortcut keys.</a>
 
 <shortcut>Alt+1</shortcut>: To <code>Document view</code>
 
@@ -21,7 +21,7 @@ The page is under construction. Please check back later.
 <li><shortcut>S</shortcut>: <code>Sort</code> folders - Sort folders by name.</li>
 </list>
 
-## Page shortcuts
+## Page shortcut
 
 <shortcut>Alt+P</shortcut>: Open <code>Page menu</code>
 
@@ -54,7 +54,6 @@ The page is under construction. Please check back later.
 </li>
 
 <li><shortcut>Ctrl+A</shortcut>: <code>Select all</code> - Select all pages in view port</li>  
-
 <li><shortcut>X</shortcut>: <code>Export PDF</code> - Export selected PDF pages to a single PDF file.</li>
 <li><shortcut>E</shortcut>: <code>Delete pages</code> - Delete selected pages and additional data.</li>
 <li><shortcut>Shift+E</shortcut>: <code>Delete version</code> - Delete the last PDF blueprint version.</li>
