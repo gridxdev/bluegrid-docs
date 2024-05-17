@@ -23,7 +23,7 @@
 
 ## Shape
 <deflist>
-    <def title="Shape">
+    <def title="Shape" id="shape-def">
         A shape is a 2D object that is drawn using shape tools. Shapes can be lines, rectangles, polygons, splines, paths, annotations, blocks, images...any things are added and visually rendered in <code>draw board</code>.
         <p>
             A shape is a page-wide data that exists in a page only.
@@ -40,6 +40,9 @@
     <def title="Active shape">
         <p>A shape is trigger by user actions and is displayed in active state. </p>
         <p>User activate a shape to perform actions such as edit text, move anchors, insert anchors (applied to Poly classed shapes), delete anchors (applied to Poly classed shapes). Changes made to an active shape are intrinsic.</p>
+    </def>
+    <def title="Free shape">
+        <p>A shape is a free shape if it is not tagged to any material.</p>
     </def>
     <def title="Anchor">
       A anchor or anchor point is a point on or not on a shape. Anchor points of a shape directly effect the geometry the shape. Changes made to anchor points will change intrinsic properties of the shape.
