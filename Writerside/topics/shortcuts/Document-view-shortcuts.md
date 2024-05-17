@@ -6,7 +6,7 @@ The page is under construction. Please check back later.
 
 <note>This is the default shortcut key setup which is aligned with this manual.</note>
 
-<a href="Settings.md" anchor="set-shortcut-keys"> Learn how to set up shortcut keys.</a>
+[//]: # (<a href="Settings.md" anchor="set-shortcut-keys"> Learn how to set up shortcut keys.</a>)
 
 <shortcut>Alt+1</shortcut>: To <code>Document view</code>
 
