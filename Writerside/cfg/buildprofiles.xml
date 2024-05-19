@@ -7,7 +7,7 @@
         <showDownloadButton>true</showDownloadButton>
         <primary-color>strawberry</primary-color>
         <header-logo>BlueGrid.svg</header-logo>
-        <custom-favicons>https://www.jetbrains.com/icon-512.png</custom-favicons>
+        <custom-favicons>BlueGrid71x71.png</custom-favicons>
     </variables>
 
 <!--    <shortcuts>-->
@@ -18,14 +18,14 @@
 <!--    </shortcuts>-->
 
     <footer>
-        <social type="blog" href="https://blog.jetbrains.com/writerside/">Writerside Blog</social>
-        <social type="twitter" href="https://twitter.com/onwriterside">Writerside on Twitter</social>
+<!--        <social type="blog" href="https://blog.jetbrains.com/writerside/">Writerside Blog</social>-->
+        <social type="facebook" href="https://www.facebook.com/GridX.BlueGrid">BlueGrid on Facebook</social>
 
-        <link href="https://youtrack.jetbrains.com/issues/WRS">Issue tracker</link>
-        <link href="https://youtrack.jetbrains.com/form/9cf3cf67-8bc0-4cbc-824c-7ade4c563338">Submit support request</link>
-        <link href="mailto:writerside@jetbrains.com">Contact us</link>
+        <link href="https://github.com/gridxdev/BlueGrid/issues">Issue tracker</link>
+        <link href="https://github.com/gridxdev/BlueGrid/issues">Change proposals</link>
+        <link href="">Contact us at: gridx@gridx.one</link>
 
-        <copyright>2000 JetBrains s.r.o.</copyright>
+        <copyright>2024 BlueGrid Ltd.</copyright>
     </footer>
 
     <build-profile instance="wrs">
