@@ -3,6 +3,7 @@
     <variables>
         <web-root>https://gridxdev.github.io/bluegrid-docs/index_md.html</web-root>
         <download-page>https://apps.microsoft.com/detail/9pm0l64lf46g</download-page>
+        <product-web-url>https://gridxdev.github.io/bluegrid-docs/index_md.html</product-web-url>
         <download-title>Get BlueGrid</download-title>
         <showDownloadButton>true</showDownloadButton>
 <!--        <primary-color>strawberry</primary-color>-->
