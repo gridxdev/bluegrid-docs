@@ -43,4 +43,8 @@
         <description>Created after removal of "Document view shortcuts" from BlueGrid Documentation</description>
         <accepts>Document-view-shortcuts.html</accepts>
     </rule>
+    <rule id="cdc2b25">
+        <description>Created after removal of "Issues" from BlueGrid Documentation</description>
+        <accepts>Issues.html</accepts>
+    </rule>
 </rules>

@@ -1,12 +1,12 @@
 <buildprofiles xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/build-profiles.xsd"
                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <variables>
-        <web-root>https://www.jetbrains.com/help</web-root>
-        <download-page>https://www.jetbrains.com/writerside/download/</download-page>
-        <download-title>Get Writerside</download-title>
+        <web-root>https://gridxdev.github.io/bluegrid-docs/index_md.html</web-root>
+        <download-page>https://apps.microsoft.com/detail/9pm0l64lf46g</download-page>
+        <download-title>Get BlueGrid</download-title>
         <showDownloadButton>true</showDownloadButton>
-        <primary-color>strawberry</primary-color>
-        <header-logo>BlueGrid.svg</header-logo>
+<!--        <primary-color>strawberry</primary-color>-->
+        <header-logo >BlueGrid.svg</header-logo>
         <custom-favicons>BlueGrid71x71.png</custom-favicons>
     </variables>
 
@@ -20,7 +20,7 @@
     <footer>
 <!--        <social type="blog" href="https://blog.jetbrains.com/writerside/">Writerside Blog</social>-->
         <social type="facebook" href="https://www.facebook.com/GridX.BlueGrid">BlueGrid on Facebook</social>
-
+        <social type="linkedin" href="https://www.linkedin.com/company/bluegridsoftware/">BlueGrid on Twitter</social>
         <link href="https://github.com/gridxdev/BlueGrid/issues">Issue tracker</link>
         <link href="https://github.com/gridxdev/BlueGrid/issues">Change proposals</link>
         <link href="">Contact us at: gridx@gridx.one</link>
@@ -29,13 +29,13 @@
     </footer>
 
     <build-profile instance="wrs">
-        <sitemap priority="0.35" change-frequency="monthly"/>
-<!--        <variables>-->
-<!--            <noindex-content>false</noindex-content>-->
-<!--            <product-web-url>https://www.jetbrains.com/help/writerside/</product-web-url>-->
+<!--        <sitemap priority="0.35" change-frequency="monthly"/>-->
+        <variables>
+            <noindex-content>true</noindex-content>
+            <product-web-url>https://apps.microsoft.com/detail/9pm0l64lf46g</product-web-url>
 <!--            <og-twitter>@onwriterside</og-twitter>-->
 <!--            <og-image>https://resources.jetbrains.com/storage/products/writerside/img/meta/preview.png</og-image>-->
 <!--            <images-prefix-override>https://resources.jetbrains.com/help/img/writerside/</images-prefix-override>-->
-<!--        </variables>-->
+        </variables>
     </build-profile>
 </buildprofiles>
