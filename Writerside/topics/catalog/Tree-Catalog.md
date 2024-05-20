@@ -24,7 +24,7 @@ Select the catalog in the <code>list view</code> to open its <code>tree-view</co
 If the catalog is empty, from the <code>tree-view</code> menu select menu <code>Add root</code> to set the root item of the catalog.
 </step>
 <step>
-Select the <code>catalog item</code> int the <code>tree-view</code> to add a child item to it.
+Select the <code>catalog item</code> int the <code>tree-view</code>.
 </step>
 <step>
 Right click on the <code>catalog item</code> to open the <code>context menu</code> and select <code>Add child</code> menu item.
