@@ -20,7 +20,7 @@ Click to open the <code>Folder menu</code> <shortcut>Alt+F</shortcut> and select
 Buy clicking on <code>Create folder</code> an <code>input dialog</code> will appear where to enter the folder name.
 </step>
 <step>
-Ensure the folder name is identical and click <code>OK</code> to create the folder.
+Ensure the folder name is identical and click <code>OK</code> to create the new folder.
 </step>
 <img src="create_folder.png" alt="Create folder" width="540"/>
 </procedure>

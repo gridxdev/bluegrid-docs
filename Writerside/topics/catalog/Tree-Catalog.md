@@ -4,7 +4,7 @@
 </tldr>
 
 In BlueGrid a catalog tree is a work breakdown structure (W.B.S) in tree-like form. A BlueGrid project can have none or multiple catalogs .
-A catalog is a tree-like structure, so it must have a top parent item and all others items are its children items. Each catalog item has its type of either Group, Count, Linear, Area or Volume.  
+A catalog is a tree-like structure, so it must have a top parent item which is a root item, and all others items are its child items. Each catalog item has its type of either Group, Count, Linear, Area or Volume.  
 A group item itself can have child items while the others are leaf items and do not have child items. The root item is a group item.
 
 ## Add a catalog tree
