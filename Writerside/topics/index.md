@@ -7,20 +7,21 @@ The page is under construction. Please check back later.
 <description>Get started with BlueGrid</description>
 <spotlight type="">
     <a href="Projects.md" type="start">Create a BlueGrid project</a>
-    <a href="Term-and-definition.md" type="search">Understand BlueGrid</a>
+    <a href="Features-and-functions.md" type="search">Discover BlueGrid features</a>
 </spotlight>
 <primary>
-<title>
-    How BlueGrid works
-</title>
-<a href="PDFs.md"></a>
-<a href="Material.md"></a>
+    <title>
+        Pages and PDF blueprints
+    </title>
+    <a href="Folders.md"></a>
+    <a href="PDFs.md">Pages and PDFs</a>
 </primary>
 <secondary>
-<title>
-    How to draw shapes
-</title>
-<a href="Shape-tools.md"></a>
-<a href="Annotation-tools.md"></a>
+    <title>
+        Shapes, markups
+    </title>
+    <a href="Shape-tools.md">Shapes</a>
+    <a href="Annotation-tools.md">Notes and annotations</a>
+    <a href="Block-tools.md">Counting blocks</a>
 </secondary>
 </section-starting-page>

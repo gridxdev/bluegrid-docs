@@ -47,4 +47,8 @@
         <description>Created after removal of "Issues" from BlueGrid Documentation</description>
         <accepts>Issues.html</accepts>
     </rule>
+    <rule id="4aeb6470">
+        <description>Created after removal of "Tests" from BlueGrid Documentation</description>
+        <accepts>Tests.html</accepts>
+    </rule>
 </rules>
