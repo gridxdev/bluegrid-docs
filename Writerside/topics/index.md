@@ -30,7 +30,10 @@ The page is under construction. Please check back later.
 <cards>
     <title>Others</title>
     <a href="Settings.md">Application settings</a>
+    <a href="Shortcut-Keys.md">Shortcut keys</a>
+    <a href="Resources.md">Resources</a>
 </cards>
+
   
 </misc>
 
