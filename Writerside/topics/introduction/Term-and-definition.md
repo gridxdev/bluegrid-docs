@@ -5,16 +5,17 @@
 <deflist>
     <def title="Page">
         <p>
-            A <b>page</b> is virtually a reference of a blueprint. A blueprint is a segment of a construction design. A blueprint may have one or multiple versions or updates. A page may hold zero or multiple corresponding PDF versions of the blueprint. 
+            A <b>page</b> serves as a virtual reference for a blueprint. A blueprint represents a segment of a construction design. It can have one or multiple versions or updates. A page may contain zero or multiple corresponding PDF versions of the blueprint.
         </p>
         <p>
-            A page is an entry point, a reference to a blueprint and to every <b>Additional data</b> related to the page.
+            Each page acts as an entry point, referring to a blueprint and any <a href="Term-and-definition.md" anchor="additional-data-term" >additional data</a> related to that page.
         </p>
         <p>
-            Every page resides in one folder.
+            A page resides in one folder.
         </p>
+        <a href="PDFs.md">Learn more about pages</a>
     </def>
-    <def title="Additional data">
+    <def title="Additional data" id="additional-data-term">
       <p>
         <b>Additional data</b> is the data generated in BlueGrid, by users such as shapes, markups, materials, etc. that are stored with referencing to a <b>page</b>. A page is the access point to its additional data.
       </p>
