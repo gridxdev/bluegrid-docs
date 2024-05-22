@@ -4,6 +4,7 @@
 </tldr>
 
 
+
 <p>BlueGrid renders a project <code>list view</code> in the <code>Starter</code> window which utilizes creating, opening and finding projects.</p>
 
 ## Create a project 

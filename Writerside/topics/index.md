@@ -5,8 +5,8 @@ The page is under construction. Please check back later.
 <section-starting-page>
 <title>Discover BlueGrid</title>
 <description>Get started with BlueGrid</description>
-<spotlight type="">
-    <a href="Projects.md" type="start">Create a BlueGrid project</a>
+<spotlight>
+    <a href="Projects.md" type="start">Create a BlueGrid project    </a>
     <a href="Features-and-functions.md" type="search">Discover BlueGrid features</a>
 </spotlight>
 <primary>
