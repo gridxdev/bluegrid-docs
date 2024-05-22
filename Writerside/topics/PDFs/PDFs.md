@@ -3,6 +3,8 @@
     <p>UI path: <ui-path><code>Document view</code> <shortcut>Alt+1</shortcut> | <code>Page view</code></ui-path></p>
 </tldr>
 
+<card-summary>Pages and PDF blueprints</card-summary>
+
 ## Add PDF pages
 <procedure >
 <step>

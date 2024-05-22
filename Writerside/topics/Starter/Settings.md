@@ -1,4 +1,7 @@
 # Application settings
+
+<card-summary>Customize styles, shortcut keys, precision and more</card-summary>
+
 <tldr>
     <p>UI path: <ui-path><code>Starter</code> | <code>Settings</code></ui-path></p>
 </tldr>

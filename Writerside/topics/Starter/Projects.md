@@ -1,9 +1,9 @@
 # Projects
+
 <tldr>
     <p>UI path: <ui-path><code>Starter</code> | <code>Projects</code></ui-path></p>
 </tldr>
-
-
+<card-summary>Create and open a BlueGrid project</card-summary>
 
 <p>BlueGrid renders a project <code>list view</code> in the <code>Starter</code> window which utilizes creating, opening and finding projects.</p>
 

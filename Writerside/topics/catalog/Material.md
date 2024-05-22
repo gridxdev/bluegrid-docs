@@ -1,4 +1,5 @@
 # Material
+<card-summary>Add, edit, import, export and apply materials to shapes</card-summary>
 <tldr>
  <p>UI path: <ui-path><code>Draw view</code> <shortcut>Alt+2</shortcut> | <code>Materials</code></ui-path></p>
 </tldr>

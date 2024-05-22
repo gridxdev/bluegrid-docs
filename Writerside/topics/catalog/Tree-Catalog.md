@@ -1,4 +1,6 @@
 # Tree Catalog
+
+<card-summary>Manage project Work Structure Breakdown with tree catalogs</card-summary>
 <tldr>
     <p>UI path: <ui-path><code>Catalog view</code> <shortcut>Alt+3</shortcut></ui-path></p>
 </tldr>
