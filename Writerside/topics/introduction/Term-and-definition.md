@@ -13,7 +13,7 @@
         <p>
             A page resides in one folder.
         </p>
-        <a href="PDFs.md">Learn more about pages</a>
+        <a href="pages.md">Learn more about pages</a>
     </def>
     <def title="Additional data" id="additional-data-term">
       <p>

@@ -14,7 +14,7 @@ The page is under construction. Please check back later.
         Pages and PDF blueprints
     </title>
     <a href="Folders.md"></a>
-    <a href="PDFs.md">Pages and PDFs</a>
+    <a href="pages.md">Pages and PDFs</a>
 </primary>
 <secondary>
     <title>

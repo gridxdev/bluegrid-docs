@@ -14,15 +14,15 @@ The page is under construction. Please check back later.
 </li>
 <li><b>Pages</b>
     <list type="decimal" start="1">
-        <li><a href="PDFs.md" anchor="add-pdf-pages">Add PDF pages</a></li>
-        <li><a href="PDFs.md" anchor="duplicate-a-page">Duplicate a page</a></li>
-        <li><a href="PDFs.md" anchor="replace-pages" >Replace a page</a></li>
-        <li><a href="PDFs.md" anchor="add-page-version">Add page versions</a></li>
-        <li><a href="PDFs.md" anchor="export-to-pdfs" >Export to PDF</a></li>
-        <li><a href="PDFs.md" anchor="delete-pages">Delete pages</a></li>
-        <li><a href="PDFs.md" anchor="delete-page-versions">Delete page versions</a></li>
-        <li><a href="PDFs.md" anchor="rotate-pdf-pages" >Rotate pages: Clockwise, counter-clockwise</a></li>
-        <li><a href="PDFs.md" anchor="set-page-properties"> Set page properties: Name, scale</a></li>
+        <li><a href="pages.md" anchor="add-pdf-pages">Add PDF pages</a></li>
+        <li><a href="pages.md" anchor="duplicate-a-page">Duplicate a page</a></li>
+        <li><a href="pages.md" anchor="replace-pages" >Replace a page</a></li>
+        <li><a href="pages.md" anchor="add-page-version">Add page versions</a></li>
+        <li><a href="pages.md" anchor="export-to-pdfs" >Export to PDF</a></li>
+        <li><a href="pages.md" anchor="delete-pages">Delete pages</a></li>
+        <li><a href="pages.md" anchor="delete-page-versions">Delete page versions</a></li>
+        <li><a href="pages.md" anchor="rotate-pdf-pages" >Rotate pages: Clockwise, counter-clockwise</a></li>
+        <li><a href="pages.md" anchor="set-page-properties"> Set page properties: Name, scale</a></li>
     </list>
 </li>
 <li><b>Draw</b>
