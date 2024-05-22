@@ -3,7 +3,7 @@
 
 ## Page and Additional data
 <deflist>
-    <def title="Page">
+    <def title="Page" id="page-def">
         <p>
             A <b>page</b> serves as a virtual reference for a blueprint. A blueprint represents a segment of a construction design. It can have one or multiple versions or updates. A page may contain zero or multiple corresponding PDF versions of the blueprint.
         </p>
@@ -17,7 +17,7 @@
     </def>
     <def title="Additional data" id="additional-data-term">
       <p>
-        <b>Additional data</b> is the data generated in BlueGrid, by users such as shapes, markups, materials, etc. that are stored with referencing to a <b>page</b>. A page is the access point to its additional data.
+        <b>Additional data</b> refers to the information generated in BlueGrid by users, such as <a href="Term-and-definition.md" anchor="shape-def">shapes, markups</a> <a href="Term-and-definition.md" anchor="material-def"> materials</a>, and other relevant content. This data is stored in relation to a specific <a href="Term-and-definition.md" anchor="page-def"> page</a>. Essentially, a page serves as the access point to its associated additional data.
       </p>
     </def>
 </deflist>
@@ -126,7 +126,7 @@
         </tr>   
     </table>
     </def>
-    <def title="Material">
+    <def title="Material" id="material-def">
         <p>
             A material is a work item, set for a specific page. A material item has the same properties as a catalog work item except that it is page-wide data, which means it exists in a page only.
         </p>
