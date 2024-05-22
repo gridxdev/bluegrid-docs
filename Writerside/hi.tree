@@ -5,6 +5,7 @@
 <instance-profile id="hi"
                  name="BlueGrid Documentation"
                  start-page="index.md">
+    <toc-element topic="Tests.md"/>
     <toc-element topic="index.md">
         <toc-element topic="Term-and-definition.md"/>
         <toc-element topic="Features-and-functions.md"/>
