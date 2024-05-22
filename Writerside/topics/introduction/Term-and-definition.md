@@ -25,9 +25,9 @@
 ## Shape
 <deflist>
     <def title="Shape" id="shape-def">
-        A shape is a 2D object that is drawn using shape tools. Shapes can be lines, rectangles, polygons, splines, paths, annotations, blocks, images...any things are added and visually rendered in <code>draw board</code>.
+        A shape is a 2D object that is drawn using <code>shape tools</code>. Shapes can be lines, rectangles, polygons, splines, paths, annotations, blocks, images...any things are added and visually rendered in <code>drawboard</code>.
         <p>
-            A shape is a page-wide data that exists in a page only.
+            A shape presents page-wide data that exists only within a specific page.
         </p>
     </def>
     <def title="Selected shape">
