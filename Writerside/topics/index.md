@@ -18,10 +18,20 @@ The page is under construction. Please check back later.
 </primary>
 <secondary>
     <title>
-        Shapes, markups
+        Catalogs, materials, shapes, annotations and quantities
     </title>
     <a href="Shape-tools.md">Shapes</a>
     <a href="Annotation-tools.md">Notes and annotations</a>
     <a href="Block-tools.md">Counting blocks</a>
+    <a href="Tree-Catalog.md">Catalogs</a>
+    <a href="Material.md">Materials</a>
 </secondary>
+<misc>
+<cards>
+    <title>Others</title>
+    <a href="Settings.md">Application settings</a>
+</cards>
+  
+</misc>
+
 </section-starting-page>
