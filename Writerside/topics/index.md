@@ -1,12 +1,11 @@
 # Getting Started
 
-The page is under construction. Please check back later.
 
 <section-starting-page>
 <title>Discover BlueGrid</title>
 <description>Get started with BlueGrid</description>
 <spotlight>
-    <a href="Projects.md" anchor="intro" type="start" description="Sed condimentum feugiat sagittis" >Create a BlueGrid project</a>
+    <a href="Projects.md"  type="start" description="Sed condimentum feugiat sagittis" >Create a BlueGrid project</a>
     <a href="Features-and-functions.md" type="search">Discover BlueGrid features</a>
 </spotlight>
 <primary>
