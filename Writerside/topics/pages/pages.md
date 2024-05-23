@@ -41,6 +41,9 @@ Select <code>Replace</code> menu item.
 <step>
 Navigate to the PDF file you want to replace the page with and click <code>Open</code> from the <code>open file dialog</code>.
 </step>
+<step>
+Upon opening the PDF file, A PDF file preview will display, select the page to replace and click button <code>Select</code>
+</step>
 <img src="replace_page.png" alt="Replace page" width="540"/>
 <note>
     BlueGrid will take the first page of the PDF file to replace the page.

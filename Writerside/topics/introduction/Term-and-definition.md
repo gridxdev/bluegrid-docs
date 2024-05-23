@@ -29,6 +29,7 @@
         <p>
             A shape presents page-wide data that exists only within a specific page.
         </p>
+        <a href="Shape-tools.md">Learn how to create shapes</a>
     </def>
     <def title="Selected shape">
         <p>
@@ -37,10 +38,12 @@
         <p>
             User select a shape to perform actions such as move, rotate, scale, delete, copy, change style format, subscribe materials, unsubscribe materials and so on.
         </p>    
+        <a href="Move-and-transform.md">Learn how to select shapes</a>
     </def>
     <def title="Active shape">
-        <p>A shape is trigger by user actions and is displayed in active state. </p>
+        <p>A shape is activated by user actions and is displayed in active state. </p>
         <p>User activate a shape to perform actions such as edit text, move anchors, insert anchors (applied to Poly classed shapes), delete anchors (applied to Poly classed shapes). Changes made to an active shape are intrinsic.</p>
+        <a href="Active-and-modify.md">Learn how to activate a shape</a>
     </def>
     <def title="Free shape">
         <p>A shape is a free shape if it is not tagged to any material.</p>
