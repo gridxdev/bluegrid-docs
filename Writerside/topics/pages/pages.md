@@ -78,6 +78,9 @@ Upon opening the PDF file, A PDF file preview will display, select the page to r
 <step>
    Navigate to the PDF file you want to add version and click <code>Open</code> from the <code>open file dialog</code>.
 </step>
+<step>
+    Upon opening the PDF file, A PDF file preview will display, select the page to add version and click button <code>Select</code>
+</step>
 <note>
     The lastly added PDF page is the last version and will be the active PDF page.
 </note>
