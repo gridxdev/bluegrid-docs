@@ -88,7 +88,7 @@
     </def>
     <def title="Catalog Item Type">
         <p>
-            A catalog item must be either of type <code>Group</code>, <code>Count</code>, <code>Linear</code>, <code>Area</code>, or <code>Volume</code>. The table below describe properties of catalog item types:
+            A catalog item must be of the type <code>Group</code>, <code>Count</code>, <code>Linear</code>, <code>Area</code>, or <code>Volume</code>. The table below describes the properties of catalog item types:
         </p>
     <table>
         <tr>
@@ -137,7 +137,7 @@
     </def>
     <def title="Material" id="material-def">
         <p>
-            A material is a work item, set for a specific page. A material item has the same properties as a catalog work item except that it is page-wide data, which means it exists in a page only.
+           A material is a work item designated for a specific page. A material item possesses the same properties as a catalog work item, with the exception that it is page-specific data, meaning it exists only within a single page.
         </p>
     </def>
 </deflist>
