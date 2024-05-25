@@ -49,25 +49,31 @@
         <p>A shape is considered a free shape if it is not associated with any material.</p>
     </def>
     <def title="Anchor">
-      A anchor or anchor point is a point on or not on a shape. Anchor points of a shape directly effect the geometry the shape. Changes made to anchor points will change intrinsic properties of the shape.
+      An anchor, or anchor point, is a point that may or may not be on a shape. The anchor points of a shape directly affect the geometry of the shape. Changes made to anchor points will alter the intrinsic properties of the shape.
    </def>
-    <def title="Active point">
-      A anchor point which has position actively bond with <code>cursor</code> position.
-   </def>
-    <def title="Active segment">
-      A shape such <code>path</code> may be constituted of multiple line segments, quadratic segments, cubic segments  or empty distances. The segment which is being drawn is an active segment.
-    </def>
+
+[//]: # (    <def title="Active point">)
+
+[//]: # (      A anchor point which has position actively bond with <code>cursor</code> position.)
+
+[//]: # (   </def>)
+
+[//]: # (    <def title="Active segment">)
+
+[//]: # (      A shape such <code>path</code> may be constituted of multiple line segments, quadratic segments, cubic segments  or empty distances. The segment which is being drawn is an active segment.)
+
+[//]: # (    </def>)
 </deflist>
 
 ## Catalog and Materials
 <deflist>
     <def title="Catalog">
         <p>
-            A catalog is a tree structure of Work Breakdown Structure (WBS) that contains a list work groups, work items being referred to as materials in BlueGrid. 
-        </p> 
-        <p>
-            A catalog is a project-wide data, which means it can be referred to from any page in the project.
+        A catalog is a tree structure of the Work Breakdown Structure (WBS) that contains a list of work groups and work items, referred to as materials in BlueGrid.
         </p>
+        <p>
+            A catalog represents project-wide data, meaning it can be accessed from any page within the project.
+         </p>
     </def>
     <def title="Catalog Item">
         <p>
