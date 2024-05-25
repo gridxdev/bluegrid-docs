@@ -137,7 +137,7 @@
     </def>
     <def title="Material" id="material-def">
         <p>
-           A material is a work item designated for a specific page. A material item possesses the same properties as a catalog work item, with the exception that it is page-specific data, meaning it exists only within a single page.
+           A material is a work item designated for a specific page. A material item possesses the same properties as a catalog work item, with the exception that it is page-wide data, meaning it exists only within a single page.
         </p>
     </def>
 </deflist>
