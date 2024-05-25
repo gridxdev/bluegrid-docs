@@ -36,7 +36,7 @@
             A shape is selected by user actions and is displayed in selected state. 
         </p>
         <p>
-            User select a shape to perform actions such as move, rotate, scale, delete, copy, change style format, subscribe materials, unsubscribe materials and so on.
+            Users select a shape to perform actions such as moving, rotating, scaling, deleting, copying, changing the style format, subscribing materials, unsubscribing from materials and more.
         </p>    
         <a href="Move-and-transform.md">Learn how to select shapes</a>
     </def>
