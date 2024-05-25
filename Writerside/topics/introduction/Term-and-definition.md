@@ -77,13 +77,13 @@
     </def>
     <def title="Catalog Item">
         <p>
-            A catalog item is an item/node in a catalog tree. A catalog item can be of type <code>Group</code>, <code>Count</code>, <code>Linear</code>, <code>Area</code>, or <code>Volume</code>. A group item can have child items while the others are leaf items and do not have child items.
+            A catalog item is an element within a catalog tree. It can be categorized as a <code>Group</code>, <code>Count</code>, <code>Linear</code>, <code>Area</code>, or <code>Volume</code> type. A Group item may contain child items, whereas the other types are leaf items and do not possess child items.
         </p>
         <p>
-            Each non-empty catalog has one root item which is a group item.
+         Every non-empty catalog contains a single root item, which is of the Group type.
         </p>
         <p>
-            A catalog item of type Group can have child items. A catalog item of type <code>Count</code>, <code>Linear</code>, <code>Area</code>, or <code>Volume</code> is a leaf item and does not have child items, they are also referred to as material or work items.
+            A Group-type catalog item is capable of having child items. In contrast, catalog items of the <code>Count</code>, <code>Linear</code>, <code>Area</code>, or <code>Volume</code> types are leaf items without child items and are also known as materials or work items.
         </p>
     </def>
     <def title="Catalog Item Type">
