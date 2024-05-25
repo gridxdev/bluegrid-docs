@@ -7,12 +7,12 @@
 </tldr>
 
 ## Themes and Styles
-<procedure title="Select Themes and Styles" >
+<procedure  >
 <p>
 The application has 4 themes: Prime, Nord, Cupertino, and Dracula, each is with dark and light modes.
 </p>
 <step>
-From the <code>Starter</code> window select setting tab.
+From the <code>Starter</code> window select <code>setting tab</code>.
 </step>
 <step>Select theme from theme selection <code>dropdown</code>.</step>
 <step>To change accent color, click on one of the color indicators.</step>
