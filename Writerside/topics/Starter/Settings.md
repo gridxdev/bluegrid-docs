@@ -101,6 +101,6 @@ Different groups can share shortcut keys. In the same group, shortcut keys shall
     To load a setting profile, click on the <code>Import</code> button.
 </step>
 <step>
-    Upon clicking the <code>Import</code> button, an opening files dialog box will appear, navigate to the profile file and click <code>Open</code> from the dialog window to load the file.
+    Upon clicking the <code>Import</code> button, an <code>Open file dialog</code> will appear, navigate to the profile file and click <code>Open</code> to load the file.
 </step>
 </procedure>
