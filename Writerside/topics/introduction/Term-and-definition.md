@@ -33,7 +33,7 @@
     </def>
     <def title="Selected shape">
         <p>
-            A shape is selected by user actions and is displayed in selected state. 
+            A shape is selected through user actions and is displayed in the selected state. 
         </p>
         <p>
             Users select a shape to perform actions such as moving, rotating, scaling, deleting, copying, changing the style format, subscribing materials, unsubscribing from materials and more.
@@ -41,12 +41,12 @@
         <a href="Move-and-transform.md">Learn how to select shapes</a>
     </def>
     <def title="Active shape">
-        <p>A shape is activated by user actions and is displayed in active state. </p>
-        <p>User activate a shape to perform actions such as edit text, move anchors, insert anchors (applied to Poly classed shapes), delete anchors (applied to Poly classed shapes). Changes made to an active shape are intrinsic.</p>
+        <p>A shape is activated through user actions and is displayed in an active state.</p>
+        <p>user activates a shape to perform actions such as editing text, moving anchors, inserting anchors (applicable to Poly-class shapes), and deleting anchors (applicable to Poly-class shapes). Changes made to an active shape are intrinsic.</p>
         <a href="Active-and-modify.md">Learn how to activate a shape</a>
     </def>
     <def title="Free shape">
-        <p>A shape is a free shape if it is not tagged to any material.</p>
+        <p>A shape is considered a free shape if it is not associated with any material.</p>
     </def>
     <def title="Anchor">
       A anchor or anchor point is a point on or not on a shape. Anchor points of a shape directly effect the geometry the shape. Changes made to anchor points will change intrinsic properties of the shape.
