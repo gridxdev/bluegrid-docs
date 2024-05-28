@@ -49,3 +49,65 @@ Select the built path and open <code>Drawboard</code>'s menu and select <code>Ma
 </step>
 </procedure>
 
+## Export symbol set
+
+<p>
+In BlueGrid symbols are user's customized data thus they can be exported to files to store, share and reuse later.
+</p>
+
+<procedure>
+<step>
+    Open <code>Symbol tool set</code> from the <code>Shape tool panel</code>
+</step>
+<step>
+Scroll to the end of the <code>Symbol tool set</code>'s view pane and select button <code>...</code> to open the symbol list window.
+</step>
+<step>
+Open the <code>Symbol list</code> window's menu and select <code>Export</code> menu item.
+</step>
+<step>
+Choose a location to save the exported file and click <code>Save</code> button.
+</step>
+</procedure>
+
+## Import symbol set
+
+<procedure>
+<step>
+    Open <code>Symbol tool set</code> from the <code>Shape tool panel</code>
+</step>
+<step>
+Scroll to the end of the <code>Symbol tool set</code>'s view pane and select button <code>...</code> to open the symbol list window.
+</step>
+<step>
+Open the <code>Symbol list</code> window's menu and select <code>Import</code> menu item.
+</step>
+<step>
+Choose a file to import and click <code>Open</code> button.
+</step>
+<step>
+Close the <code>Symbol list</code> window.
+</step>
+</procedure>
+
+## Add symbol from SVG icon files
+<p>
+In BlueGrid, symbols are basically SVG paths. Users can add SVG icon files to the symbol tool set to use as counting symbols.
+</p>
+<procedure>
+<step>
+    Open <code>Symbol tool set</code> from the <code>Shape tool panel</code>
+</step>
+<step>
+Scroll to the end of the <code>Symbol tool set</code>'s view pane and select button <code>...</code> to open the symbol list window.
+</step>
+<step>
+Open the <code>Symbol list</code> window's menu and select <code>Add</code> menu item.
+</step>
+<step>
+Choose an SVG icon file to add and click <code>Open</code> button.
+</step>
+</procedure>
+<note>
+User's can always google for keywords of "... SVG icons" to find numerous free SVG icons to use as counting symbols.
+</note>
