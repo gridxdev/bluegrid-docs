@@ -4,7 +4,7 @@
 
 <shortcut>Alt+3</shortcut>: To <code>Catalog view</code>
 
-## Folder shortcuts
+## Catalog list shortcuts
 
 <shortcut>Alt+M</shortcut>: Open <code>Catalog list menu</code>
 
