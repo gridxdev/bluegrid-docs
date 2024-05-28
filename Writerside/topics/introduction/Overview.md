@@ -1,4 +1,4 @@
-# Terms and definition
+# Overview
 
 
 ## Page and Additional data
@@ -8,7 +8,7 @@
             A <b>page</b> serves as a virtual reference for a blueprint. A blueprint represents a segment of a construction design. It can have one or multiple versions or updates. A page may contain zero or multiple corresponding PDF versions of the blueprint.
         </p>
         <p>
-            Each page acts as an entry point, referring to a blueprint and any <a href="Term-and-definition.md" anchor="additional-data-term" >additional data</a> related to that page.
+            Each page acts as an entry point, referring to a blueprint and any <a href="Overview.md" anchor="additional-data-term" >additional data</a> related to that page.
         </p>
         <p>
             A page resides in one folder.
@@ -17,7 +17,7 @@
     </def>
     <def title="Additional data" id="additional-data-term">
       <p>
-        <b>Additional data</b> refers to the information generated in BlueGrid by users, such as <a href="Term-and-definition.md" anchor="shape-def">shapes</a>, <a href="Term-and-definition.md" anchor="material-def"> materials</a>, and other relevant content. This data is stored in relation to a specific <a href="Term-and-definition.md" anchor="page-def"> page</a>. Essentially, a <a href="Term-and-definition.md" anchor="page-def">page</a> serves as the access point to its associated additional data.
+        <b>Additional data</b> refers to the information generated in BlueGrid by users, such as <a href="Overview.md" anchor="shape-def">shapes</a>, <a href="Overview.md" anchor="material-def"> materials</a>, and other relevant content. This data is stored in relation to a specific <a href="Overview.md" anchor="page-def"> page</a>. Essentially, a <a href="Overview.md" anchor="page-def">page</a> serves as the access point to its associated additional data.
       </p>
     </def>
 </deflist>

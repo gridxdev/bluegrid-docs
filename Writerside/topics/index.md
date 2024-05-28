@@ -21,7 +21,7 @@
     </title>
     <a href="Shape-tools.md">Shapes</a>
     <a href="Annotation-tools.md">Notes and annotations</a>
-    <a href="Block-tools.md">Counting blocks</a>
+    <a href="Symbol-tools.md">Counting blocks</a>
     <a href="Tree-Catalog.md">Catalogs</a>
     <a href="Material.md">Materials</a>
 </secondary>
