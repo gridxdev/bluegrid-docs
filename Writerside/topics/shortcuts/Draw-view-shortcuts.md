@@ -7,6 +7,7 @@
 
 ## Drawboard shortcuts
 
+
 <shortcut>Alt+D</shortcut>: Open <code>Drawboard menu</code>
 
 <list>
@@ -36,6 +37,7 @@
 <a href="Shape-tools.md" anchor="path-tool">Learn more about path tool.</a>
 
 ## Material table shortcuts
+
 
 <shortcut></shortcut>: Open <code>Material table menu</code>
 
