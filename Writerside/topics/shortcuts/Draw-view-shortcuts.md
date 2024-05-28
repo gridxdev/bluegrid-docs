@@ -42,10 +42,10 @@
 <list>
 <li><shortcut></shortcut>:<code>Add material</code> - Add a new material to the material table.
     <list>
-    <li><shortcut></shortcut>:<code>Add count material</code> - Add a material item of type <code>Count</code></li>
-    <li><shortcut></shortcut>:<code>Add linear material</code> - Add a material item of type <code>Linear</code></li>
-    <li><shortcut></shortcut>:<code>Add area material</code> - Add a material item of type <code>Area</code></li>
-    <li><shortcut></shortcut>:<code>Add volume material</code> - Add a material item of type <code>Volume</code></li>
+    <li><shortcut>Shift+C</shortcut>:<code>Add count material</code> - Add a material item of type <code>Count</code></li>
+    <li><shortcut>Shift+L</shortcut>:<code>Add linear material</code> - Add a material item of type <code>Linear</code></li>
+    <li><shortcut>Shift+M</shortcut>:<code>Add area material</code> - Add a material item of type <code>Area</code></li>
+    <li><shortcut>Shift+V</shortcut>:<code>Add volume material</code> - Add a material item of type <code>Volume</code></li>
     </list>
 </li>
 <li><shortcut>C+P</shortcut>:<code>Pull material from catalogs</code> - Open the project catalog dialog to pull material items from a catalog to the working <code>page</code>.</li>
