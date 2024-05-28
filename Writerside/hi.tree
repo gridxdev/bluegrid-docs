@@ -23,6 +23,7 @@
             <toc-element topic="Shape-tools.md"/>
             <toc-element topic="Annotation-tools.md"/>
             <toc-element topic="Symbol-tools.md"/>
+            <toc-element topic="Select-shapes-from-PDF.md"/>
         </toc-element>
         <toc-element topic="Move-and-transform.md"/>
         <toc-element topic="Active-and-modify.md"/>
