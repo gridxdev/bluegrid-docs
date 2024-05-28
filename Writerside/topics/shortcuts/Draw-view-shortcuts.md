@@ -1,8 +1,7 @@
 # Draw view shortcuts
 
-<p>
-The page is under construction. Please check back later.
-</p>
+
+<a href="Settings.md" anchor="set-shortcut-keys"> Learn how to set up shortcut keys.</a>
 
 <shortcut>Alt+2</shortcut>: To <code>Drawboard view</code>
 
@@ -24,6 +23,17 @@ The page is under construction. Please check back later.
 <li><shortcut>A</shortcut>:<code>Select all</code> - Select all shapes on <code>Drawboard</code></li>
 <li><shortcut>Shift+A</shortcut>:<code>Deselect all</code> - Deselect all selected shapes.</li>
 </list>
+
+## Path mode shortcuts
+<list>
+<li><shortcut>0</shortcut>:<code>Move To</code> - Switch to <code>Move To</code> mode</li>
+<li><shortcut>1</shortcut>:<code>Line To</code> - Switch to <code>Line To</code> mode</li>
+<li><shortcut>2</shortcut>:<code>Quad To</code> - Switch to <code>Quad To</code> mode</li>
+<li><shortcut>3</shortcut>:<code>Cubic To</code> - Switch to <code>Cubic To</code> mode</li>
+<li><shortcut>4</shortcut>:<code>Arc To</code> - Switch to <code>Arc To</code> mode</li>
+<li><shortcut>5</shortcut>:<code>Close Path</code> - Close to the last move</li>
+</list>
+<a href="Shape-tools.md" anchor="path-tool">Learn more about path tool.</a>
 
 ## Material table shortcuts
 
