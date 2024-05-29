@@ -1,7 +1,10 @@
-# PDF Pages
+# Pages
 <tldr>
     <p>UI path: <ui-path><code>Document view</code> <shortcut>Alt+1</shortcut> | <code>Page view</code></ui-path></p>
 </tldr>
+
+<card-summary>Pages and PDF blueprints</card-summary>
+<link-summary>Pages and PDF blueprints</link-summary>
 
 ## Add PDF pages
 <procedure >
@@ -38,6 +41,9 @@ Select <code>Replace</code> menu item.
 <step>
 Navigate to the PDF file you want to replace the page with and click <code>Open</code> from the <code>open file dialog</code>.
 </step>
+<step>
+Upon opening the PDF file, A PDF file preview will display, select the page to replace and click button <code>Select</code>
+</step>
 <img src="replace_page.png" alt="Replace page" width="540"/>
 <note>
     BlueGrid will take the first page of the PDF file to replace the page.
@@ -71,6 +77,9 @@ Navigate to the PDF file you want to replace the page with and click <code>Open<
 </step>
 <step>
    Navigate to the PDF file you want to add version and click <code>Open</code> from the <code>open file dialog</code>.
+</step>
+<step>
+    Upon opening the PDF file, A PDF file preview will display, select the page to add version and click button <code>Select</code>
 </step>
 <note>
     The lastly added PDF page is the last version and will be the active PDF page.

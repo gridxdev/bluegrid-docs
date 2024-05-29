@@ -2,6 +2,8 @@
 <tldr>
     <p>UI path: <ui-path><code>Document view</code> <shortcut>Alt+1</shortcut> | <code>Folder view</code></ui-path></p>
 </tldr>
+<card-summary>Document folders</card-summary>
+
 ## User interface layout
 The folders are displayed in the left panel of the <code>Document view</code>, in a <code>list view</code>. 
 <img src="folder_ui.png" alt="User interface of Folder Ui component"/>
@@ -19,7 +21,7 @@ Click to open the <code>Folder menu</code> <shortcut>Alt+F</shortcut> and select
 Buy clicking on <code>Create folder</code> an <code>input dialog</code> will appear where to enter the folder name.
 </step>
 <step>
-Ensure the folder name is identical and click <code>OK</code> to create the folder.
+Ensure the folder name is identical and click <code>OK</code> to create the new folder.
 </step>
 <img src="create_folder.png" alt="Create folder" width="540"/>
 </procedure>

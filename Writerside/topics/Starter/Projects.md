@@ -1,5 +1,10 @@
 # Projects
 
+<tldr>
+    <p>UI path: <ui-path><code>Starter</code> | <code>Projects</code></ui-path></p>
+</tldr>
+<card-summary>Create and open a BlueGrid project</card-summary>
+
 <p>BlueGrid renders a project <code>list view</code> in the <code>Starter</code> window which utilizes creating, opening and finding projects.</p>
 
 ## Create a project 
@@ -8,7 +13,7 @@
 
 <p>Before performing quantity take-off on PDF blueprints, users must create a BlueGrid project.</p>
 <step>Click on the <code>Create</code> button in the Starter window. </step>
-<step>A <code>selection modal</code> will appear, where users can select the project which is suitable to your needs and click <code>Create project</code> button to open the <code>save dialog</code> where users can save the project to a location on the computer. </step>
+<step>A <code>selection modal</code> will appear, where users can select the project which is suitable to your needs and click <code>Create project</code> button to open the <code>Save file dialog</code> where users can save the project to a location on the computer. </step>
 <p>Upon saving the project, the project will be created and automatically opened in the application.</p>
 
 <img src="create_project.png"  alt="Create a project"  width="540"/>
@@ -46,7 +51,7 @@ To delete a project from the project list, users follow the steps below:
 <step>Click on the <code>Delete</code> item in the context menu.</step>
 </procedure>
 <note>
-You can also delete a project by moving the mouse over the project item in the project list view and clicking on the cross icon.
+You can also delete a project by moving the mouse over the project item in the project list view and click on the cross icon.
 </note>
 <note>
 When you delete a project in the <code>Starter</code> <code>project list</code> view, the project file is not deleted from the computer. The project file is still available in the location where it was saved.

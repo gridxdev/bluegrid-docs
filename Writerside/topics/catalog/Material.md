@@ -1,5 +1,8 @@
 # Material
-
+<card-summary>Add, edit, import, export and apply materials to shapes</card-summary>
+<tldr>
+ <p>UI path: <ui-path><code>Draw view</code> <shortcut>Alt+2</shortcut> | <code>Materials</code></ui-path></p>
+</tldr>
 <p>
 In BlueGrid, each page has one co-related material table. Each material item in the table must be one of four types: Count, Linear, Area, or Volume. A shape, with its metric properties of length, area, and volume, can subscribe to or unsubscribe from a material item.
 </p>
@@ -10,10 +13,7 @@ By subscribing to a material item, the shape’s metric property that correspond
 ## Add materials
 <procedure title="Add a material item" id="add-a-material-item">
 <step>
-Go to <code>Draw view</code>
-</step>
-<step>
-Select <code>material tab</code> of on the left of the <code>Draw view</code>
+Select <code>Materials tab</code> of on the left of the <code>Draw view</code>
 </step>
 <step>
 From <code>material table menu </code> hover <code>Add material</code> and select sub menu item of specific material type.
@@ -29,14 +29,12 @@ From <code>material table menu </code> hover <code>Add material</code> and selec
 ## Pull materials from catalogs
 <procedure>
 <p>Every BlueGrid project should have at least one catalog tree. Page materials can be pulled from the catalog tree.</p>
+
 <step>
-Go to <code>Draw view</code>
+Select <code>Materials tab</code> of on the left of the <code>Draw view</code>
 </step>
 <step>
-Select <code>material tab</code> of on the left of the <code>Draw view</code>
-</step>
-<step>
-From <code>material table menu </code> select <code>Pull from catalog</code> menu item.
+From <code>Material table menu </code> select <code>Pull from catalog</code> menu item.
 </step>
 <step>
 Upon selecting the <code>Pull from catalog</code>, a catalog tree <code>dialog window</code> will display. Navigate to the catalog tree item you want to pull materials from and click <code>Pull</code> from the <code>dialog window</code>.

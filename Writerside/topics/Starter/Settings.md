@@ -1,13 +1,18 @@
 # Application settings
 
+<card-summary>Customize styles, shortcut keys, precision and more</card-summary>
+
+<tldr>
+    <p>UI path: <ui-path><code>Starter</code> | <code>Settings</code></ui-path></p>
+</tldr>
 
 ## Themes and Styles
-<procedure title="Select Themes and Styles" >
+<procedure  >
 <p>
 The application has 4 themes: Prime, Nord, Cupertino, and Dracula, each is with dark and light modes.
 </p>
 <step>
-From the <code>Starter</code> window select setting tab.
+From the <code>Starter</code> window select <code>setting tab</code>.
 </step>
 <step>Select theme from theme selection <code>dropdown</code>.</step>
 <step>To change accent color, click on one of the color indicators.</step>
@@ -96,6 +101,6 @@ Different groups can share shortcut keys. In the same group, shortcut keys shall
     To load a setting profile, click on the <code>Import</code> button.
 </step>
 <step>
-    Upon clicking the <code>Import</code> button, an opening files dialog box will appear, navigate to the profile file and click <code>Open</code> from the dialog window to load the file.
+    Upon clicking the <code>Import</code> button, an <code>Open file dialog</code> will appear, navigate to the profile file and click <code>Open</code> to load the file.
 </step>
 </procedure>

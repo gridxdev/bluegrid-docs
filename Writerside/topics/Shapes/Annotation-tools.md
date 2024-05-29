@@ -2,7 +2,7 @@
 <tldr>
     <p>UI path: <ui-path><code>Draw view</code> <shortcut>Alt+2</shortcut> | <code>Annotation tool set</code></ui-path></p>
 </tldr>
-
+<card-summary>Take notes with texts and annotations</card-summary>
 <tip>
 <p>
 While drawing shapes, annotations, <code>point snap</code> options should be turned on to achieve the best accuracy.

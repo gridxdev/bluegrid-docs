@@ -6,7 +6,7 @@
                  name="BlueGrid Documentation"
                  start-page="index.md">
     <toc-element topic="index.md">
-        <toc-element topic="Term-and-definition.md"/>
+        <toc-element topic="Overview.md"/>
         <toc-element topic="Features-and-functions.md"/>
     </toc-element>
     <toc-element toc-title="Starter">
@@ -16,13 +16,14 @@
 
     <toc-element toc-title="PDFs">
         <toc-element topic="Folders.md"/>
-        <toc-element toc-title="PDF pages" topic="PDFs.md"/>
+        <toc-element topic="pages.md"/>
     </toc-element>
     <toc-element toc-title="Shapes">
         <toc-element toc-title="Draw">
             <toc-element topic="Shape-tools.md"/>
             <toc-element topic="Annotation-tools.md"/>
-            <toc-element topic="Block-tools.md"/>
+            <toc-element topic="Symbol-tools.md"/>
+            <toc-element topic="Select-shapes-from-PDF.md"/>
         </toc-element>
         <toc-element topic="Move-and-transform.md"/>
         <toc-element topic="Active-and-modify.md"/>
@@ -31,11 +32,12 @@
         <toc-element topic="Tree-Catalog.md"/>
         <toc-element topic="Material.md"/>
     </toc-element>
-    <toc-element toc-title="Shortcut keys">
+    <toc-element toc-title="Shortcut keys" topic="Shortcut-Keys.md">
         <toc-element topic="Application-shortcuts.md"/>
         <toc-element topic="Document-view-shortcuts.md"/>
         <toc-element topic="Draw-view-shortcuts.md"/>
-        <toc-element topic="Catalog-view.md"/>
+        <toc-element topic="Catalog-view-shortcuts.md"/>
     </toc-element>
+    <toc-element topic="Resources.md"/>
 
 </instance-profile>
