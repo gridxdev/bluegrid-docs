@@ -58,5 +58,4 @@ The page is under construction. Please check back later.
 <li><shortcut>E</shortcut>: <code>Delete pages</code> - Delete selected pages and additional data.</li>
 <li><shortcut>Shift+E</shortcut>: <code>Delete version</code> - Delete the last PDF blueprint version.</li>
 <li><shortcut>P</shortcut>: <code>Properties</code> - View and edit page properties.</li>
-
 </list>
