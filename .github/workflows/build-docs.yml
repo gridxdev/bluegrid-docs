@@ -1,8 +1,12 @@
 name: Build documentation
 
 on:
-  merge_group:
-    branches: ["master"]
+  pull_request:
+    branches: ["main"]
+    types:
+        - opened
+        - synchronize
+        - reopened
   workflow_dispatch:
 
 permissions:
@@ -51,6 +55,8 @@ jobs:
         with:
           instance: ${{ env.INSTANCE }}
   deploy:
+    permissions:
+      id-token: write
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
