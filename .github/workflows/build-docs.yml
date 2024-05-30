@@ -1,8 +1,8 @@
 name: Build documentation
 
 on:
-  merge_group:
-    branches: ["master"]
+  push:
+    branches: ["main"]
   workflow_dispatch:
 
 permissions:
@@ -54,7 +54,7 @@ jobs:
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
-    needs: [build]
+    needs: [build, test]
     runs-on: ubuntu-latest
     steps:
       - name: Download artifacts
