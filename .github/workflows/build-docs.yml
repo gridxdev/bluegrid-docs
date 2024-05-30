@@ -4,7 +4,6 @@ on:
   pull_request:
     branches: ["main"]
     types:
-        - closed
         - opened
         - synchronize
         - reopened
@@ -56,6 +55,8 @@ jobs:
         with:
           instance: ${{ env.INSTANCE }}
   deploy:
+    permissions:
+      id-token: write
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
