@@ -1,4 +1,4 @@
-# Active and modify
+# Build and modify tools
 <p>
 An active shape displays its anchor points, controls and text input if the shape is text-based. To modify a shape by changing anchor points, controls, or text, the shape must be in active mode.
 </p>
