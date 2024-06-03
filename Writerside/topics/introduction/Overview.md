@@ -1,29 +1,26 @@
 # Overview
 
 
-## Page and Additional data
+## Terms and Definitions
+
 <deflist>
     <def title="Page" id="page-def">
         <p>
             A <b>page</b> serves as a virtual reference for a blueprint. A blueprint represents a segment of a construction design. It can have one or multiple versions or updates. A page may contain zero or multiple corresponding PDF versions of the blueprint.
         </p>
         <p>
-            Each page acts as an entry point, referring to a blueprint and any <a href="Overview.md" anchor="additional-data-term" >additional data</a> related to that page.
+            Each page acts as an entry point, referring to a blueprint and any <a href="Overview.md" anchor="additional-data-def" >additional data</a> related to that page.
         </p>
         <p>
             A page resides in one folder.
         </p>
         <a href="pages.md">Learn more about pages</a>
     </def>
-    <def title="Additional data" id="additional-data-term">
-      <p>
-        <b>Additional data</b> refers to the information generated in BlueGrid by users, such as <a href="Overview.md" anchor="shape-def">shapes</a>, <a href="Overview.md" anchor="material-def"> materials</a>, and other relevant content. This data is stored in relation to a specific <a href="Overview.md" anchor="page-def"> page</a>. Essentially, a <a href="Overview.md" anchor="page-def">page</a> serves as the access point to its associated additional data.
-      </p>
+    <def title="Additional data" id="additional-data-def" >
+        <p>
+            <b>Additional data</b> refers to the information generated in BlueGrid by users, such as <a href="Overview.md" anchor="shape-def">shapes</a>, <a href="Overview.md" anchor="material-def"> materials</a>, and other relevant content. This data is stored in relation to a specific <a href="Overview.md" anchor="page-def"> page</a>. Essentially, a <a href="Overview.md" anchor="page-def">page</a> serves as the access point to its associated additional data.
+        </p>
     </def>
-</deflist>
-
-## Shape
-<deflist>
     <def title="Shape" id="shape-def">
         A shape is a 2D object that is drawn using <code>shape tools</code>. Shapes can be lines, rectangles, polygons, splines, paths, annotations, blocks, images...any things are added and visually rendered in <code>drawboard</code>.
         <p>
@@ -51,22 +48,6 @@
     <def title="Anchor">
       An anchor, or anchor point, is a point that may or may not be on a shape. The anchor points of a shape directly affect the geometry of the shape. Changes made to anchor points will alter the intrinsic properties of the shape.
    </def>
-
-[//]: # (    <def title="Active point">)
-
-[//]: # (      A anchor point which has position actively bond with <code>cursor</code> position.)
-
-[//]: # (   </def>)
-
-[//]: # (    <def title="Active segment">)
-
-[//]: # (      A shape such <code>path</code> may be constituted of multiple line segments, quadratic segments, cubic segments  or empty distances. The segment which is being drawn is an active segment.)
-
-[//]: # (    </def>)
-</deflist>
-
-## Catalog and Materials
-<deflist>
     <def title="Catalog">
         <p>
         A catalog is a tree structure of the Work Breakdown Structure (WBS) that contains a list of work groups and work items, referred to as materials in BlueGrid.
@@ -86,7 +67,7 @@
             A Group-type catalog item is capable of having child items. In contrast, catalog items of the <code>Count</code>, <code>Linear</code>, <code>Area</code>, or <code>Volume</code> types are leaf items without child items and are also known as materials or work items.
         </p>
     </def>
-    <def title="Catalog Item Type">
+ <def title="Catalog Item Type">
         <p>
             A catalog item must be of the type <code>Group</code>, <code>Count</code>, <code>Linear</code>, <code>Area</code>, or <code>Volume</code>. The table below describes the properties of catalog item types:
         </p>
@@ -141,4 +122,8 @@
         </p>
     </def>
 </deflist>
+
+
+
+
 
