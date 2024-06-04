@@ -16,7 +16,7 @@ From the <code>Starter</code> window select <code>setting tab</code>.
 </step>
 <step>Select theme from theme selection <code>dropdown</code>.</step>
 <step>To change accent color, click on one of the color indicators.</step>
-<img src="select_theme.png" alt="Select theme and style" width="540"/>
+<img src="select_theme.png" alt="Select theme and style" />
 </procedure>
 
 [//]: # (<procedure title="Select language" id="select-language">)
@@ -46,7 +46,7 @@ From the <code>Starter</code> window select <code>setting tab</code>.
 <step>
     Select floating point from the floating point selection <code>dropdown</code>
 </step>
-<img src="precision_selection.png" alt="Setting floating point" width="540" />
+<img src="precision_selection.png" alt="Setting floating point"  />
 </procedure>
 
 ## Set shortcut keys 
@@ -71,29 +71,25 @@ Different groups can share shortcut keys. In the same group, shortcut keys shall
 </p>
 
 
-<img src="shortcut.png" alt="Setting shortcut keys" width="540"/>
+<img src="shortcut.png" alt="Setting shortcut keys" />
 
 </procedure>
 
 ## Import and Export setting profiles
 
-<procedure title="Save and load profiles" >
+
 <p>
-    The application setting can be saved and loaded as profiles. For example, users can save a settings profiles for different favors of use and save time on setting up the application.
+    The application setting can be saved and loaded as profiles. For example, users can save a settings profiles for different favors of use and re-load later as needed.
 </p>
-<p>
-    To save or load a setting profile, click on the <code>Setting</code> tab and scroll down to the <code>Setting Profile</code> section in the Starter window.
-</p>
-<img src="profile.png" alt="Save and load profile" width="540"/>
-</procedure>
 
 <procedure title="Import setting profiles">
 <step>
     Click on the <code>Export</code> button to save the current setting profile.
 </step>
 <step>
-    Upon clicking the <code>Export</code> button, a saving files dialog will appear where users can enter the profile name and click <code>Save</code> to save the profile to a file on the computer.
+    Upon clicking the <code>Export</code> button, a <code>Save file dialog</code> will appear where users can enter the profile name and click <code>Save</code> to save the profile to a file on the computer.
 </step>
+<img src="import_profile.png" alt="Import a setting profile"/>
 </procedure>
 
 <procedure title="Export setting profiles">
@@ -103,4 +99,5 @@ Different groups can share shortcut keys. In the same group, shortcut keys shall
 <step>
     Upon clicking the <code>Import</code> button, an <code>Open file dialog</code> will appear, navigate to the profile file and click <code>Open</code> to load the file.
 </step>
+<img src="export_setting_profile.png" alt="Export setting profile"/>
 </procedure>

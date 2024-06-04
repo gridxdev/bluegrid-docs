@@ -1,14 +1,18 @@
 name: Build documentation
 
 on:
-  push:
+  pull_request_target:
     branches: ["main"]
   workflow_dispatch:
+
+permissions:
+  id-token: write
+  pages: write
 
 env:
   INSTANCE: 'Writerside/hi'
   ARTIFACT: 'webHelpHI2-all.zip'
-  DOCKER_VERSION: '233.14938'
+  DOCKER_VERSION: '241.15989'
 
 jobs:
   build:
