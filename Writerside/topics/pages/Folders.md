@@ -23,7 +23,7 @@ Buy clicking on <code>Create folder</code> an <code>input dialog</code> will app
 <step>
 Ensure the folder name is identical and click <code>OK</code> to create the new folder.
 </step>
-<img src="create_folder.png" alt="Create folder" width="540"/>
+<img src="create_folder.png" alt="Create folder" />
 </procedure>
 
 ## Delete folders
@@ -39,7 +39,7 @@ From the <code>folder view</code>, select the folder you want to delete
 <step>
 Click on the <code>Folder menu</code> <shortcut>Alt+F</shortcut> and select <code>Delete folder</code> <shortcut>D</shortcut> menu item.
 </step>
-<img src="remove_folder.png" alt="Remove folder" width="540"/>
+<img src="delete_folder.png" alt="Delete folder" />
 
 </procedure>
 
@@ -54,7 +54,7 @@ Click on the <code>Folder menu</code> <shortcut>Alt+F</shortcut> and select <cod
 <step>
 Upon selecting the menu item, the folder item will display as an <code>input field</code>. Type in the new folder name and hit <code>enter</code>.
 </step>
-<img src="rename_folder.png" alt="Rename folder" width="540"/>
+<img src="rename_folder.png" alt="Rename folder" />
 <note>
     <p>
         The folder name must be unique.
@@ -74,7 +74,7 @@ Filtering folders facilitates users to quickly find the folder they are looking 
     Type in the texts that hint to filter the folders. The folders that contain the text will be displayed.
 </step>
 
-<img src="filter_folder.png" alt="Filter folders" width="540"/>
+<img src="filter_folder.png" alt="Filter folders" />
 </procedure>
 
 ## Sort folders
@@ -89,7 +89,7 @@ Sorting folders helps users to organize the folders in a way that is easy to fin
     Select <code>Sort</code> <shortcut>S</shortcut>menu item.
 </step>
     
-<img src="sort_folder.png" alt="Sort folders" width="540"/>
+<img src="sort_folder.png" alt="Sort folders" />
 <tip>
     You can toggle sorting folders in ascending or descending order.
 </tip>
