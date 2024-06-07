@@ -67,6 +67,7 @@ While drawing shapes, <code>point snap</code> options should be turned on to ach
     <step>
     To finish drawing the polyline, right mouse click <code>draw board</code> to remove the active extra vertex and finish the polyline.
     </step>
+<img src="draw_polyline.gif" alt="Polyline tool"/>
 </procedure>
 
 ## Polygon tool
