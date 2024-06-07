@@ -32,6 +32,7 @@ While drawing shapes, <code>point snap</code> options should be turned on to ach
     <step>
         Drag or move the mouse to the end point of the line and release or press the mouse button to finish the line.
     </step>
+    <img src="draw_line_1.gif" alt="Line tool" />
 </procedure>
 
 ## Rectangle tool
