@@ -10,7 +10,7 @@ In BlueGrid, <code>shape tools</code> are used to draw almost any type of 2D sha
 </p>
 <note>
 <p>
-Shapes belong to the Metric class; therefore, they can subscribe to materials. Once subscribed to materials, and their styling is always managed via the <code>material editor</code>.</p>
+Shapes belong to the Metric class; therefore, they can subscribe to materials.</p>
 </note>
 
 <tip>
