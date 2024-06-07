@@ -46,6 +46,7 @@ While drawing shapes, <code>point snap</code> options should be turned on to ach
     <step>
         Drag or move the mouse to the opposite corner of the rectangle and release or press the mouse button to finish the rectangle.
     </step>
+    <img src="draw_rect.gif" alt="Rectangle tool"/>
 </procedure>
 
 ## Polyline tool
