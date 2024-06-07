@@ -49,6 +49,7 @@ While drawing shapes, <code>point snap</code> options should be turned on to ach
     <img src="draw_rect.gif" alt="Rectangle tool"/>
 </procedure>
 
+
 ## Polyline tool
 <procedure >
     <p>
