@@ -32,7 +32,7 @@ While drawing shapes, <code>point snap</code> options should be turned on to ach
     <step>
         Drag or move the mouse to the end point of the line and release or press the mouse button to finish the line.
     </step>
-    <img src="draw_line_1.gif" alt="Line tool" />
+    <img src="draw_line_1.gif" alt="Draw line" />
 </procedure>
 
 ## Rectangle tool
@@ -46,7 +46,7 @@ While drawing shapes, <code>point snap</code> options should be turned on to ach
     <step>
         Drag or move the mouse to the opposite corner of the rectangle and release or press the mouse button to finish the rectangle.
     </step>
-    <img src="draw_rect.gif" alt="Rectangle tool"/>
+    <img src="draw_rect.gif" alt="Draw rectangle"/>
 </procedure>
 
 
@@ -67,7 +67,7 @@ While drawing shapes, <code>point snap</code> options should be turned on to ach
     <step>
     To finish drawing the polyline, right mouse click <code>draw board</code> to remove the active extra vertex and finish the polyline.
     </step>
-<img src="draw_polyline.gif" alt="Polyline tool"/>
+<img src="draw_polyline.gif" alt="Draw polyline"/>
 </procedure>
 
 ## Polygon tool
