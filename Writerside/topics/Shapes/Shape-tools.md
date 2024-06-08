@@ -90,6 +90,7 @@ While drawing shapes, <code>point snap</code> options should be turned on to ach
     <step>
         To finish drawing the polygon, right mouse click <code>draw board</code> to remove the active extra vertex and finish the polygon.
     </step>
+    <img src="draw_polygon.gif" alt="Draw polygon"/>
 </procedure>
 
 ## Circle tool
