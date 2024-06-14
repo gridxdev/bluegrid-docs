@@ -105,6 +105,7 @@ While drawing shapes, <code>point snap</code> options should be turned on to ach
     <step>
         Drag or move the mouse to a point on the perimeter of the circle and release or press the mouse button.
     </step>
+    <img src="draw_circle.gif" alt="Draw circle"/>
 </procedure>
 
 ## Circle 3 points tool
