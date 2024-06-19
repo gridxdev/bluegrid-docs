@@ -102,7 +102,7 @@ Click on the <code>draw board</code> to start the rectangle cloud.
 <step>
 Move the mouse to the second point and click to finish the rectangle cloud.
 </step>
-<img src="draw_rect_cloud.gif" alt="Draw rectangle cloud"/>
+<img src="draw_rect_cloud.gif" alt="Draw rectangle cloud" width="1080"/>
 </procedure>
 
 ## Text tool
@@ -116,7 +116,7 @@ Click on the <code>draw board</code> to add a simple <code>text editor</code> on
 <step>
 Type the text and click outside the <code>text editor</code> to finish the text.
 </step>
-<img src="draw_text.gif" alt="Draw text"/>
+<img src="draw_text.gif" alt="Draw text" width="1080"/>
 </procedure>
 
 ## Text box tool
@@ -130,7 +130,7 @@ Click on the <code>draw board</code> to start a simple <code>text editor</code> 
 <step>
 Type the text and click outside the <code>text editor</code> to finish the text.
 </step>
-<img src="draw_text_box.gif" alt="Draw text box"/>
+<img src="draw_text_box.gif" alt="Draw text box" width="1080"/>
 </procedure>
 
 ## Callout tool
