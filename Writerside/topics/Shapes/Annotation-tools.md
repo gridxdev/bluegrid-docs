@@ -31,6 +31,7 @@ Up on picking the second point, an input dialog will appear where you can enter 
 <step>
 Click <code>Apply</code> to set the page scale.
 </step>
+<img src="set_scale.gif" alt="Setting scale"/>
 <tip>
 <p>
    Scale of a page can be set any time, before or after drawing shapes on the page.
