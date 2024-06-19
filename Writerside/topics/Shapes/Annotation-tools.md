@@ -31,7 +31,7 @@ Up on picking the second point, an input dialog will appear where you can enter 
 <step>
 Click <code>Apply</code> to set the page scale.
 </step>
-<img src="set_scale.gif" alt="Setting scale"/>
+<img src="set_scale.gif" alt="Setting scale" width="1080"/>
 <tip>
 <p>
    Scale of a page can be set any time, before or after drawing shapes on the page.
@@ -51,6 +51,10 @@ Pick the first point on the <code>draw board</code> to start the dimension.
 <step>
 Move the mouse to the second point and click to set the dimension.
 </step>
+<img src="draw_dim.gif" alt="Draw dim" width="1080"/>
+<note>
+Dim value depends on the scale set to the page.
+</note>
 </procedure>
 
 ## Arrow tool
