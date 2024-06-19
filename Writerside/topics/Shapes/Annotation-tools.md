@@ -31,7 +31,7 @@ Up on picking the second point, an input dialog will appear where you can enter 
 <step>
 Click <code>Apply</code> to set the page scale.
 </step>
-<img src="set_scale.gif" alt="Setting scale"/>
+<img src="set_scale.gif" alt="Setting scale" width="1080"/>
 <tip>
 <p>
    Scale of a page can be set any time, before or after drawing shapes on the page.
@@ -51,6 +51,10 @@ Pick the first point on the <code>draw board</code> to start the dimension.
 <step>
 Move the mouse to the second point and click to set the dimension.
 </step>
+<img src="draw_dim.gif" alt="Draw dim" width="1080"/>
+<note>
+Dim value depends on the scale set to the page.
+</note>
 </procedure>
 
 ## Arrow tool
@@ -64,6 +68,7 @@ Pick the first point on the <code>draw board</code> to start the arrow.
 <step>
 Move the mouse to the second point and click to finish the arrow.
 </step>
+<img src="draw_arrow.gif" alt="Draw arrow" width="1080"/>
 </procedure>
 
 ## Poly cloud tool
@@ -83,6 +88,7 @@ Repeat the previous step to add more anchor points.
 <step>
 Right-click to finish the poly cloud.
 </step>
+<img src="draw_poly_cloud.gif" alt="Draw poly cloud" width="1080"/>
 </procedure>
 
 ## Rectangle cloud tool
@@ -96,6 +102,7 @@ Click on the <code>draw board</code> to start the rectangle cloud.
 <step>
 Move the mouse to the second point and click to finish the rectangle cloud.
 </step>
+<img src="draw_rect_cloud.gif" alt="Draw rectangle cloud"/>
 </procedure>
 
 ## Text tool
@@ -109,6 +116,7 @@ Click on the <code>draw board</code> to add a simple <code>text editor</code> on
 <step>
 Type the text and click outside the <code>text editor</code> to finish the text.
 </step>
+<img src="draw_text.gif" alt="Draw text"/>
 </procedure>
 
 ## Text box tool
@@ -122,6 +130,7 @@ Click on the <code>draw board</code> to start a simple <code>text editor</code> 
 <step>
 Type the text and click outside the <code>text editor</code> to finish the text.
 </step>
+<img src="draw_text_box.gif" alt="Draw text box"/>
 </procedure>
 
 ## Callout tool
