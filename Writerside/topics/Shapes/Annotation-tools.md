@@ -150,6 +150,7 @@ Click on the <code>draw board</code> to add the text box of the callout.
 <step>
 Type the text and click outside the <code>text editor</code> to finish the text.
 </step>
+<img src="Calllout.gif" alt="Draw callout"/>
 </procedure>
 
 ## Quad callout tool
