@@ -17,7 +17,7 @@ Click to open <code>Page menu</code><shortcut>Alt+P</shortcut> select <code>Add 
 <step>
 Navigate to the PDF files and click <code>Open</code> from the <code>open file dialog</code>.
 </step>
-<img src="add_pdf.png" alt="Add PDFs to a folder" width="540"/>
+<img src="add_pdf.png" alt="Add PDFs to a folder" width="1080" />
 <tip>
 You can simply add PDF pages to a folder by dragging and dropping PDF files to the <code>Page view</code> of the folder.
 </tip>
@@ -44,7 +44,7 @@ Navigate to the PDF file you want to replace the page with and click <code>Open<
 <step>
 Upon opening the PDF file, A PDF file preview will display, select the page to replace and click button <code>Select</code>
 </step>
-<img src="replace_page.png" alt="Replace page" width="540"/>
+<img src="replace_page.png" alt="Replace page" width="1080" />
 <note>
     BlueGrid will take the first page of the PDF file to replace the page.
 </note>
@@ -61,7 +61,7 @@ Upon opening the PDF file, A PDF file preview will display, select the page to r
 <step>
     Select menu item <code>Duplicate</code>
 </step>
-<img src="duplicate_page.png" alt="Duplicate a page" width="540"/>
+<img src="duplicate_page.png" alt="Duplicate a page" width="1080" />
 </procedure>
 
 ## Add page version
@@ -100,7 +100,7 @@ Upon opening the PDF file, A PDF file preview will display, select the page to r
 <step>
     Select the rotation direction <code>Clockwise</code> or <code>Counter-clockwise</code>
 </step>
-<img src="rotate_page.png" alt="Rotate page" width="540"/>
+<img src="rotate_page.png" alt="Rotate page" width="1080" />
 <note>
     The rotation is applied to the last version of the page.
 </note>
@@ -120,7 +120,7 @@ From <code>Page menu</code> select <code>Export to PDF</code> item.
 <step>
 Navigate to the location you want to save the PDF files and click <code>Save</code> from the dialog window.
 </step>
-<img src="export_pdf.png" alt="Export to PDF" width="540"/>
+<img src="export_pdf.png" alt="Export to PDF" width="1080" />
 <tip>
         You can always select multiple pages to export to one PDF file.
 </tip>
@@ -143,7 +143,7 @@ Select the pages you want to remove in the <code>Page view</code>.
 <step>
 From <code>Page menu</code> select <code>Remove</code> item.
 </step>
-<img src="remove_page.png" alt="Remove page" width="540"/>
+<img src="remove_page.png" alt="Remove page" width="1080" />
 
 </procedure>
 
@@ -183,7 +183,7 @@ In BlueGrid, page properties of a page such as name, scale.
 <step>
     Set the page properties in the <code>Properties dialog</code> and click <code>OK</code> to save the properties.
 </step>
-<img src="set_page_properties.png" alt="Set page properties" width="540"/>
+<img src="set_page_properties.png" alt="Set page properties" width="1080" />
 <note>
     The recommended method to set scale to a page to use <code>Scale tool</code> in <code>annotation tool set</code> in <code>Draw view</code>.
     <a href="Annotation-tools.md" anchor="scale-tool">Learn more about scale tool</a>
@@ -204,7 +204,7 @@ In BlueGrid, page properties of a page such as name, scale.
 <step>
     Type complete or a part of the page name in the <code>Filter</code> input box.
 </step>
-<img src="filter_pages.png" alt="Filter pages" width="540"/>
+<img src="filter_pages.png" alt="Filter pages" width="1080" />
 </procedure>
 
 ## Find PDF pages by text content
@@ -224,8 +224,6 @@ In BlueGrid, page properties of a page such as name, scale.
 <step>
     Hit button <code>Search</code> to trigger search.
 </step>
-
-[//]: # (<img src="search_page.png" alt="Search pages" width="540"/>)
 <note>
     BlueGrid will list all pages that contain the text hint in the search result.
 </note>
