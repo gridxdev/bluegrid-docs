@@ -32,7 +32,7 @@ While drawing shapes, <code>point snap</code> options should be turned on to ach
     <step>
         Drag or move the mouse to the end point of the line and release or press the mouse button to finish the line.
     </step>
-    <img src="draw_line_1.gif" alt="Draw line" />
+    <img src="draw_line_1.gif" alt="Draw line" width="1080"/>
 </procedure>
 
 ## Rectangle tool
@@ -46,7 +46,7 @@ While drawing shapes, <code>point snap</code> options should be turned on to ach
     <step>
         Drag or move the mouse to the opposite corner of the rectangle and release or press the mouse button to finish the rectangle.
     </step>
-    <img src="draw_rect.gif" alt="Draw rectangle"/>
+    <img src="draw_rect.gif" alt="Draw rectangle" width="1080" />
 </procedure>
 
 
@@ -67,7 +67,7 @@ While drawing shapes, <code>point snap</code> options should be turned on to ach
     <step>
     To finish drawing the polyline, right mouse click <code>draw board</code> to remove the active extra vertex and finish the polyline.
     </step>
-<img src="draw_polyline.gif" alt="Draw polyline"/>
+<img src="draw_polyline.gif" alt="Draw polyline" width="1080"/>
 </procedure>
 
 ## Polygon tool
@@ -90,7 +90,7 @@ While drawing shapes, <code>point snap</code> options should be turned on to ach
     <step>
         To finish drawing the polygon, right mouse click <code>draw board</code> to remove the active extra vertex and finish the polygon.
     </step>
-    <img src="draw_polygon.gif" alt="Draw polygon"/>
+    <img src="draw_polygon.gif" alt="Draw polygon" width="1080" />
 </procedure>
 
 ## Circle tool
@@ -105,7 +105,7 @@ While drawing shapes, <code>point snap</code> options should be turned on to ach
     <step>
         Drag or move the mouse to a point on the perimeter of the circle and release or press the mouse button.
     </step>
-    <img src="draw_circle.gif" alt="Draw circle"/>
+    <img src="draw_circle.gif" alt="Draw circle" width="1080" />
 </procedure>
 
 ## Circle 3 points tool
@@ -119,7 +119,7 @@ While drawing shapes, <code>point snap</code> options should be turned on to ach
     <step>
         Drag or move the mouse to a point on the perimeter of the circle and release or press the mouse button.
     </step>
-    <img src="draw_circle_3.gif" alt="Draw circle 3 points"/>
+    <img src="draw_circle_3.gif" alt="Draw circle 3 points" width="1080"/>
 </procedure>
 
 ## Arc tool
@@ -217,9 +217,7 @@ A spline is a smooth curve that is defined by a sequence of points. The curve pa
 
 ## Path tool
 <p>
-A path is a sequence of connected lines, curves and moves (empty distances). In BlueGrid, drawing a path is to consequently and continuously draw path elements. In BlueGrid, there are 6 types of Path Elements: Line, Quad Curve, Cubic Curve, Arc, Move, and Close. 
-Adjacent path elements are connected, the last control point of the previous path element is the first control point of the next path element. 
-To draw different path elements, switch to the corresponding path mode. This can be done by switching directly from the path mode choice box or switch by using shortcut keys. Below is the path mode shortcut keys table:
+A path in BlueGrid represents a sequence of connected lines, curves, and movements (empty distances). When drawing a path in BlueGrid, you continuously create path elements. These elements come in six types: Line, Quad Curve, Cubic Curve, Arc, Move, and Close. Adjacent path elements are linked together, with the last control point of the previous element serving as the first control point of the next one. To draw different path elements, switch to the corresponding path mode. You can do this either directly from the path mode choice box or by using convenient shortcut keys. Below, you’ll find a table of the available path mode shortcuts:
 </p>
 
 | Shortcut Key       | Path mode/Action      | Draw                           | Path element         | Visible  |
@@ -312,10 +310,12 @@ The first element of a path is always a Move element and is automatically create
     <step>
         To finish drawing the path, right mouse click <code>draw board</code> to remove the active extra vertex and finish the path.
     </step>
+
+
+
 <tip>
 With path tool, you can draw complex shapes with multiple segments such as line, skip (empty distance), quadratic segment, cubic segment, arc segment, and with zero or multiple wholes inside.
 </tip>
-
 </procedure>
 
 
