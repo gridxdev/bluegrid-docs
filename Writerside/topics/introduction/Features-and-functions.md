@@ -139,4 +139,13 @@ The page is under construction. Please check back later.
         <li>List material quantity table on PDF page</li>
     </list>
 </li>
+
+<li><b>Cloud Synchronization</b>
+    <list type="decimal" start="1">
+    <li>Push data of all domains or specific domains from local GDX database to one or multiple targeted Google Drive folders (Repositories) </li>
+    <li>
+       Pull data of all domains or specific domain from one or multiple source Google Drive folders (Repositories) to the local GDX database.
+    </li>
+    </list>
+</li>
 </list>
