@@ -217,9 +217,7 @@ A spline is a smooth curve that is defined by a sequence of points. The curve pa
 
 ## Path tool
 <p>
-A path is a sequence of connected lines, curves and moves (empty distances). In BlueGrid, drawing a path is to consequently and continuously draw path elements. In BlueGrid, there are 6 types of Path Elements: Line, Quad Curve, Cubic Curve, Arc, Move, and Close. 
-Adjacent path elements are connected, the last control point of the previous path element is the first control point of the next path element. 
-To draw different path elements, switch to the corresponding path mode. This can be done by switching directly from the path mode choice box or switch by using shortcut keys. Below is the path mode shortcut keys table:
+A path in BlueGrid represents a sequence of connected lines, curves, and movements (empty distances). When drawing a path in BlueGrid, you continuously create path elements. These elements come in six types: Line, Quad Curve, Cubic Curve, Arc, Move, and Close. Adjacent path elements are linked together, with the last control point of the previous element serving as the first control point of the next one. To draw different path elements, switch to the corresponding path mode. You can do this either directly from the path mode choice box or by using convenient shortcut keys. Below, you’ll find a table of the available path mode shortcuts:
 </p>
 
 | Shortcut Key       | Path mode/Action      | Draw                           | Path element         | Visible  |
