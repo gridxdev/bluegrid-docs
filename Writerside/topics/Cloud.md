@@ -1,5 +1,7 @@
 # Cloud
 
+<card-summary>Share, collect, flow project blueprints and data</card-summary>
+
 Cloud functions is provided by <b>Cloud Pack I</b>
 
 ## Configuration flow charts
