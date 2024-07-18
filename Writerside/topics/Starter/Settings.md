@@ -84,20 +84,20 @@ Different groups can share shortcut keys. In the same group, shortcut keys shall
 
 <procedure title="Export setting profiles">
 <step>
-    Click on the <code>Export</code> button to open <code>save file dialog</code> window.
+    Click on the <code>Export</code> button to open the <code>save file dialog</code> window.
 </step>
 <step>
     In the <code>save file dialog</code>, enter the profile file's name and click <code>Save</code> to save the profile on the computer.
 </step>
-<img src="import_profile.png" alt="Import a setting profile"/>
+<img src="export_setting_profile.png" alt="Export a setting profile"/>
 </procedure>
 
-<procedure title="Export setting profiles">
+<procedure title="Import setting profiles">
 <step>
-    To load a setting profile, click on the <code>Import</code> button.
+    To load a setting profile, click on the <code>Import</code> button to open the <code>Open file dialog</code> window.
 </step>
 <step>
-    Upon clicking the <code>Import</code> button, an <code>Open file dialog</code> will appear, navigate to the profile file and click <code>Open</code> to load the file.
+    Navigate to the profile file and click <code>Open</code> to load the file.
 </step>
-<img src="export_setting_profile.png" alt="Export setting profile"/>
+<img src="import_profile.png" alt="Import setting profile"/>
 </procedure>
