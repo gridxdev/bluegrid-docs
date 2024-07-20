@@ -4,7 +4,8 @@
 </tldr>
 
 <card-summary>Pages and PDF blueprints</card-summary>
-<link-summary>Pages and PDF blueprints</link-summary>
+
+[//]: # (<link-summary>Pages and PDF blueprints</link-summary>)
 
 ## Add PDF pages
 <procedure >

@@ -24,6 +24,8 @@
     <a href="Symbol-tools.md">Counting blocks</a>
     <a href="Tree-Catalog.md">Catalogs</a>
     <a href="Material.md">Materials</a>
+    <a href="Cloud.md">Cloud Flows and Sharing</a>
+
 </secondary>
 <misc>
 <cards>
