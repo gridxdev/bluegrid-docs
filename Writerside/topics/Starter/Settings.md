@@ -12,7 +12,7 @@
 The application has 4 themes: Prime, Nord, Cupertino, and Dracula, each is with dark and light modes.
 </p>
 <step>
-From the <code>Starter</code> window select <code>setting tab</code>.
+From the <code>Starter</code> window select <code>setting</code> tab.
 </step>
 <step>Select theme from theme selection <code>dropdown</code>.</step>
 <step>To change accent color, click on one of the color indicators.</step>
@@ -41,7 +41,7 @@ From the <code>Starter</code> window select <code>setting tab</code>.
 
 <procedure title="Set floating point" >
 <step>
-    From the Starter window select setting tab
+    From the <code>Starter</code> window select <code>setting</code> tab
 </step>
 <step>
     Select floating point from the floating point selection <code>dropdown</code>
@@ -79,25 +79,25 @@ Different groups can share shortcut keys. In the same group, shortcut keys shall
 
 
 <p>
-    The application setting can be saved and loaded as profiles. For example, users can save a settings profiles for different favors of use and re-load later as needed.
+    The application settings can be saved and loaded as profiles. Users can save settings profiles for different purposes and reload them later as needed.
 </p>
-
-<procedure title="Import setting profiles">
-<step>
-    Click on the <code>Export</code> button to save the current setting profile.
-</step>
-<step>
-    Upon clicking the <code>Export</code> button, a <code>Save file dialog</code> will appear where users can enter the profile name and click <code>Save</code> to save the profile to a file on the computer.
-</step>
-<img src="import_profile.png" alt="Import a setting profile"/>
-</procedure>
 
 <procedure title="Export setting profiles">
 <step>
-    To load a setting profile, click on the <code>Import</code> button.
+    Click on the <code>Export</code> button to open the <code>save file dialog</code> window.
 </step>
 <step>
-    Upon clicking the <code>Import</code> button, an <code>Open file dialog</code> will appear, navigate to the profile file and click <code>Open</code> to load the file.
+    In the <code>save file dialog</code>, enter the profile file's name and click <code>Save</code> to save the profile on the computer.
 </step>
-<img src="export_setting_profile.png" alt="Export setting profile"/>
+<img src="export_setting_profile.png" alt="Export a setting profile"/>
+</procedure>
+
+<procedure title="Import setting profiles">
+<step>
+    To load a setting profile, click on the <code>Import</code> button to open the <code>Open file dialog</code> window.
+</step>
+<step>
+    Navigate to the profile file and click <code>Open</code> to load the file.
+</step>
+<img src="import_profile.png" alt="Import setting profile"/>
 </procedure>
