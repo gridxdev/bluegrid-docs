@@ -5,12 +5,12 @@
 <title>Discover BlueGrid</title>
 <description>Get started with BlueGrid</description>
 <spotlight>
-    <a href="Projects.md"  type="start" description="Sed condimentum feugiat sagittis" >Create a BlueGrid project</a>
-    <a href="Features-and-functions.md" type="search">Discover BlueGrid features</a>
+    <a href="Projects.md"  type="start"  >Create BlueGrid projects</a>
+    <a href="Features-and-functions.md" type="search">Explore the features and functions of BlueGrid</a>
 </spotlight>
 <primary>
     <title>
-        Pages and PDF blueprints
+        Pages and blueprints
     </title>
     <a href="Folders.md"></a>
     <a href="pages.md">Pages and PDFs</a>
