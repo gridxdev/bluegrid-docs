@@ -1,6 +1,6 @@
 # Symbol tools
 
-<card-summary>Dynamic counting symbols of any shapes</card-summary>
+<card-summary>Customizable counting symbols, made from any shapes</card-summary>
 
 ## Count with symbol
 
