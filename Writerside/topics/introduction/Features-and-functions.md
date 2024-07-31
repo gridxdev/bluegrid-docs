@@ -24,7 +24,7 @@ The page is under construction. Please check back later.
         <li><a href="pages.md" anchor="rotate-pdf-pages" >Rotate pages: Clockwise, counter-clockwise</a></li>
         <li><a href="pages.md" >Re-index pages</a></li>
         <li><a href="pages.md">Sort pages by name</a></li>
-        <li><a href="pages.md">Sort pages by index</a></li>
+        <li><a href="pages.md" anchor="sort-by-index">Sort pages by index</a></li>
         <li><a href="pages.md" anchor="set-page-properties">Set page properties: Name, page index, scale</a></li>
     </list>
 </li>

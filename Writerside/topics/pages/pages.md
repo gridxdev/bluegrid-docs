@@ -167,6 +167,23 @@ From <code>Page menu</code> select <code>Remove</code> item.
 </note>
 </procedure>
 
+## Sort pages by index
+<procedure>
+<step>
+    From <code>Page view</code> open <code>page menu</code>.
+</step>
+<step>
+    Select menu item <code>Sort</code>.
+</step>
+<step>
+    Select sub menu item <code>By index</code>
+</step>
+<img src="sort_by_index.png" alt="Sort pages by index" width="1080" />
+<note>
+    BlueGrid will sort the pages by index in ascending order. To sort in descending order, repeat the procedure.
+</note>
+</procedure>
+
 ## Set page properties
 <p>
 In BlueGrid, page properties of a page such as name, scale.
