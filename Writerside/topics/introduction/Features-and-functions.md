@@ -145,10 +145,11 @@ The page is under construction. Please check back later.
 
 <li><b>Cloud Synchronization</b>
     <list type="decimal" start="1">
-    <li>Push data of all domains or specific domains from local GDX database to one or multiple targeted Google Drive folders (Repositories) </li>
     <li>
-       Pull data of all domains or specific domain from one or multiple source Google Drive folders (Repositories) to the local GDX database.
+        Push data from all domains or specific domains in the local GDX database to one or multiple targeted Google Drive folders (repositories).
     </li>
+    <li>
+Pull data from all domains or specific domains from one or multiple source Google Drive folders (repositories) to the local GDX database.    </li>
     </list>
 </li>
 </list>
