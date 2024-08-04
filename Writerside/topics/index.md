@@ -1,6 +1,5 @@
 # Getting Started
 
-
 <section-starting-page>
 <title>Discover BlueGrid</title>
 <description>Get started with BlueGrid</description>
