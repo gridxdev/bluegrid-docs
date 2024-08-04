@@ -1,6 +1,6 @@
 # Features and functions
 
-The page is under construction. Please check back later.
+[//]: # (<card-summary>Draw shapes to measure quantity</card-summary>)
 
 <list type="bullet" >
 <li><a href="Folders.md"><b>Folders</b></a>
@@ -22,7 +22,10 @@ The page is under construction. Please check back later.
         <li><a href="pages.md" anchor="delete-pages">Delete pages</a></li>
         <li><a href="pages.md" anchor="delete-page-versions">Delete page versions</a></li>
         <li><a href="pages.md" anchor="rotate-pdf-pages" >Rotate pages: Clockwise, counter-clockwise</a></li>
-        <li><a href="pages.md" anchor="set-page-properties"> Set page properties: Name, scale</a></li>
+        <li><a href="pages.md" >Re-index pages</a></li>
+        <li><a href="pages.md">Sort pages by name</a></li>
+        <li><a href="pages.md" anchor="sort-pages-by-index">Sort pages by index</a></li>
+        <li><a href="pages.md" anchor="set-page-properties">Set page properties: Name, page index, scale</a></li>
     </list>
 </li>
 <li><b>Draw</b>
@@ -39,8 +42,8 @@ The page is under construction. Please check back later.
                 <li><a href="Shape-tools.md" anchor="arc-tool">Arc</a></li>
                 <li><a href="Shape-tools.md" anchor="path-tool">Path</a></li>
                 <li><a href="Shape-tools.md" anchor="spline-tool">Spline</a></li>
-                <li><a href="Shape-tools.md" anchor="quad-curve-tool">Quad Curve</a></li>
-                <li><a href="Shape-tools.md" anchor="cubic-curve-tool">Cubic Curve</a></li>
+                <li><a href="Shape-tools.md" anchor="quad-curve-tool">Quad curve</a></li>
+                <li><a href="Shape-tools.md" anchor="cubic-curve-tool">Cubic curve</a></li>
             </list>
         </li>
         <li>Annotations
@@ -63,14 +66,14 @@ The page is under construction. Please check back later.
         </li>
         <li>Extract shapes
             <list type="decimal" start="1">
-                <li>Get shapes from PDF</li>
+                <li><a href="Shape-tools.md" anchor="extract-shapes-from-pdf" >Get shapes from PDF</a></li>
             </list>
         </li>
         <li>Block shapes
             <list type="decimal" start="1">
-                <li>Convert a shape to countable a shape block</li>
-                <li>Import countable shape blocks from Json files</li>
-                <li>Export countable shape blocks to Json files</li> 
+                <li><a href="Symbol-tools.md" anchor="build-symbols-from-shapes" >Build counting symbols with shapes</a></li>
+                <li>Import countable symbols from Json files</li>
+                <li>Export countable symbols to Json files</li> 
             </list>
         </li>
         <li>Transform shapes
@@ -146,7 +149,7 @@ The page is under construction. Please check back later.
         Push data from all domains or specific domains in the local GDX database to one or multiple targeted Google Drive folders (repositories).
     </li>
     <li>
-Pull data from all domains or specific domains from one or multiple source Google Drive folders (repositories) to the local GDX database.    </li>
+        Pull data from all domains or specific domains from one or multiple source Google Drive folders (repositories) to the local GDX database.    </li>
     </list>
 </li>
 </list>

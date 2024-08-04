@@ -47,6 +47,7 @@ Open <code>Drawboard</code>'s menu and select <code>Build path</code> menu item.
 <step>
 Select the built path and open <code>Drawboard</code>'s menu and select <code>Make symbol</code> menu item. The created symbol is then added to the <code>Symbol tool set</code>
 </step>
+<img src="build_counting_symbol.gif" alt="Build counting symbols from PDF" width="1080"/>
 </procedure>
 
 ## Export symbol set

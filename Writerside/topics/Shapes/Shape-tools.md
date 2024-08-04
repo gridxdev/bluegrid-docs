@@ -24,7 +24,7 @@ While drawing shapes, <code>point snap</code> options should be turned on to ach
 ## Line tool
 <procedure >
     <step>
-        Select the <code>Line tool</code>   from the <code>shape tool set</code>.
+        Select the <code>Line tool</code> from the <code>shape tool set</code>.
     </step>
     <step>
         Left mouse click to pick the start point of the line.
@@ -220,6 +220,10 @@ A spline is a smooth curve that is defined by a sequence of points. The curve pa
 A path in BlueGrid represents a sequence of connected lines, curves, and movements (empty distances). When drawing a path in BlueGrid, you continuously create path elements. These elements come in six types: Line, Quad Curve, Cubic Curve, Arc, Move, and Close. Adjacent path elements are linked together, with the last control point of the previous element serving as the first control point of the next one. To draw different path elements, switch to the corresponding path mode. You can do this either directly from the path mode choice box or by using convenient shortcut keys. Below, you’ll find a table of the available path mode shortcuts:
 </p>
 
+<note>
+The shortcut keys used in this manual is by default. You can change the shortcut keys from the <code>Settings</code> menu.
+</note>
+
 | Shortcut Key       | Path mode/Action      | Draw                           | Path element         | Visible  |
 |:-------------------|:----------------------|:-------------------------------|:---------------------|:---------|
 | <code>0</code>     | <code>Move to</code>  | Pick one point                 | Empty distance       | NO       |
@@ -316,6 +320,20 @@ The first element of a path is always a Move element and is automatically create
 <tip>
 With path tool, you can draw complex shapes with multiple segments such as line, skip (empty distance), quadratic segment, cubic segment, arc segment, and with zero or multiple wholes inside.
 </tip>
+</procedure>
+
+## Extract shapes from PDF
+<procedure >
+<step>
+Select <code>PDF shape selection tool</code> from the <code>Draw view</code>'s main <code>toolbar</code>
+</step>
+<step>
+Press left mouse button and drag to select shapes from the PDF on the <code>Drawboard</code>
+</step>
+<step>
+Release the mouse button to finish the selection.
+</step>
+<img src="extract_shape_from_pdf.gif" alt="Extract shapes from PDF" width="1080"/>
 </procedure>
 
 
