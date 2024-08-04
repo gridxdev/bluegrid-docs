@@ -25,7 +25,6 @@
     <a href="Tree-Catalog.md">Catalogs</a>
     <a href="Material.md">Materials</a>
     <a href="Cloud.md">Cloud Flows and Sharing</a>
-
 </secondary>
 <misc>
 <cards>
@@ -34,8 +33,5 @@
     <a href="Shortcut-Keys.md">Shortcut keys</a>
     <a href="Resources.md">Resources</a>
 </cards>
-
-  
 </misc>
-
 </section-starting-page>

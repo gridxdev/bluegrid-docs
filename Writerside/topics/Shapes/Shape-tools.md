@@ -24,7 +24,7 @@ While drawing shapes, <code>point snap</code> options should be turned on to ach
 ## Line tool
 <procedure >
     <step>
-        Select the <code>Line tool</code>   from the <code>shape tool set</code>.
+        Select the <code>Line tool</code> from the <code>shape tool set</code>.
     </step>
     <step>
         Left mouse click to pick the start point of the line.
