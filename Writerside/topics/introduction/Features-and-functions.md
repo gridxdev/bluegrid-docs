@@ -22,7 +22,10 @@
         <li><a href="pages.md" anchor="delete-pages">Delete pages</a></li>
         <li><a href="pages.md" anchor="delete-page-versions">Delete page versions</a></li>
         <li><a href="pages.md" anchor="rotate-pdf-pages" >Rotate pages: Clockwise, counter-clockwise</a></li>
-        <li><a href="pages.md" anchor="set-page-properties"> Set page properties: Name, scale</a></li>
+        <li><a href="pages.md" >Re-index pages</a></li>
+        <li><a href="pages.md">Sort pages by name</a></li>
+        <li><a href="pages.md" anchor="sort-by-index">Sort pages by index</a></li>
+        <li><a href="pages.md" anchor="set-page-properties">Set page properties: Name, page index, scale</a></li>
     </list>
 </li>
 <li><b>Draw</b>
