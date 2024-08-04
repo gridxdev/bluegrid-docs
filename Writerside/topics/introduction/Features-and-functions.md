@@ -24,7 +24,7 @@
         <li><a href="pages.md" anchor="rotate-pdf-pages" >Rotate pages: Clockwise, counter-clockwise</a></li>
         <li><a href="pages.md" >Re-index pages</a></li>
         <li><a href="pages.md">Sort pages by name</a></li>
-        <li><a href="pages.md" anchor="sort-by-index">Sort pages by index</a></li>
+        <li><a href="pages.md" anchor="sort-pages-by-index">Sort pages by index</a></li>
         <li><a href="pages.md" anchor="set-page-properties">Set page properties: Name, page index, scale</a></li>
     </list>
 </li>
@@ -66,12 +66,12 @@
         </li>
         <li>Extract shapes
             <list type="decimal" start="1">
-                <li>Get shapes from PDF</li>
+                <li><a href="Shape-tools.md" anchor="extract-shapes-from-pdf" >Get shapes from PDF</a></li>
             </list>
         </li>
         <li>Block shapes
             <list type="decimal" start="1">
-                <li>Convert shapes to countable symbols</li>
+                <li><a href="Symbol-tools.md" anchor="build-symbols-from-shapes" >Build counting symbols with shapes</a></li>
                 <li>Import countable symbols from Json files</li>
                 <li>Export countable symbols to Json files</li> 
             </list>

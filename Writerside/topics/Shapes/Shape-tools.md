@@ -318,5 +318,19 @@ With path tool, you can draw complex shapes with multiple segments such as line,
 </tip>
 </procedure>
 
+## Extract shapes from PDF
+<procedure >
+<step>
+Select <code>PDF shape selection tool</code> from the <code>Draw view</code>'s main <code>toolbar</code>
+</step>
+<step>
+Press left mouse button and drag to select shapes from the PDF on the <code>Drawboard</code>
+</step>
+<step>
+Release the mouse button to finish the selection.
+</step>
+<img src="extract_shape_from_pdf.gif" alt="Extract shapes from PDF" width="1080"/>
+</procedure>
+
 
 
